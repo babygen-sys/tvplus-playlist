@@ -1,0 +1,33 @@
+{
+ "channels":[
+
+{
+"id":"1",
+"name":"CH7HD",
+"logo":"https://upload.wikimedia.org/wikipedia/th/7/7e/Channel_7_HD_Logo.png",
+"group":"TV-TH"
+},
+
+{
+"id":"2",
+"name":"MONO29",
+"logo":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Mono29_Logo.png",
+"group":"TV-TH"
+},
+
+{
+"id":"3",
+"name":"PPTV HD",
+"logo":"https://upload.wikimedia.org/wikipedia/th/7/7f/PPTV_HD_36.png",
+"group":"TV-TH"
+},
+
+{
+"id":"4",
+"name":"Workpoint",
+"logo":"https://upload.wikimedia.org/wikipedia/th/5/51/Workpoint_TV_logo.png",
+"group":"ENTERTAINMENT"
+}
+
+]
+}
