@@ -25,57 +25,148 @@ http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="ฟรีทีวีไทย",MOVIE 
 http://49.0.64.96:8007/IZAA
 
-#EXTINF:-1 group-title="ฟรีทีวีไทย" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO
+
+
+===================================================================
+
+
+
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO
 http://1tv41.icu:8080/30796360/97446561/9264
 
-#EXTINF:-1 group-title="ฟรีทีวีไทย",TOM & JERRY
+#EXTINF:-1 group-title="บันเทิง",TOM & JERRY
 #EXTVLCOPT:network-caching=1000
 http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
 
-#EXTINF:-1 group-title="ฟรีทีวีไทย",ANIMAL PLANET 1
+#EXTINF:-1 group-title="บันเทิง",ANIMAL PLANET 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 http://179.63.6.15:8002/play/a02p
 
-#EXTINF:-1 group-title="ฟรีทีวีไทย",ANIMAL PLANET 2
+#EXTINF:-1 group-title="บันเทิง",ANIMAL PLANET 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 http://202.169.224.202:8800/udp/239.9.1.7:1234
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/cartoonnetwork.png" group-title="MOVIE",Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/cartoonnetwork.png" group-title="บันเทิง",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
-#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png" group-title="MOVIE",Nick Jr
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png" group-title="บันเทิง",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
-#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="MOVIE",Nickelodeon
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="บันเทิง",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
-#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="MOVIE",Cartoonito
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="บันเทิง",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="MOVIE",Cinemax
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="บันเทิง",Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/Cinemax_EN/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="3BB106" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="MOVIE",ช่อง 106 HD
+#EXTINF:-1 tvg-id="3BB106" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="บันเทิง",ช่อง 106 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-#EXTINF:-1 tvg-name="Channel 107" group-title="MOVIE",Channel 107
+#EXTINF:-1 tvg-name="Channel 107" group-title="บันเทิง",Channel 107
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+
+
+
+============================
+
+
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo=https://www.imgx03.xyz/assets/movie_poster/7/74a7782a1d98ac85ccdb89d81c8de6d0.jpg" ,Exit 8 (2025) - ทางออกหมายเลข 8 ภาพมาสเตอร์ [ไทยโรง][ซับไทย]
+https://movie06.oneplayer.online:11231/api/video/Storage00%2FGXAYMiM%2FGXAYMiM_720.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo=https://www.imgx04.xyz/assets/movie_poster/7/76654e6a7b4f418cfbfc04344cd0a7df.jpg" ,ธี่หยด 3
+https://statics-02.duckduckcdn.com/ae710ee8-0681-507f-ad90-877f85f9b3fb/videos/1080p.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo= https://www.123hdtv.com/wp-content/uploads/2026/01/The-Real-Monkey-King-2026-300x450.png" ,The Real Monkey King (2026) คาถารัตเกล้าแห่งภูผาไร้อารยะ
+https://main.24playerhd.com/newplaylist/391e9635963394c78a767ed0/391e9635963394c78a767ed0438.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024.jpg " ,Deaw Still Alive (2026) เดี่ยว สตีล อะไลฟ์
+https://main.24playerhd.com/m3u8/fb24105d68f2b4f428909236/fb24105d68f2b4f428909236438.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024.jpg " ,Deaw Still Alive (2026) เดี่ยว สตีล อะไลฟ์
+https://m3u8haha.com/movie/M14377.mp4/chunk.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/96-Minutes-2025-96-%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95-187x269.png " ,96 Minutes (2025) 96 นาทีชีวิต
+https://main.24playerhd.com/newplaylist/8902fafd336db05187fc7bff/8902fafd336db05187fc7bff.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Send-Help-2026-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5-187x269.png " ,Send Help (2026) โปรดส่งใครมาช่วยฉันที
+https://main.24playerhd.com/m3u8/97a31b2ca644b89c319ce5c9/97a31b2ca644b89c319ce5c9168.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/The-Wrecking-Crew-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AE%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%A2-187x269.png " ,The Wrecking Crew (2026) คู่พยัคฆ์เดือด เชือดเจ้าพ่อฮาวาย
+https://main.24playerhd.com/newplaylist/8148988604a36db26475e577/8148988604a36db26475e577.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Mercy-2025-90-%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.png " ,Mercy (2025) 90 นาทีสั่งตาย
+https://main.24playerhd.com/newplaylist/7d35fa31e8b9f3eee7c5b03a/7d35fa31e8b9f3eee7c5b03a.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Primate-2026-%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%94%E0%B8%B4%E0%B8%9A-187x269.png " ,Primate (2026) ลิงคลั่งพันธุ์ดิบ 
+https://main.24playerhd.com/newplaylist/6b1c881e92e88a28e444fcd7/6b1c881e92e88a28e444fcd7.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Dead-to-Rights-2025-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%87-187x269.png " ,Dead to Rights (2025) บันทึก หนานจิง
+https://main.24playerhd.com/newplaylist/7487ab473f36d1cdaaf38c2c/7487ab473f36d1cdaaf38c2c.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/A-Letter-to-My-Youth-2026-%E0%B8%88%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B9%8C-187x269.png " ,A Letter to My Youth (2026) จดหมายถึงฉันในวัยเยาว์
+https://main.24playerhd.com/m3u8/1b9984e6cb031d20a3882ab9/1b9984e6cb031d20a3882ab9168.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/The-Sniper-2026-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%AC-187x269.png " ,The Sniper (2026) มือปืนเทพพระกาฬ
+https://main.24playerhd.com/m3u8/78a34cae47bd572d5bbd1560/78a34cae47bd572d5bbd1560168.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/The-RIP-2026-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%84%E0%B8%99-187x269.png " ,The Rip (2026) เงินบาปกระชากคน
+https://main.24playerhd.com/newplaylist/3544b8b0cd26e525a7a11027/3544b8b0cd26e525a7a11027.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Nuremberg-2025-187x269.png " ,Nuremberg (2025)
+https://main.24playerhd.com/m3u8/6b62f3305960248d26984c60/6b62f3305960248d26984c60168.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Memori-2025-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3-187x269.png" ,Memori (2025) ความทรงจำ
+https://main.24playerhd.com/m3u8/85483952326983d1bc839add/85483952326983d1bc839add168.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img10.xyz/assets/movie_poster/3/3d7914e11f4bad21d5de5772e01e6877.jpg " ,ผีพารวย (2024)
+https://movie08.oneplayer.online:11231/api/video/Storage11%2F178.175.142.172%2Fhome%2Fhls_file_storage%2FrTXdJdg%2Ffile_720.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img10.xyz/assets/movie_poster/0/02f31d9c87a41402cbc7895c32f1d4b7.jpg " ,Haunting of Mount Gede (2025) คำสาปแห่งเขาเกเด
+https://movie04.oneplayer.online:11231/api/video/Storage06%2F178.175.136.85%2Fhome%2Fhls_file_storage%2F2gezI6H%2Ffile_720.mp4
+
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.imgx02.xyz/assets/movie_poster/6/674746153ec23ed51f05e75ea571bdb9.jpg" ,Greenland 2 Migration(2026)ฝ่าชะตา โลกาวินาศ 2 [ไทยโรง]
+https://movie03.oneplayer.online:11231/api/cached-video/yRbE1kA/yRbE1kA_720p.mp4
+
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img08.xyz/assets/movie_poster/8/82df6c6af8a3dd2a5582963c50bf562f.jpg " ,The Housemaid (2025) ความลับแม่บ้านร้าย [ไทยโรง]
+https://movie02.oneplayer.online:11231/api/cached-video/YSyUbzl/YSyUbzl_720p.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img08.xyz/assets/movie_poster/d/d29febac385dcc2cae15fc6f2d5d34b8.jpg" ,(2026)Anaconda 
+https://movie01.oneplayer.online:11231/api/video/Storage00%2FN73El13%2FN73El13_720.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img08.xyz/assets/movie_poster/8/809630e30bca04f4cf4f24b0c96b7621.jpg" ,(2026)ตี๋เหรินเจี๋ยมายาตำหนักสวรรค์ [พากย์ไทย]
+https://movie03.oneplayer.online:11231/api/video/Storage02%2F178.175.135.160%2Fhome%2Fhls_file_storage%2FNY1rJkO%2Ffile_720.mp4
 
