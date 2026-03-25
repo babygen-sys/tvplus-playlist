@@ -66,6 +66,14 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
+
+#EXTINF:-1 ,Dreem เทส
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://119.59.118.168/live/ch65/irannahee/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="บันเทิง",Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/Cinemax_EN/tracks-v1a1/mono.m3u8
