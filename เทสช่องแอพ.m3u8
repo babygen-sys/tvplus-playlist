@@ -106,6 +106,11 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1,🍿🍿🍿#### Movie #### 🍿🍿🍿
 
 
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.ytimg.com/vi/_f5FwUcPGkE/maxresdefault.jpg", ล่าหยก | Pursuit of Jade EP.1 (พากย์ไทย)
+https://www.youtube.com/watch?v=_f5FwUcPGkE
+
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/1-5.jpg" ,นครสัตว์มหาสนุก 2 (Zootopia 2)
 https://main.24playerhd.com/m3u8/3e26cd0b1d958a8731828a80/3e26cd0b1d958a8731828a80438.m3u8
 
