@@ -9,9 +9,59 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="ฟรีทีวีไทย",True4U (3BB)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ฟรีทีวีไทย" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Asian-Hits.png",Asian-Hits(3BB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title="ฟรีทีวีไทย", HBO Signature(3BB)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1703786599.png"group-title="ฟรีทีวีไทย", HBO Hits(3BB)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title="ฟรีทีวีไทย", HBO Family(3BB)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ฟรีทีวีไทย",Food Network(3BB)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="ฟรีทีวีไทย",Discovery Asia(3BB)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
+
+
+
+#EXTINF:-1 group-title="ฟรีทีวีไทย" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+
+
+
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="ฟรีทีวีไทย",CH3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 
 #EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="ฟรีทีวีไทย",Mono 29 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -50,7 +100,7 @@ http://179.63.6.15:8002/play/a02p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 http://202.169.224.202:8800/udp/239.9.1.7:1234
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/cartoonnetwork.png" group-title="บันเทิง",Cartoon Network
+#EXTINF:-1 group-title="บันเทิง" tvg-id="tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
@@ -76,19 +126,13 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 http://119.59.118.168/live/ch65/irannahee/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="บันเทิง",Cinemax
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/Cinemax_EN/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="3BB106" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="บันเทิง",ช่อง 106 HD
+#EXTINF:-1 tvg-id="3BB106" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="บันเทิง",HBO family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-#EXTINF:-1 tvg-name="Channel 107" group-title="บันเทิง",Channel 107
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="บันเทิง",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -98,43 +142,10 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 
 
-============================
-
-
+===========================================
 
 
 #EXTINF:-1,🍿🍿🍿#### Movie #### 🍿🍿🍿
-
-
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.ytimg.com/vi/_f5FwUcPGkE/maxresdefault.jpg", ล่าหยก | Pursuit of Jade EP.1 (พากย์ไทย)
-https://www.youtube.com/watch?v=_f5FwUcPGkE
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.ytimg.com/vi/26TkOc_jXyA/maxresdefault.jpg", เทส 1  youtube url ของวีดีโอ
-https://youtu.be/hctKn5jT4w4
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.ytimg.com/vi/26TkOc_jXyA/maxresdefault.jpg", เทส 2  youtube url เวลาปัจจุบัน
-https://youtu.be/hctKn5jT4w4?t=7
-
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.ytimg.com/vi/26TkOc_jXyA/maxresdefault.jpg", เทส 3  youtube จากฝัง
-https://www.youtube.com/embed/hctKn5jT4w4
-
-
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.ytimg.com/vi/26TkOc_jXyA/maxresdefault.jpg", เทส 3  youtube จากแชร์
-https://youtu.be/hctKn5jT4w4?si=Bq1DwcR3u_dlj_HU
-=======================================
-
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.ytimg.com/vi/26TkOc_jXyA/maxresdefault.jpg", เทส 1.1  youtube จากแชร์
-https://youtu.be/hctKn5jT4w4
-
-
-
-
-
-========================================
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/1-5.jpg" ,นครสัตว์มหาสนุก 2 (Zootopia 2)
