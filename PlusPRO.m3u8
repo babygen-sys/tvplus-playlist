@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ช่องทีวีไทย",===ดิจิตอลทีวี===
-#EXTVLCOPT:network-caching=1000
-https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="ช่องทีวีไทย",CH3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="ช่องทีวีไทย",CH3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
@@ -69,10 +60,6 @@ https://love.af4d1ygjfa.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีไทย",TRUE4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
-
-#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีไทย",TRUE4U
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/True4U_digital/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="ช่องทีวีไทย",ONE31 HD
 #EXTVLCOPT:network-caching=1000
@@ -166,16 +153,13 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png" group-title="ช่องทีวีไทย",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
+#EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="ช่องทีวีไทย",VIPA
+https://tinyurl.com/yktektyy
 
-
-#EXTINF:-1 tvg-id="channel1" group-title="ช่องทีวีไทย",Boom 
-#EXTVLCOPT:http-user-agent=IPtvDRM Player
-http://mooseven.ddns.net:8080/blive/blivetv/255834
-
-#EXTINF:-1 tvg-id="Zee.th" group-title="ช่องทีวีไทย" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+#EXTINF:-1 tvg-id="Zee.th" group-title="ช่องทีวีไทย" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png",Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CH8.th" group-title="ช่องทีวีไทย" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
+#EXTINF:-1 tvg-id="CH8.th" group-title="ช่องทีวีไทย" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png",Ch 8 Thailand 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="ช่องทีวีไทย",MOVIE 
@@ -185,28 +169,17 @@ http://49.0.64.96:8007/IZAA
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/SERIES
 
-#EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="ช่องทีวีไทย",VIPA
-https://tinyurl.com/yktektyy
-
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (หนังพากย์ไทย)
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (หนัง Soundtrack บรรยายไทย)
-https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="channel1" group-title="ช่องทีวีไทย",Boom 
+#EXTVLCOPT:http-user-agent=IPtvDRM Player
+http://mooseven.ddns.net:8080/blive/blivetv/255834
 
 
 
 <==== ช่องทีวีต่างประเทศ ====>
 
 
-==== บันเทิง ====
-
-
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-https://shorturl.asia/jAf5V
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/brt0yS2H/IMG-2953.png" group-title="ช่องทีวีต่างประเทศ",Amazing Show
 http://49.0.64.96:8007/AMAZING
@@ -214,24 +187,6 @@ http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="ช่องทีวีต่างประเทศ",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO
-http://1tv41.icu:8080/30796360/97446561/9264
-
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO 2 
-http://1tv41.icu:8080/30796360/97446561/9816
-
-#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="ช่องทีวีต่างประเทศ",HBO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-
-#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="ช่องทีวีต่างประเทศ",HBO Hits
-
-#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="ช่องทีวีต่างประเทศ",HBO Family
-
-#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="ช่องทีวีต่างประเทศ",HBO Signature
-
-#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="ช่องทีวีต่างประเทศ",Cinemax
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/Cinemax_EN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="ช่องทีวีต่างประเทศ",WB FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -240,7 +195,11 @@ http://flussictv.ddns.net:9091/Cinemax_EN/tracks-v1a1/mono.m3u8
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 
+
+
 ==== บันเทิง ====
+
+
 
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",TOM & JERRY
@@ -463,12 +422,11 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
 
-================================================
-
 
 
 
 ===== ช่อง SPORTS - 1 ======
+
 
 
 
@@ -1630,6 +1588,12 @@ http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="Entertainment บันเทิง",MONO29 Plus
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
 
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (พากย์ไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (Soundtrack)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
 #EXTINF:-1 group-title="Entertainment บันเทิง",Mono29MusicStation
 https://monomax-ye61nx.cdn.byteark.com/fleetstream/Mono29MusicStation/index.m3u8
 
@@ -1638,6 +1602,8 @@ https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RUSH" tvg-logo="http://45.144.165.187:8080/images/77bec7bbca0fa9c7b1de9516085fb916.png" group-title="Entertainment บันเทิง",RUSH
 https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
+
+
 
 
 
