@@ -58,10 +58,6 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.af4d1ygjfa.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 
-
-#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีไทย",TRUE4U
-https://iptv36.vercel.app/api/true.m3u8?channel=true4u
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="ช่องทีวีไทย",True4U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
