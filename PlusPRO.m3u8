@@ -205,7 +205,7 @@ http://49.0.64.96:8007/SERIES
 
 
 
-#EXTINF:-1 tvg-id="channel1" group-title="#EXTINF:-1 tvg-id="channel1"group-title="ช่องทีวีต่างประเทศ",Boom 
+#EXTINF:-1 tvg-id="channel1" group-title="ช่องทีวีต่างประเทศ",Boom
 #EXTVLCOPT:http-user-agent=IPtvDRM Player
 http://mooseven.ddns.net:8080/blive/blivetv/255834
 
