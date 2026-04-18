@@ -647,12 +647,12 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 #EXTINF:-1 tvg-id="FreeLiveSports.uk" tvg-logo="https://i.postimg.cc/D0Y6Ym8m/Free-Live-Sports.png" group-title="ช่อง SPORTS - 1",TNA
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="ช่อง SPORTS - 1",🤼 WWE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.2befubnq2w.workers.dev/vx-origin/us-wwe_720/chunks.m3u8
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/wwe.png" group-title="ช่อง SPORTS - 1",WWE Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/4022
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ช่อง SPORTS - 1",Fighting TV Samurai (JPN)
-https://nl.utako.moe/fighting_tv/index.m3u8
+#https://nl.utako.moe/fighting_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="ช่อง SPORTS - 1",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
@@ -1194,6 +1194,15 @@ https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 ===== ช่องทีวีบันเทิง ====
 
+
+#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://d2jwvf4ws7l9th.cloudfront.net/v2/vx-origin/91/0Qk94QBjAtQ0ToybVk02xQ/d1093de1006302d4344e8c9b564d36c5/1776519508/sd-filmasia_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.pifipa2974.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AsianHit.th" tvg-name="Asian Hit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="ช่องบันเทิง",Asian Hit
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
