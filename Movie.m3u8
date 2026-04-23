@@ -15,10 +15,10 @@ https://media.vdohls.com/HASC-DM_oSu8h/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/04/2-4-scaled.jpg",Crime 101 (2026) เส้นทางปล้นโคตรระห่ำ พากย์ไทย
 https://m3u8haha.com/movie/M15750.mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="https://www.24hd.net/wp-content/uploads/2026/04/A-Gorilla-Story-Told-by-David-Attenborough-2026.webpg",A Gorilla Story Told by David Attenborough (2026) เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์
+#EXTINF:-1 tvg-id="" tvg-name="Attenborough (2026)" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/04/A-Gorilla-Story-Told-by-David-Attenborough-2026.webp" group-title="Movie", Attenborough (2026) เล่าเรื่องกอริลลา
 https://media.vdohls.com/0Ix-XO_Ksmx3m/playlist.m3u8
 
-#EXTINF:-1 group-title="https://www.24hd.net/wp-content/uploads/2026/03/BTS-The-Return-2026.webp",BTS The Return (2026) BTS กลับมาแล้ว
+#EXTINF:-1 tvg-id="" tvg-name="BTS The Return (2026)" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/BTS-The-Return-2026.webp" group-title="Movie",BTS The Return (2026) BTS กลับมาแล้ว
 https://media.vdohls.com/X_pcy-XWzdWJS/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/03/1-4-scaled.jpg",Made in Korea (2026) พากย์ไทย
