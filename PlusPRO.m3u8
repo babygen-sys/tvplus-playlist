@@ -1063,6 +1063,39 @@ https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
 
 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/3986946_ico.png" group-title="ช่องกีฬาถ่ายทอดสด",J-Live 01 (LX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn01_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/3986946_ico.png" group-title="ช่องกีฬาถ่ายทอดสด",J-Live 02 (LX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn02_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/3986946_ico.png" group-title="ช่องกีฬาถ่ายทอดสด",J-Live 03 (LX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn03_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/3986946_ico.png" group-title="ช่องกีฬาถ่ายทอดสด",J-Live 04 (LX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn04_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/3986946_ico.png" group-title="ช่องกีฬาถ่ายทอดสด",J-Live 05 (LX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn05_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/3986946_ico.png" group-title="ช่องกีฬาถ่ายทอดสด",J-Live 06 (LX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn06_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/3986946_ico.png" group-title="ช่องกีฬาถ่ายทอดสด",J-Live Astro (LX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/my-astro-sportsplus_720/playlist.m3u8
+
+
+
 ### --- หมวด: AIS VIP SPORTS --- ###
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 7 TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/playsport_logo.png" group-title="ช่องกีฬาถ่ายทอดสด", AIS SPORTS 
@@ -1395,7 +1428,7 @@ http://mooseven.ddns.net:8080/blive/blivetv/255841
 http://mooseven.ddns.net:8080/blive/blivetv/255845
 
 
-#EXTINF:-1 tvg-name="AXN",AXN
+#EXTINF:-1 tvg-name="AXN" group-title="ช่องบันเทิง",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
