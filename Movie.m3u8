@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/war-machine.jpg.webp"
-War Machine (2026) สงครามจักรกลถล่มโลก
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/war-machine.jpg.webp",War Machine (2026) สงครามจักรกลถล่มโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://media.vdohls.com/axCYYDs_n-62N/playlist.m3u8
 
