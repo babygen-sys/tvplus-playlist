@@ -1356,7 +1356,7 @@ https://love.pifipa2974.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
 https://love.homema6859.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 
-#EXTINF:-1,truefilm2
+#EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 #EXTVLCOPT:network-caching=5000
 http://api.plus-server.sbs/play.php?key=1234&ch=truefilm2
