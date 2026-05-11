@@ -877,7 +877,9 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
 <==== ช่อง SPORTS - 2 ====>
 
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 2",LFCTV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:network-caching=5000
+https://dij0k9i5q0gvn.cloudfront.net/lfctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 2",MUTV
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
