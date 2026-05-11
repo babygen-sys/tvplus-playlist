@@ -281,8 +281,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Boomerang_2025.png" group-title="ช่องทีวีต่างประเทศ",Boom  + UA
+#EXTINF:-1,Boomerang
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:network-caching=5000
 http://api.plus-server.sbs/play.php?key=1234&ch=boomerang
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
@@ -1355,9 +1356,9 @@ https://love.pifipa2974.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
 https://love.homema6859.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,truefilm2
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:network-caching=5000
 http://api.plus-server.sbs/play.php?key=1234&ch=truefilm2
 
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
