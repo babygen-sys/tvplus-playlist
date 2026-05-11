@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-ch3.png"" group-title="ช่องทีวีไทย",CH3 
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-ch3.png" group-title="ช่องทีวีไทย",CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
