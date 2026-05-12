@@ -1,5 +1,7 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/05/Remarkably-Bright-Creatures-2026.webp",อควาเรียม คน หมึก สิ่งของ (2026) Remarkably Bright Creatures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://media.vdohls.com/e_P-sNRZNCujT/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/05/My-Dearest-Assassin-2026.webp",My Dearest Assassin (2026) เลือดรักนักฆ่า
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
