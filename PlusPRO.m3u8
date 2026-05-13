@@ -158,11 +158,8 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png" group-title="ช่องทีวีไทย",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-
-
 ###<==== ช่องทีวีต่างประเทศ ====>###
 #==== บันเทิง ====
-
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
@@ -267,15 +264,18 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="CH8.th" group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png",Ch 8 Thailand 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", WOWOW Cinema
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-logo="https://logosfake.fandom.com/wiki/WOWOW_Cinema_(Hokusei)?file=WOWOW_Cinema.png
+" group-title="ช่องทีวีต่างประเทศ",WOWOW Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", WOWOW Prime
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-logo="https://logosfake.fandom.com/wiki/WOWOW_Prime_(Hokusei)?file=WOWOW_Prime.png
+" group-title="ช่องทีวีต่างประเทศ", WOWOW Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", Channel Ginga
+#EXTINF:-1 tvg-id="Channel Ginga" tvg-logo="https://i.ytimg.com/vi/qzwPrtFv_To/sddefault.jpg
+"group-title="ช่องทีวีต่างประเทศ", Channel Ginga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 
