@@ -54,22 +54,22 @@ http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://tvpass.org/live/HBOZoneEast/sd
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBOHITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://tvpass.org/live/HBOComedyEast/sd
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBOFAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://tvpass.org/live/HBOFamilyEast/sd
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBOSIGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://tvpass.org/live/HBOSignatureEast/sd
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
