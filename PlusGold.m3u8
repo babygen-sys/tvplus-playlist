@@ -1,5 +1,19 @@
 #EXTM3U url="https://liveiptvthai.vercel.app/"
 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mewatch.sg/
+#EXTVLCOPT:http-origin=https://www.mewatch.sg
+
+# --- mewatch Sports (MPEG-DASH) ---
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mewatch.sg/favicon.ico",mewatch Sports (DASH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mewatch.sg/
+#EXTVLCOPT:http-origin=https://www.mewatch.sg
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,wsport-dash.mpd?yo.lb=700&yo.hb=6000&yo.d.ut=no&yo.av=3&yo.lpa=true&yo.cps=b.mw.d.s.40.20.s.r&yo.up=https://tglmp02.akamaized.net
+
 github.com/cattv976
 WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
