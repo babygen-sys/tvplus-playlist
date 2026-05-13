@@ -175,14 +175,18 @@ http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="ช่องทีวีต่างประเทศ",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USA_SHOWTIME" tvg-logo="https://i.etsystatic.com/5614762/r/il/a095bb/2246575257/il_fullxfull.2246575257_puce.jpg" group-title="ช่องทีวีต่างประเทศ",SHOWTIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
 #EXTINF:-1 tvg-id="rock_action" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/rockaction%20(2).png" group-title="ช่องทีวีต่างประเทศ",ROCK ACTION 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1 tvg-id="RockEntertainment.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/rockentertian.png" group-title="ช่องทีวีต่างประเทศ",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvn_korea" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cjenm_logo.jpg" group-title="ช่องทีวีต่างประเทศ",CJ ENM 
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
