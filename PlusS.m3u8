@@ -55,9 +55,9 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ช่องทีวีไทย",PPTV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.pifipa2974.workers.dev/lx-origin/hd-pptv_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="ช่องทีวีไทย",TSport 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
