@@ -53,8 +53,7 @@ http://185.98.211.8:81/hbo2/index.m3u8?token=test
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://tvpass.org/live/HBOZoneEast/sd
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBOHITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -73,8 +72,7 @@ https://tvpass.org/live/HBOSignatureEast/sd
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CinemaWorld
 http://119.82.250.109:8080/nl.m3u8?id=1024
@@ -612,18 +610,16 @@ http://145.239.5.177/529/index.m3u8
 http://145.239.5.177/530/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="ช่อง SPORTS - 1",ESPN 1
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="ช่อง SPORTS - 1",ESPN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
+http://41.205.93.154/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/fRs20D30/IMG-3713.png" group-title="ช่อง SPORTS - 1",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/4022
 
-
 #EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="ช่อง SPORTS - 1",ESPN 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
 
 #EXTINF:-1 group-title="ช่อง SPORTS - 1",FOX sport 506
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
