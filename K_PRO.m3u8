@@ -86,15 +86,15 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="CH8.th" group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png",Ch 8 Thailand 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", WOWOW Cinema
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-logo="https://i.ibb.co/L6V6bHn/wowow-cinema.png" group-title="ช่องทีวีต่างประเทศ",WOWOW Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", WOWOW Prime
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-logo="https://i.ibb.co/0YmYVfG/wowow-prime.png" group-title="ช่องทีวีต่างประเทศ",WOWOW Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", Channel Ginga
+#EXTINF:-1 tvg-id="Channel_Ginga" tvg-logo="https://i.ibb.co/mB8p8tN/channel-ginga.png" group-title="ช่องทีวีต่างประเทศ",Channel Ginga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 
