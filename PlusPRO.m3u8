@@ -199,13 +199,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 # --- International Movie & News Channels ---
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3s65q8R/wb-tv.png" group-title="ช่องทีวีต่างประเทศ",WB FILM
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/786-7869945_warner-brothers-4-film-collection-blu-rays-hd.png" group-title="ช่องทีวีต่างประเทศ",WB FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7P0m4q/nhk-world.png" group-title="ช่องทีวีต่างประเทศ",NHK World
+#EXTINF:-1 tvg-logo="https://img.favpng.com/14/9/14/nhk-world-premium-japan-logo-png-favpng-TrY461wz5x1rj2wWGEUhH2BMH.jpg" group-title="ช่องทีวีต่างประเทศ",NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
@@ -214,7 +214,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 #https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F6t2wD4/mytime.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
@@ -256,7 +256,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 
 # --- Global Cinema ---
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V3q0f7B/cinemaworld.png" group-title="ช่องทีวีต่างประเทศ",CinemaWorld
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png" group-title="ช่องทีวีต่างประเทศ",CinemaWorld
 http://119.82.250.109:8080/nl.m3u8?id=1024
 
 #EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="ช่องทีวีต่างประเทศ",VIPA
