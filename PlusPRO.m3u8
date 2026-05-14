@@ -196,55 +196,61 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="action_hollywood" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/actionholeewood.png" group-title="ช่องทีวีต่างประเทศ", Action Hollywood 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="ช่องทีวีต่างประเทศ",WB FILM
+# --- International Movie & News Channels ---
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3s65q8R/wb-tv.png" group-title="ช่องทีวีต่างประเทศ",WB FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",NHK World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7P0m4q/nhk-world.png" group-title="ช่องทีวีต่างประเทศ",NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",KIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tms066x/kix.png" group-title="ช่องทีวีต่างประเทศ",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 #https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F6t2wD4/mytime.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBO 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
-http://185.98.211.8:81/hbo2/index.m3u8?token=test
+# --- HBO & Cinemax Group ---
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3zNqXy/hbo.png" group-title="ช่องทีวีต่างประเทศ",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBOHITS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4m1Q2X/hbo2.png" group-title="ช่องทีวีต่างประเทศ",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+http://185.98.211.8:81/hbo2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZxbTzP9/hbo-hits.png" group-title="ช่องทีวีต่างประเทศ",HBOHITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://tvpass.org/live/HBOComedyEast/sd
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBOFAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0L1xV9/hbo-family.png" group-title="ช่องทีวีต่างประเทศ",HBOFAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://tvpass.org/live/HBOFamilyEast/sd
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",HBOSIGNATURE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZzNqXy/hbo-signature.png" group-title="ช่องทีวีต่างประเทศ",HBOSIGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://tvpass.org/live/HBOSignatureEast/sd
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CINEMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DkfzYmG/cinemax.png" group-title="ช่องทีวีต่างประเทศ",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 #http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CinemaWorld
+# --- Global Cinema ---
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V3q0f7B/cinemaworld.png" group-title="ช่องทีวีต่างประเทศ",CinemaWorld
 http://119.82.250.109:8080/nl.m3u8?id=1024
 
 #EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="ช่องทีวีต่างประเทศ",VIPA
