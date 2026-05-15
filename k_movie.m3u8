@@ -1,4 +1,18 @@
 #EXTM3U
+
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.24hd.net/wp-content/uploads/2026/05/Marty-Life-Is-Short-2026.webp" ,Marty Life Is Short (2026) มาร์ตี้ ชีวิตมันสั้น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player77hdfree.xyz/
+#EXTVLCOPT:http-origin=https://player77hdfree.xyz
+https://media.vdohls.com/W-SAKyoV_JqGO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/05/Untold-UK-Jamie-Vardy-2026.webp" group-title="Movie",Untold UK Jamie Vardy (2026) เจมี่ วาร์ดี้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player77hdfree.xyz/
+#EXTVLCOPT:http-origin=https://player77hdfree.xyz
+https://media.vdohls.com/X-AOd65_V9xvF/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/05/Remarkably-Bright-Creatures-2026.webp",อควาเรียม คน หมึก สิ่งของ (2026) Remarkably Bright Creatures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://media.vdohls.com/e_P-sNRZNCujT/playlist.m3u8
