@@ -1034,16 +1034,14 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/playlist.m3u8
 #EXTINF:-1 group-title="ช่อง SPORTS - 2",🎾 Tennis TV
 http://49.0.64.96:8007/TENNIS
 
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf Channel TH
-
-
 #EXTINF:-1 group-title="ช่อง SPORTS - 2",🏌️‍♂️ SKY Sports Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.idhqxc0nl4.workers.dev/vx-origin/uk-skysports-golf_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf Channel 
 http://49.0.64.96:8007/GOLF
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf Channel TH
 
 #EXTINF:-1 tvg-id="beIN1.apac" tvg-name="beIN Sports 1" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_70X40.png" group-title="ช่อง SPORTS - 2",Bein Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -1089,6 +1087,11 @@ https://mobilelive-test.ysp.cctv.cn/eastman/2030859301.m3u8
 #EXTVLCOPT:http-referrer=https://wakacha.github.io/
 #EXTVLCOPT:http-origin=https://wakacha.github.io
 
+#EXTINF:-1 tvg-logo="https://static.ch7.com/images/theme2023/one-lumpini/one.jpg" group-title="ช่องกีฬาถ่ายทอดสด",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.pifipa2974.workers.dev/lx-origin/hd-tsport4_720/playlist.m3u8
 
 ### --- หมวด: AIS VIP SPORTS --- ###
 
