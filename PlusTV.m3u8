@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-ch3.png" group-title="ช่องทีวีไทย",CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
@@ -344,10 +346,8 @@ https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="ช่องทีวีต่างประเทศ",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-
 ### --- หมวด: DOCUMENTARY --- ###
 #==== สารคดี ====
-
 
 #EXTINF:-1 tvg-id="Xplore.th" tvg-name="XPLORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="ช่องทีวีต่างประเทศ",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
@@ -409,11 +409,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://i.postimg.cc/6pX5X9m7/Wild-Earth.png" group-title="ช่องทีวีต่างประเทศ",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
-
-
 ### --- NEWS --- ###
 #==== ข่าว ====
-
 
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="ข่าว",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -701,6 +698,18 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="ช่องทีวีต่างประเทศ",STAR SPORTS 
 https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv1.png" group-title="ช่องทีวีต่างประเทศ",SPOTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.baxen43035.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv2.png" group-title="ช่องทีวีต่างประเทศ",SPOTV 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
