@@ -307,8 +307,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Boomerang_2025.png" group-title="ช่องทีวีต่างประเทศ",Boom 
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
-#EXTVLCOPT:network-caching=5000
-http://api.plus-server.sbs/play.php?key=1234&ch=boomerang
+#EXTVLCOPT:network-caching=2000
+http://api.plus-server.sbs/play.php?key=1234&ch=boomerang_mvtv
+#http://api.plus-server.sbs/play.php?key=1234&ch=boomerang
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
 http://49.0.64.96:8007/Cartoonumi
