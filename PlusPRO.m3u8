@@ -282,19 +282,19 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="CH8.th" group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png",Ch 8 Thailand 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
-#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-logo="https://i.ibb.co/L6V6bHn/wowow-cinema.png" group-title="ช่องทีวีต่างประเทศ",WOWOW Cinema
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest?cb=20180131140829" group-title="ช่องทีวีต่างประเทศ",WOWOW Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
-#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-logo="https://i.ibb.co/0YmYVfG/wowow-prime.png" group-title="ช่องทีวีต่างประเทศ",WOWOW Prime
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/453453.jpg/revision/latest?cb=20130406223357" group-title="ช่องทีวีต่างประเทศ",WOWOW Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", WOWOW Live
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/WOWOWlive_eng.jpg/revision/latest?cb=20250326114506", WOWOW Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 
-#EXTINF:-1 tvg-id="Channel_Ginga" tvg-logo="https://i.ibb.co/mB8p8tN/channel-ginga.png" group-title="ช่องทีวีต่างประเทศ",Channel Ginga
+#EXTINF:-1 tvg-id="Channel_Ginga" tvg-logo="https://i.ytimg.com/vi/qzwPrtFv_To/sddefault.jpg" group-title="ช่องทีวีต่างประเทศ",Channel Ginga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 
