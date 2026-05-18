@@ -1097,6 +1097,13 @@ https://love.pifipa2974.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://media.megatix.com.au/e/67764/IVPV9yHu7M0jB8ZcnL3DSrOQzZExHlvpPbwKhME4.png",ISTAF Sepak Takraw World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.pifipa2974.workers.dev/lx-origin/my-arena1_720/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/01/07/11/36/360_F_107113666_v8M0R0meBDC9N9g05CHMW2ECvVJB321p.jpg" group-title="ช่องกีฬาถ่ายทอดสด",Japan Fighting: Sumo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
