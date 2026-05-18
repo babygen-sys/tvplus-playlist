@@ -315,10 +315,10 @@ http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-logo="https://gbaike-image.cdn.bcebos.com/0b55b319ebc4b74543a9b3f27ca909178a82b801bf80/0b55b319ebc4b74543a9b3f27ca909178a82b801bf80_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1" group-title="ช่องทีวีต่างประเทศ",CCTV-7 (Military/Agri)
 http://74.91.26.218:82/live/cctv7hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/2024/02/cctv-8-logo.png" group-title="ช่องทีวีต่างประเทศ",CCTV-8 (Drama)
+#EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/83/91/9a049eb6b72fe7fe.webp" group-title="ช่องทีวีต่างประเทศ",CCTV-8 (Drama)
 http://74.91.26.218:82/live/cctv8hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cctv13.png" group-title="ช่องทีวีต่างประเทศ",CCTV-13 (News)
+#EXTINF:-1 tvg-logo="https://p2.img.cntv.cn/photoAlbum/page/performance/img/2022/3/30/1648609564977_591.png" group-title="ช่องทีวีต่างประเทศ",CCTV-13 (News)
 http://74.91.26.218:82/live/cctv13hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/CGTN_logo.svg/1200px-CGTN_logo.svg.png" group-title="ช่องทีวีต่างประเทศ",CGTN English
