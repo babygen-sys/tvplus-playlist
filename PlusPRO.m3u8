@@ -312,7 +312,7 @@ http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cctv6.png" group-title="ช่องทีวีต่างประเทศ",CCTV-6 (Movies)
 http://74.91.26.218:82/live/cctv6hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/2024/02/cctv-7-logo.png" group-title="ช่องทีวีต่างประเทศ",CCTV-7 (Military/Agri)
+#EXTINF:-1 tvg-logo="https://gbaike-image.cdn.bcebos.com/0b55b319ebc4b74543a9b3f27ca909178a82b801bf80/0b55b319ebc4b74543a9b3f27ca909178a82b801bf80_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1" group-title="ช่องทีวีต่างประเทศ",CCTV-7 (Military/Agri)
 http://74.91.26.218:82/live/cctv7hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/2024/02/cctv-8-logo.png" group-title="ช่องทีวีต่างประเทศ",CCTV-8 (Drama)
