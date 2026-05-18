@@ -306,16 +306,16 @@ http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch542_160_115" group-title="ช่องทีวีต่างประเทศ",CCTV-4 (International)
 http://74.91.26.218:82/live/cctv4hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/83/91/cc8abe9cbd004404.webp" group-title="ช่องทีวีต่างประเทศ",CCTV-5 (Sports)
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv5.png" group-title="ช่องทีวีต่างประเทศ",CCTV-5 (Sports)
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://pic.616pic.com/ys_img/00/10/24/3V9xeNd7Ly.jpg" group-title="ช่องทีวีต่างประเทศ",CCTV-6 (Movies)
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv6.png" group-title="ช่องทีวีต่างประเทศ",CCTV-6 (Movies)
 http://74.91.26.218:82/live/cctv6hd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ช่องทีวีต่างประเทศ",CCTV-7 (Military/Agri)
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv7.png" group-title="ช่องทีวีต่างประเทศ",CCTV-7 (Military/Agri)
 http://74.91.26.218:82/live/cctv7hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/83/91/9a049eb6b72fe7fe.webp" group-title="ช่องทีวีต่างประเทศ",CCTV-8 (Drama)
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv8.png" group-title="ช่องทีวีต่างประเทศ",CCTV-8 (Drama)
 http://74.91.26.218:82/live/cctv8hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch545_160_115" group-title="ช่องทีวีต่างประเทศ",CCTV-13 (News)
@@ -326,17 +326,17 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 ### --- KIDS --- ###
 
-#EXTINF:-1 tvg-id="Cartoonito.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cartoonito.png" group-title="ช่องทีวีต่างประเทศ",CARTOONITO
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="ช่องทีวีต่างประเทศ",CARTOONITO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://canale-tv.net
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", Animax
+#EXTINF:-1 tvg-logo="https://liveera.live/images/channels/Animax__Singapore.png" group-title="ช่องทีวีต่างประเทศ", Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", Disney Channel Japan
+#EXTINF:-1 tvg-logo="https://liveera.live/images/channels/Disney_Channel.png" group-title="ช่องทีวีต่างประเทศ", Disney Channel Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
