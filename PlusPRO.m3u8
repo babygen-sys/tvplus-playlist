@@ -300,16 +300,16 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 
 # --- [ หมวดหมู่: ช่องทีวีจีน ] ---
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cctv1.png" group-title="ช่องทีวีต่างประเทศ",CCTV-1 (General)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/65/2/cctv-1-logo-png_seeklogo-653559.png" group-title="ช่องทีวีต่างประเทศ",CCTV-1 (General)
 http://74.91.26.218:82/live/cctv1hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cctv4.png" group-title="ช่องทีวีต่างประเทศ",CCTV-4 (International)
+#EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/83/91/3cb93ca36b045003.webp" group-title="ช่องทีวีต่างประเทศ",CCTV-4 (International)
 http://74.91.26.218:82/live/cctv4hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cctv5.png" group-title="ช่องทีวีต่างประเทศ",CCTV-5 (Sports)
+#EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/83/91/cc8abe9cbd004404.webp" group-title="ช่องทีวีต่างประเทศ",CCTV-5 (Sports)
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cctv6.png" group-title="ช่องทีวีต่างประเทศ",CCTV-6 (Movies)
+#EXTINF:-1 tvg-logo="https://pic.616pic.com/ys_img/00/10/24/3V9xeNd7Ly.jpg" group-title="ช่องทีวีต่างประเทศ",CCTV-6 (Movies)
 http://74.91.26.218:82/live/cctv6hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://gbaike-image.cdn.bcebos.com/0b55b319ebc4b74543a9b3f27ca909178a82b801bf80/0b55b319ebc4b74543a9b3f27ca909178a82b801bf80_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1" group-title="ช่องทีวีต่างประเทศ",CCTV-7 (Military/Agri)
@@ -321,7 +321,7 @@ http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-logo="https://p2.img.cntv.cn/photoAlbum/page/performance/img/2022/3/30/1648609564977_591.png" group-title="ช่องทีวีต่างประเทศ",CCTV-13 (News)
 http://74.91.26.218:82/live/cctv13hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/CGTN_logo.svg/1200px-CGTN_logo.svg.png" group-title="ช่องทีวีต่างประเทศ",CGTN English
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="ช่องทีวีต่างประเทศ",CGTN English
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 ### --- KIDS --- ###
