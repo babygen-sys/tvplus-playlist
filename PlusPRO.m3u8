@@ -731,18 +731,15 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/1280px-BBC_World_Service_2022_%28Boxed%29.svg.png", BBC Radio World Service
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_world_service.m3u8
 
-###=====  SPORTS  ======###
+###=====  SPORTS  ======
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="ช่องทีวีต่างประเทศ",STAR SPORTS 
-https://starsportshindiii.pages.dev/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv1.png" group-title="ช่องทีวีต่างประเทศ",SPOTV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv.png" group-title="ช่องทีวีต่างประเทศ",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.baxen43035.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv2.png" group-title="ช่องทีวีต่างประเทศ",SPOTV 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv2.png" group-title="ช่องทีวีต่างประเทศ",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
@@ -1028,21 +1025,6 @@ https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 9)
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
 
-#EXTINF:-1 group-title="ช่อง SPORTS - 2",Ziggo Sport 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.1fhjbwau5y.workers.dev/lx-origin/nl-ziggosport1_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="ช่อง SPORTS - 2",SPOTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/SPOTV01_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="ช่อง SPORTS - 2",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/warningfm/v3@main/img/Zy6ODEg.png" group-title="ช่อง SPORTS - 2",🏀 NBA TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.1yoeo8rt7b.workers.dev/vx-origin/us-nba_720/chunks.m3u8
@@ -1120,7 +1102,6 @@ https://mobilelive-test.ysp.cctv.cn/eastman/2030925001.m3u8
 #EXTVLCOPT:http-origin=https://wakacha.github.io
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 https://mobilelive-test.ysp.cctv.cn/eastman/2030917901.m3u8
-
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://media.megatix.com.au/e/67764/IVPV9yHu7M0jB8ZcnL3DSrOQzZExHlvpPbwKhME4.png",ISTAF Sepak Takraw World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1476,9 +1457,9 @@ http://api.plus-server.sbs/play.php?key=1234&ch=bein2
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
 
-#----SPOTV----
+#----------SPOTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_1.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/SPOTV01_720p/playlist.m3u8
@@ -1487,7 +1468,7 @@ https://www.livedoomovies.com:4431/SPOTV01_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.cinesefo.workers.dev/vx-origin/hd-spotv_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv2.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
@@ -1496,9 +1477,7 @@ https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.cinesefo.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8
 
-
------------------------------------------------------------------------
-
+#-----------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="BGSports.th" tvg-name="BG Sports" tvg-logo="https://media.komchadluek.net/uploads/images/contents/w1024/2024/08/7zENdppyWierzDJNnWd7.webp?x-image-process=style/lg-webp" group-title="ช่องกีฬาถ่ายทอดสด",BG Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
