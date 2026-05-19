@@ -501,6 +501,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo-world_rect.svg" group-title="ข่าว",Japan Fighting: Sumo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www3.nhk.or.jp/
+#EXTVLCOPT:http-origin=https://www3.nhk.or.jp
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
 #EXTINF:-1 group-title="ข่าว", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
