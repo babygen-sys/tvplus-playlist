@@ -1446,38 +1446,35 @@ https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 
-
----------------------------------------------------------
+#---------------------------------------------------------
 
 #EXTINF:-1 tvg-id="TPF.th" tvg-name="True Premier Football 3" tvg-logo="https://dookeela4.live/uploads/1664499681.png" group-title="ช่องกีฬาถ่ายทอดสด", True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
-----------------------------------------------------
+#--------------- bein
 
-
-# --- beIN Sports 1 HD ---
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8
 
-# --- beIN Sports 2 HD ---
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/vx-origin/epl-bein2_720/playlist.m3u8
 
-# --- beIN Sports 3 HD ---
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 3 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 2 สำรอง
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=bein2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
-
------------------------------------------------------
 
 #----SPOTV----
 
