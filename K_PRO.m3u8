@@ -971,19 +971,18 @@ https://love.homema6859.workers.dev/lx-origin/nl-ziggosport5_720/playlist.m3u8
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/lx-origin/nl-ziggosport4_720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/01/07/11/36/360_F_107113666_v8M0R0meBDC9N9g05CHMW2ECvVJB321p.jpg" group-title="ช่องกีฬาถ่ายทอดสด",Japan Fighting: Sumo
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/01/07/11/36/360_F_107113666_v8M0R0meBDC9N9g05CHMW2ECvVJB321p.jpg" group-title="ช่องกีฬาถ่ายทอดสด",GRAND SUMO Highlights
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://masterpl.hls.nhkworld.jp/hls/w/206187920260519001/master_nocc.m3u8
 #https://love.pifipa2974.workers.dev/lx-origin/pl-polsatsportpremium1_720/playlist.m3u8
 #https://love.homema6859.workers.dev/lx-origin/uk-btsport1hd_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/01/07/11/36/360_F_107113666_v8M0R0meBDC9N9g05CHMW2ECvVJB321p.jpg" group-title="ช่องกีฬาถ่ายทอดสด",Japan Fighting: Sumo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www3.nhk.or.jp/
-#EXTVLCOPT:http-origin=origin
-https://www3.nhk.or.jp
-https://masterpl.hls.nhkworld.jp/hls/w/206187920260519001/master_nocc.m3u8
+#EXTVLCOPT:http-origin=https://www3.nhk.or.jp
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 
