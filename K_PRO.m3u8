@@ -1306,22 +1306,23 @@ https://love.pifipa2974.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
 
 -----------------------------------------------------
 
+#----SPOTV----
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/SPOTV01_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_1.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.cinesefo.workers.dev/vx-origin/hd-spotv_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv2.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.cinesefo.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8
 
