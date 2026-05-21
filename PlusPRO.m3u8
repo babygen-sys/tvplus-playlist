@@ -1077,11 +1077,9 @@ https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/shopeeCup.png" group-title="ช่องกีฬาถ่ายทอดสด",ASEAN Club Championship 
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/tv/live
-https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/shopeeCup.png" group-title="ช่องกีฬาถ่ายทอดสด",ASEAN Club Championship 
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",Badminton Court 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1093,25 +1091,21 @@ https://love.pifipa2974.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-https://mobilelive-test.ysp.cctv.cn/ysp/2030924101.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",M'sia Master - Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-https://mobilelive-test.ysp.cctv.cn/ysp/2030924201.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",M'sia Master - Court 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-https://mobilelive-test.ysp.cctv.cn/eastman/2030924301.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",M'sia Masters - Court 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-https://mobilelive-test.ysp.cctv.cn/eastman/2030924401.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://media.megatix.com.au/e/67764/IVPV9yHu7M0jB8ZcnL3DSrOQzZExHlvpPbwKhME4.png",ISTAF Sepak Takraw World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
