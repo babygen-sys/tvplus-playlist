@@ -1710,7 +1710,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 ### --- หมวด: ช่องสารคดี --- ###
 
-#EXTINF:-1 tvg-id="Discovery1.th" tvg-name="Discovery 1" tvg-logo="https://dookeela4.live/uploads/1706112738.png" group-title="ช่องสารคดี",Discovery 
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.pifipa2974.workers.dev/lx-origin/sd-discovery_720/playlist.m3u8
