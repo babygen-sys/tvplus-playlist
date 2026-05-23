@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://media.megatix.com.au/e/67764/IVPV9yHu7M0jB8ZcnL3DSrOQzZExHlvpPbwKhME4.png",ISTAF Sepak Takraw World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.homema6859.workers.dev/lx-origin/my-arena1_480/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-ch3.png" group-title="ช่องทีวีไทย",CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
