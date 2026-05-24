@@ -1833,18 +1833,9 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="ช่องสารคดี",SCIence
 http://49.0.64.96:8007/WSCI
 
-#EXTINF:-1 group-title="ช่องสารคดี",DMAX (CloudFront)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dij0k9i5q0gvn.cloudfront.net/dmax/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องสารคดี",CGTN 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/150?cb=20210818143837" group-title="ช่องสารคดี",CGTN 
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
-#EXTINF:-1 group-title="ช่องสารคดี",RT
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SamruatLok.th" tvg-name="สำรวจโลก" tvg-logo="" group-title="ช่องสารคดี",สำรวจโลก
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/documentary/raw/refs/heads/main/samrujlok.m3u8
