@@ -1747,51 +1747,9 @@ https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.cinesefo.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8
 
-#-----------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="BGSports.th" tvg-name="BG Sports" tvg-logo="https://media.komchadluek.net/uploads/images/contents/w1024/2024/08/7zENdppyWierzDJNnWd7.webp?x-image-process=style/lg-webp" group-title="ช่องกีฬาถ่ายทอดสด",BG Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://ealivefotex.com/maxsport5/index.m3u8
+#--------- ช่องทีวีบันเทิง ---------
 
-----------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.homema6859.workers.dev/lx-origin/th-dazn01_720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.homema6859.workers.dev/lx-origin/th-dazn02_720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.homema6859.workers.dev/lx-origin/th-dazn03_720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.homema6859.workers.dev/lx-origin/th-dazn04_720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.homema6859.workers.dev/lx-origin/th-dazn05_720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.homema6859.workers.dev/lx-origin/th-dazn06_720/playlist.m3u8
-
---------- ช่องทีวีบันเทิง ---------
 
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
