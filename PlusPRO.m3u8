@@ -367,38 +367,45 @@ http://api.plus-server.sbs/play.php?key=1234&ch=boomerang_mvtv
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
 http://49.0.64.96:8007/Cartoonumi
 
+#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png" group-title="ช่องทีวีต่างประเทศ", Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch444_160_115" group-title="ช่องทีวีต่างประเทศ",NICKELODEON
-http://202.169.224.202:8800/udp/239.9.1.17:1234
+https://tvpass.org/live/NicktoonsEast/sd
 
-#EXTINF:-1 tvg-id="NickJr.th" tvg-name="NICK JR" group-title="ช่องทีวีต่างประเทศ",NICK JR
-http://202.169.224.202:8800/udp/239.9.1.18:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tms066x/nick-jr.png" group-title="ช่องทีวีต่างประเทศ",Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://galandriel1.thobias11.cfd/nicjr/usergendxl2c8nd.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",TOM & JERRY
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/131-1311627_tom-and-jerry-cartoon-logo-tom-and-jerry-png.png" group-title="ช่องทีวีต่างประเทศ",TOM & JERRY
 #EXTVLCOPT:network-caching=1000
 http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",PBS Kids
+#EXTINF:-1 tvg-logo="https://img.favpng.com/5/8/13/pbs-kids-wucf-tv-television-logo-png-favpng-mMzezKqMk1yCDshRnKTCBUxRF.jpg" group-title="ช่องทีวีต่างประเทศ",PBS Kids
 #EXTVLCOPT:network-caching=1000
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",BIZNET KIDS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="ช่องทีวีต่างประเทศ"group-title="ช่องทีวีต่างประเทศ",BIZNET KIDS HD
 #EXTVLCOPT:network-caching=1000
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Zoomoo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oqq4uDn.png" group-title="ช่องทีวีต่างประเทศ",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Baby Shark TV
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/08ee76134022497.Y3JvcCwxNTE0LDExODQsNTA2LDk3.png" group-title="ช่องทีวีต่างประเทศ",Baby Shark TV
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="ช่องทีวีต่างประเทศ",Moonbug
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="ช่องทีวีต่างประเทศ",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-### --- หมวด: DOCUMENTARY --- ###
-#==== สารคดี ====
+
+### --- หมวด:สารคดี --- ###
+
 
 #EXTINF:-1 tvg-id="Xplore.th" tvg-name="XPLORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="ช่องทีวีต่างประเทศ",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
