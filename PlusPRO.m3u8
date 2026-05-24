@@ -1680,7 +1680,7 @@ https://github.com/cattv976/movies/raw/refs/heads/main/hbohits1.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/movies/raw/refs/heads/main/hbosignature1.m3u8
 
-#EXTINF:-1 tvg-name="AXN" group-title="ช่องบันเทิง",AXN
+#EXTINF:-1 tvg-logo="https://img.favpng.com/1/8/21/axn-television-show-reality-television-mystery-channel-inc-the-amazing-race-asia-5-png-favpng-46dbxWe3qqtNcQj5TPQ1jJ0UM.jpg" group-title="ช่องบันเทิง",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
@@ -1714,22 +1714,19 @@ https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
 #EXTINF:-1 tvg-id="Kdrama.uk" tvg-name="RomCom K-Drama" tvg-logo="https://i.postimg.cc/90crSQ0X/IMG-2655.png" group-title="ช่องบันเทิง",RomCom K-Drama
 https://tinyurl.com/3h2e4rtz
 
-#EXTINF:-1 tvg-id="FamilyThai.th" tvg-name="Family พากย์ไทย" group-title="ช่องบันเทิง",Family พากย์ไทย
-http://49.0.64.96:8007/Cartoonumi
-
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="ช่องบันเทิง",MOVIE 
 http://49.0.64.96:8007/IZAA
 
 #EXTINF:-1 tvg-id="MonoPlus.th" tvg-name="MONO29 Plus" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="ช่องบันเทิง",MONO29 Plus
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO29 พากย์ไทย" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องบันเทิง",MONO29 พากย์ไทย
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/mono-29-logo-png_seeklogo-396777.png" group-title="ช่องบันเทิง",MONO29 พากย์ไทย
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO29 Soundtrack" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องบันเทิง",MONO29 Soundtrack
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/mono-29-logo-png_seeklogo-396777.png" group-title="ช่องบันเทิง",MONO29 Soundtrack
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MonoMusic.th" tvg-name="Mono29MusicStation" group-title="ช่องบันเทิง",Mono29MusicStation
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/mono-29-logo-png_seeklogo-396777.png" group-title="ช่องบันเทิง",Mono29MusicStation
 https://monomax-ye61nx.cdn.byteark.com/fleetstream/Mono29MusicStation/index.m3u8
 
 #EXTINF:-1 tvg-id="Alure.th" tvg-name="ALURE" tvg-logo="http://45.144.165.187:8080/images/274ad4786c3abca69fa097b85867d9a4.png" group-title="ช่องบันเทิง",ALURE
@@ -1744,9 +1741,7 @@ https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/3d7bd8ac-859d-40c0-aac3-a9176a6a38fb/2.m3u8
 
-
-==== การ์ตูน ====
-
+#==== การ์ตูน ====
 ### --- [ ระบบสตรีมปกติ m3u8 / IP ] --- ###
 
 #EXTINF:-1 tvg-id="Bean.us" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png" group-title="ช่องการ์ตูน",Mr.bean Cartoon
