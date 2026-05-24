@@ -814,37 +814,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
 
-#-------------- Sport TV ------------
-
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="ช่อง SPORTS - 1", Sport TV+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://opplextv.cyou:8080/nasir6160/nasir/352929
-
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="ช่อง SPORTS - 1", Sport TV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://opplextv.cyou:8080/nasir6160/nasir/352930
-
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="ช่อง SPORTS - 1", Sport TV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://opplextv.cyou:8080/nasir6160/nasir/352931
-
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="https://i.imgur.com/6Dw3GUx.png" group-title="ช่อง SPORTS - 1", Sport TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://opplextv.cyou:8080/nasir6160/nasir/352932
-
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="https://i.imgur.com/mJlbVfW.png" group-title="ช่อง SPORTS - 1", Sport TV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://opplextv.cyou:8080/nasir6160/nasir/352933
-
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="ช่อง SPORTS - 1", Sport TV5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://opplextv.cyou:8080/nasir6160/nasir/352934
-
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="SPORT TV 6" tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="ช่อง SPORTS - 1", Sport TV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://opplextv.cyou:8080/nasir6160/nasir/352935
-
-
 # ----------- TNT Sports (ช่อง SPORTS - 1) -----------
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 1 (DASH 4K)
