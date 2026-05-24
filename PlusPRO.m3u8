@@ -758,6 +758,11 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 
 ###=====  SPORTS  ======
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png?_=20170601155620" group-title="ช่องทีวีต่างประเทศ",DAZN Ringside
+#EXTVLCOPT:http-referrer=https://famelack.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", Fox
 http://stream.cammonitorplus.net/1780/index.m3u8
 
