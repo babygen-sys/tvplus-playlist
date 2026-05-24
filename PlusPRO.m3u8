@@ -367,7 +367,7 @@ http://api.plus-server.sbs/play.php?key=1234&ch=boomerang_mvtv
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 tvg-id="Nickelodeon.th" tvg-name="NICKELODEON" group-title="ช่องทีวีต่างประเทศ",NICKELODEON
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch444_160_115" group-title="ช่องทีวีต่างประเทศ",NICKELODEON
 http://202.169.224.202:8800/udp/239.9.1.17:1234
 
 #EXTINF:-1 tvg-id="NickJr.th" tvg-name="NICK JR" group-title="ช่องทีวีต่างประเทศ",NICK JR
