@@ -814,8 +814,90 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
 
+#-------------- Sport TV ------------
 
-<==== ช่อง SPORTS - 2 ====>
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="ช่อง SPORTS - 1", Sport TV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://opplextv.cyou:8080/nasir6160/nasir/352929
+
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="ช่อง SPORTS - 1", Sport TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://opplextv.cyou:8080/nasir6160/nasir/352930
+
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="ช่อง SPORTS - 1", Sport TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://opplextv.cyou:8080/nasir6160/nasir/352931
+
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="https://i.imgur.com/6Dw3GUx.png" group-title="ช่อง SPORTS - 1", Sport TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://opplextv.cyou:8080/nasir6160/nasir/352932
+
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="https://i.imgur.com/mJlbVfW.png" group-title="ช่อง SPORTS - 1", Sport TV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://opplextv.cyou:8080/nasir6160/nasir/352933
+
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="ช่อง SPORTS - 1", Sport TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://opplextv.cyou:8080/nasir6160/nasir/352934
+
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="SPORT TV 6" tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="ช่อง SPORTS - 1", Sport TV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://opplextv.cyou:8080/nasir6160/nasir/352935
+
+
+# ----------- TNT Sports (ช่อง SPORTS - 1) -----------
+
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 1 (DASH 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="ช่อง SPORTS - 1",TNT SPORTS 1 (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 2 (DASH 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="ช่อง SPORTS - 1",TNT SPORTS 2 (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.hamafola.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 3 (DASH 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="ช่อง SPORTS - 1",TNT SPORTS 3 (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.hamafola.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 4 (DASH 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+# ==== ช่อง SPORTS - 2 ====>
 
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 2",LFC TV
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
@@ -876,6 +958,30 @@ http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf Channel TH
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=golf2
+
+#EXTINF:-1 tvg-id="beINSports" tvg-name="BEIN SPORTS 1" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="ช่อง SPORTS - 2", beIN Sports 1 (Australia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="BEIN SPORTS 2" tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="ช่อง SPORTS - 2", beIN Sports 2 (Australia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="BEIN SPORTS 3" tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="ช่อง SPORTS - 2", beIN Sports 3 (Australia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-id="beIN1.apac" tvg-name="beIN Sports 1" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_70X40.png" group-title="ช่อง SPORTS - 2",Bein Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -1149,7 +1255,7 @@ https://love.bajikag863.workers.dev/lx-origin/th-monomax01bkp_720/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport2_mono
-#http://54.37.19.157/ais_sport2/tracks-v1a1/mono.m3u8
+http://54.37.19.157/ais_sport2/tracks-v1a1/mono.m3u8
 https://love.homema6859.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 2 (Backup 1)
