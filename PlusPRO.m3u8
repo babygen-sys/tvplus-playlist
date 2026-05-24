@@ -473,6 +473,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://i.postimg.cc/6pX5X9m7/Wild-Earth.png" group-title="ช่องทีวีต่างประเทศ",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="ช่องทีวีต่างประเทศ",Food Network 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a9d2f7c1e6b4c8d8a55d7b1e3f0c926:2e62531bdb450480a18197b14f4ebc77
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+
 ### --- NEWS --- ###
 #==== ข่าว ====
 
@@ -1843,8 +1848,3 @@ https://github.com/cattv976/documentary/raw/refs/heads/main/samrujlok.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="ช่องสารคดี",Food Network 
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
-
-#EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="ช่องสารคดี",Food Network 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a9d2f7c1e6b4c8d8a55d7b1e3f0c926:2e62531bdb450480a18197b14f4ebc77
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
