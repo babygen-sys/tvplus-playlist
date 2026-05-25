@@ -406,7 +406,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 ### --- หมวด:สารคดี --- ###
 
-
 #EXTINF:-1 tvg-id="Xplore.th" tvg-name="XPLORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="ช่องทีวีต่างประเทศ",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
@@ -433,46 +432,44 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/defaul
 #EXTVLCOPT:http-origin=https://www.distro.tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/22081ff1-4281-48fc-adf9-e17192068182/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZzNqXy/ert-world.png" group-title="ช่องทีวีต่างประเทศ",ERT World
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/9xaI81ZyFLQYtS0cg/240x240" group-title="ช่องทีวีต่างประเทศ",BBC EARTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://canale-tv.net
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.th" tvg-name="Discovery" tvg-logo="https://i.postimg.cc/HkWL6v1X/Discovery.png" group-title="ช่องทีวีต่างประเทศ",Discovery
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/510-5100449_discovery-channel-logo-2017-png-download-logo-discovery.png" group-title="ช่องทีวีต่างประเทศ",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://canale-tv.net
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
 
-#EXTINF:-1 tvg-id="History.us" tvg-name="History Channel US Eastern Feed" tvg-logo="https://i.postimg.cc/q7fS9Z9P/History-Channel.png" group-title="ช่องทีวีต่างประเทศ",History Channel 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="ช่องทีวีต่างประเทศ",History Channel 
 https://tvpass.org/live/HistoryEast/sd
 
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic US Eastern" tvg-logo="https://i.postimg.cc/4N7xGzX5/Nat-Geo.png" group-title="ช่องทีวีต่างประเทศ",National Geographic 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-logo-png-transparent.png" group-title="ช่องทีวีต่างประเทศ",National Geographic 
 https://tvpass.org/live/NationalGeographicEast/sd
 
-#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="National Geographic Wild" tvg-logo="https://i.postimg.cc/mD8z6H2z/Nat-Geo-Wild.png" group-title="ช่องทีวีต่างประเทศ",National Wild
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png" group-title="ช่องทีวีต่างประเทศ",National Wild
 https://tvpass.org/live/NationalGeographicWildEast/sd
 
-#EXTINF:-1 tvg-id="PlutoTVMovies" tvg-logo="https://i.postimg.cc/8zM8F8t7/Pluto-TV-Movies.png" group-title="ช่องทีวีต่างประเทศ",Pluto TV Movies
-https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
-
-#EXTINF:-1 tvg-id="RTDoc" tvg-logo="https://i.postimg.cc/9FmD1m0G/RT-Doc.png" group-title="ช่องทีวีต่างประเทศ",RT Documentary
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/russia_today_documentary.png" group-title="ช่องทีวีต่างประเทศ",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FuelTV" tvg-logo="https://i.postimg.cc/L5Xz8YyW/Fuel-TV.png" group-title="ช่องทีวีต่างประเทศ",Fuel TV (Plex)
+#EXTINF:-1 tvg-logo="https://i.redd.it/simple-logo-concept-for-wild-earth-v0-i4hy7cgq72xe1.png?width=1001&format=png&auto=webp&s=ab88deb572e19ace757228bf01da2eec5cc1743a" group-title="ช่องทีวีต่างประเทศ",WildEarth
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fishinghalloffamemn.com/wp-content/uploads/2022/02/w2f-logo-for-website.png" group-title="ช่องทีวีต่างประเทศ",wired 2 fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OutdoorChannel" tvg-logo="https://i.postimg.cc/mrh4VzH7/Outdoor-Channel.png" group-title="ช่องทีวีต่างประเทศ",Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Outdoor_logo.png/revision/latest?cb=20231230015004&path-prefix=vi" group-title="ช่องทีวีต่างประเทศ",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://i.postimg.cc/6pX5X9m7/Wild-Earth.png" group-title="ช่องทีวีต่างประเทศ",WildEarth
-https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="ช่องทีวีต่างประเทศ",Food Network 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a9d2f7c1e6b4c8d8a55d7b1e3f0c926:2e62531bdb450480a18197b14f4ebc77
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+
 
 ### --- NEWS --- ###
 #==== ข่าว ====
