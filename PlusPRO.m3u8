@@ -422,16 +422,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 #EXTVLCOPT:http-origin=https://www.distro.tv
 https://d3vqzhzmvqrbon.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV2-MuxIP-WildNature/d2b98486-cf83-4217-8127-f73d79572668/0.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Animal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; TV BOX Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115526&extension=ts
-
 #EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://i.imgur.com/SkpFpW4.png" group-title="ช่องทีวีต่างประเทศ",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://www.distro.tv/favicon.ico",OutsideTV
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Outsidetv_logo_2016.png/revision/latest?cb=20210315043708",OutsideTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv
