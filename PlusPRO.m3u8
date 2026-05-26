@@ -811,7 +811,7 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/69d2c866-6e91-480a-aae0-ab49aa0378c0/2.m3u8
 
-#EXTINF:-1 tvg-name="https://www.golfchannel.cz/obrazek/69563021ef5ea/crop-40471-gch26-849x566-staronovy-golfextra_849x566.png" group-title="ช่องทีวีต่างประเทศ",Golf Channel USA
+#EXTINF:-1 tvg-name="https://static.wikia.nocookie.net/logopedia/images/8/88/Golf_Channel_Logo_%282005%29.svg/revision/latest/scale-to-width-down/284?cb=20251218062724" group-title="ช่องทีวีต่างประเทศ",Golf Channel USA
 https://tvpass.org/live/GolfChannel/sd
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png",The Ring TV (Boxing)
@@ -845,7 +845,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="ช่องทีวีต่างประเทศ",TVRI Sport
+#EXTINF:-1 tvg-logo="https://iili.io/JAI98Qf.png" group-title="ช่องทีวีต่างประเทศ",TVRI Sport
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRISport.m3u8
 
 #EXTINF:-1 tvg-logo="https://strongmancl.com/wp-content/uploads/2025/12/SCL-logo.png" group-title="ช่องทีวีต่างประเทศ",Strongman Champions League
