@@ -972,6 +972,18 @@ https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m3u8
 
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg",🏸Badminton Open 2026 - Court 1 🔴
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+http://43.168.176.59/mobilelive-test.ysp.cctv.cn/ysp/2030989001_hd.m3u8
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg",🏸Badminton Open 2026 - Court 2 🔴
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+http://43.168.176.59/mobilelive-test.ysp.cctv.cn/ysp/2030994701_hd.m3u8.
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg",🏸Badminton Open 2026 3 🔴
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+http://43.168.176.59/mobilelive-test.ysp.cctv.cn/ysp/2030994801_hd.m3u8
+
 #EXTINF:-1 tvg-id="AisATP" tvg-name="Ais ATP" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais71.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 71 (Ais ATP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
