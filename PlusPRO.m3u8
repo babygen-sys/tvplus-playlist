@@ -802,7 +802,7 @@ https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://uzdtv.uz/images/channel_1669618640.png"group-title="ช่องทีวีต่างประเทศ",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/3/tennis-australia-logo-png_seeklogo-522354.png" group-title="ช่องทีวีต่างประเทศ",Tennis
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4D22AQHH9kjEwdvlEA/feedshare-shrink_800/B4DZRgcrPoHIAo-/0/1736784917955?e=2147483647&v=beta&t=A5XCo5J6FlunahdPi0KH5FP3ffvNTxGFpjN1f0HITyY" group-title="ช่องทีวีต่างประเทศ",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://tv.golfnetwork.co.jp/uploads/image/fd58a773-04fb-4e72-8d1c-1a4ca51dfa31.png",Golf Network
@@ -811,10 +811,10 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/69d2c866-6e91-480a-aae0-ab49aa0378c0/2.m3u8
 
-#EXTINF:-1 tvg-name="https://static.wikia.nocookie.net/logopedia/images/8/85/Golf.svg/revision/latest?cb=20201223121529" group-title="ช่องทีวีต่างประเทศ",Golf Channel USA
+#EXTINF:-1 tvg-name="https://www.golfchannel.cz/obrazek/69563021ef5ea/crop-40471-gch26-849x566-staronovy-golfextra_849x566.png" group-title="ช่องทีวีต่างประเทศ",Golf Channel USA
 https://tvpass.org/live/GolfChannel/sd
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://images.launchbox-app.com/r2_37bd150a-6173-4a71-8282-ffa759608e51.png",The Ring TV (Boxing)
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png",The Ring TV (Boxing)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv
@@ -867,7 +867,7 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa84ab38d6173af159c18427c39e129ef702855d9ac51df292018fabdd6a1f7e6.png" group-title="ช่องทีวีต่างประเทศ",BILLIYARD TV
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712" group-title="ช่องทีวีต่างประเทศ",REDBULL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/RedBullEnergyDrink.svg/1280px-RedBullEnergyDrink.svg.png" group-title="ช่องทีวีต่างประเทศ",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sport-fishing.com/cdn/shop/files/LOGO-FISH_DAN_H_Tuna.jpg?v=1702082396&width=95" group-title="ช่องทีวีต่างประเทศ",FISHING TV
