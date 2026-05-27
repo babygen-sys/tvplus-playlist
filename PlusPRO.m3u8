@@ -373,8 +373,8 @@ http://49.0.64.96:8007/Cartoonumi
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch444_160_115" group-title="ช่องทีวีต่างประเทศ",NICKELODEON
-https://tvpass.org/live/NicktoonsEast/sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Nick_Jr._logo_2023_%28alternative%29.png" group-title="ช่องทีวีต่างประเทศ",NICKELODEON
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/150?cb=20241015184948" group-title="ช่องทีวีต่างประเทศ",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
