@@ -1245,11 +1245,6 @@ https://liveera.live/343live/1478/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 48 (PlusTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL104/HLS/TL104.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ช่องกีฬาถ่ายทอดสด", playsport 48 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
@@ -1279,7 +1274,7 @@ https://liveera.live/343live/1483/playlist.m3u8
 #EXTVLCOPT:http-origin=https://343live.com
 https://liveera.live/343live/1441/playlist.m3u8
 
-# ----------- Ais -----------
+# ----------- Ais Football -----------
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 7 TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/playsport_logo.png" group-title="ช่องกีฬาถ่ายทอดสด", AIS SPORTS 
 #http://fastopen.live:8080/MLS003/qZj4zbPNDn/130749
@@ -1325,7 +1320,7 @@ https://liveera.live/343live/1441/playlist.m3u8
 #http://fastopen.live:8080/MLS003/qZj4zbPNDn/130746
 #https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
-### --- หมวด: PLAY SPORTS --- ###
+### --- หมวด: PLAY SPORTS Football --- ###
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/playsport_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 1 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
