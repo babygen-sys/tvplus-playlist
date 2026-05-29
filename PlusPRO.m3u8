@@ -508,7 +508,7 @@ https://love.af4d1ygjfa.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/960px-BBC_World_News_2022.svg.png?_=20220425110846" group-title="ข่าว",BBC WORLD NEWS
 http://202.169.224.202:8800/udp/239.9.1.24:1234
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-1-logo-png-transparent.png" group-title="ข่าว",CNN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="ข่าว",CNN 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxadvertising.com/wp-content/uploads/2024/05/04090656/Weather-logo-leftaligned-e1756991354181.png" group-title="ข่าว", FOX Weather
