@@ -1041,12 +1041,14 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="InterTV" tvg-name="INTER TV" tvg-logo="https://seeklogo.com/images/I/inter-tv-logo-4605867372-seeklogo.com.png" group-title="ช่อง SPORTS - 2",INTER TV ᴴᴰ
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/kGSRT6xN/IMG-4160.png" group-title="ช่อง SPORTS - 2",V Sport Premier League
-
 #EXTINF:-1 group-title="ช่อง SPORTS - 2",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 
-#EXTINF:-1 cuid="1527" tvg-name="FORMULA 1 Channel" tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="ช่อง SPORTS - 2",FORMULA 1 Channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="ช่อง SPORTS - 2",🏁FORMULA 1 Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="ช่อง SPORTS - 2",🏁 F1
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 9)
