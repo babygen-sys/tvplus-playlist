@@ -326,6 +326,7 @@ http://74.91.26.218:82/live/cctv1hd.m3u8
 http://74.91.26.218:82/live/cctv4hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv5.png" group-title="ช่องทีวีต่างประเทศ",CCTV-5 (Sports)
+http://69.30.245.50/live/cctv5.m3u8
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv6.png" group-title="ช่องทีวีต่างประเทศ",CCTV-6 (Movies)
@@ -1171,6 +1172,44 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
 
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
+http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.homema6859.workers.dev/lx-origin/my-bein1_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="CCTV5.CN" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 6
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTV5.CN" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 7
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+
+#--------------------------------------------------------
+
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",Badminton Court 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
@@ -1179,10 +1218,10 @@ https://love.pifipa2974.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg",🏸Badminton Open 2026 - Court 1 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://mobilelive-test.ysp.cctv.cn/eastmantv/2031023001.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg",🏸Badminton Open 2026 - Court 2 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg",🏸Badminton Open 2026 3 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 
@@ -1262,26 +1301,26 @@ https://love.pifipa2974.workers.dev/vx-origin/uk-skysports-mix_480/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/1477/playlist.m3u8
+#https://liveera.live/343live/1477/playlist.m3u8
 
 # ----------- Ais GOLF -----------
 #EXTINF:-1 tvg-id="AisGolf61" tvg-name="Ais GOLF 61" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais61.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 61 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/1482/playlist.m3u8
+#https://liveera.live/343live/1482/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf66" tvg-name="Ais GOLF 66" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais66.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 66 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/1479/playlist.m3u8
+#https://liveera.live/343live/1479/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf69" tvg-name="Ais GOLF 69" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais69.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 69 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/1478/playlist.m3u8
+#https://liveera.live/343live/1478/playlist.m3u8
 
 # ----------- Ais  -----------
 
@@ -1294,7 +1333,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/1439/playlist.m3u8
+#https://liveera.live/343live/1439/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 55 NBA (PlusTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1305,19 +1344,19 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/1484/playlist.m3u8
+#https://liveera.live/343live/1484/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf56" tvg-name="Ais GOLF 56" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais56.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 56 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/1483/playlist.m3u8
+#https://liveera.live/343live/1483/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf57" tvg-name="Ais GOLF 57" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais57.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 57 (WNBA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/1441/playlist.m3u8
+#https://liveera.live/343live/1441/playlist.m3u8
 
 # ----------- Ais Football -----------
 
