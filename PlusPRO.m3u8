@@ -1208,22 +1208,9 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/clleki
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
-
 https://love.qejari.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-
-# ==================== พากย์จีน (CCTV 5 HD) ====================
-
-#EXTINF:-1 tvg-id="CCTV5.CN" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 7
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-
-#EXTINF:-1 tvg-id="CCTV5.CN" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 8
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 #===========================================================================================================================
 
