@@ -1015,8 +1015,12 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
 
+# ==================== champions league final 2026 ====================
+
 #EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 1
-http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
+http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1025,6 +1029,14 @@ http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono
 https://love.homema6859.workers.dev/lx-origin/my-bein1_480/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://168dooballth.org/
+#EXTVLCOPT:http-origin=https://168dooballth.org
+https://love.qejari.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+
+# ==================== พากย์ต่างประเทศ (DASH & 1080p/720p) ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1032,24 +1044,29 @@ https://love.homema6859.workers.dev/lx-origin/my-bein1_480/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 4
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 5
+https://love.qejari.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="CCTV5.CN" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 6
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
+# ==================== พากย์จีน (CCTV 5 HD) ====================
 
 #EXTINF:-1 tvg-id="CCTV5.CN" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 7
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTV5.CN" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 8
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
-#--------------------------------------------------------
+#===========================================================================================================================
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",Badminton Court 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
