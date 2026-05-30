@@ -1210,6 +1210,9 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/clleki
 https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
 https://love.qejari.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="champions league final 2026" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b913d4249990813.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png" group-title="ช่องกีฬาถ่ายทอดสด", champions league final 6
+http://api.plus-server.sbs/play.php?key=1234&ch=api_bein1
+
 
 
 #===========================================================================================================================
