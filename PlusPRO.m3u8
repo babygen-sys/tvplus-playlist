@@ -1115,6 +1115,9 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 
 #===========================================================================================================================
 
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros
+http://api.plus-server.sbs/play.php?key=1234&ch=api_bein1
+
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",🏸 Badminton 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",🏸 Badminton 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
