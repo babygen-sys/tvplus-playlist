@@ -609,20 +609,11 @@ https://stream.pjcdn.com:8200/1;&type=mp3
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png", Sukson Radio เพลงสากล
 https://stream.pjcdn.com:8000/1;&type=mp3
 
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/jbeQ338759.png", COOLfahrenheit
-https://coolism-web.cdn.byteark.com/;stream/1
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/FOa4340821.jpg", Passion FM
-http://onair22.onair.network:8076/live
-
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://dbs.radioline.fr/pictures/radio_08cdc58e6024575b05d1bbc3cc10b36a/logo200.jpg", EFM(Live)
 https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w1216683333.m3u8
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.radio.tmd.go.th/radio/images/station_bkk.png", Thai Weather Radio AM 1287
 http://www.radio.tmd.go.th:8014/;stream.mp3
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.looktung.net/_nuxt/img/logo-160x160.09096e1.png", ลูกทุ่งเน็ตเวิร์ก
-http://media.login.in.th:8200/;stream.mp3
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg", 90 ลูกทุ่ง รักไทย
 http://radio11.plathong.net:8896/;stream.mp3
@@ -650,9 +641,6 @@ https://cdn-edge-ott.prd.go.th/radio_vlc/3834-2ffa-ed0d-e8fd-7a66.stream_aac/chu
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.js100.com/uploads/ckeditor/images/25151(5).jpg", จส.100 (JS100)
 http://112.121.151.133:8184/;&type=mp3
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://pbs.twimg.com/profile_images/1807623439693545472/7kcFNfdv_200x200.jpg", Flex 104.5 Free your Life
-https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png", 106 วิทยุครอบครัวข่าว
 http://radio12.plathong.net:8648/;stream.mp3
@@ -703,9 +691,7 @@ http://atlanticthai.primcast.com:5898/;
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ltwwznwtmq8e.jpg", วัดป่าไทรงาม (Wat Sai Ngam)
 http://103.22.182.105:7110/;
 
-
 ### --- INTERNATIONAL RADIO & CONCERTS --- ###
-
 
 #EXTINF:-1 tvg-id="Hitradio.at" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/RVHXRNJ7/IMG-2757.png", Hitradio 3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
@@ -725,12 +711,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now.nz" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/HWPRzP9g/IMG-2200.png", Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/TRl6359023.jpg", Arirang Radio
-http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-
-
 ### --- BBC RADIO STATIONS --- ###
-
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png", BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one.m3u8
@@ -789,35 +770,23 @@ http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", ESPN U (United States)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",BT SPORTS 1
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",BT SPORTS 2 
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.hamafola.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",BT SPORTS 3 
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.hamafola.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv.png" group-title="ช่องทีวีต่างประเทศ",SPOTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.baxen43035.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv2.png" group-title="ช่องทีวีต่างประเทศ",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://uzdtv.uz/images/channel_1669618640.png"group-title="ช่องทีวีต่างประเทศ",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
@@ -845,9 +814,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/RYINFOI/m.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่องทีวีต่างประเทศ",TNA Sports
-https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
