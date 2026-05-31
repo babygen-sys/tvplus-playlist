@@ -1693,17 +1693,17 @@ http://49.0.64.96:8007/CINEMAX
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง",HBO HD
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8
+#https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8
 https://love.jco5sjujta.workers.dev/lx-origin/th-hbo_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattv976/movies/raw/refs/heads/main/hbohits1.m3u8
+#https://github.com/cattv976/movies/raw/refs/heads/main/hbohits1.m3u8
 https://love.jco5sjujta.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง",HBO Signature
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattv976/movies/raw/refs/heads/main/hbosignature1.m3u8
+#https://github.com/cattv976/movies/raw/refs/heads/main/hbosignature1.m3u8
 https://love.jco5sjujta.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/1/8/21/axn-television-show-reality-television-mystery-channel-inc-the-amazing-race-asia-5-png-favpng-46dbxWe3qqtNcQj5TPQ1jJ0UM.jpg" group-title="ช่องบันเทิง",AXN
@@ -1718,7 +1718,7 @@ https://github.com/cattv976/movies/raw/refs/heads/main/rockaction1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattv976/movies/raw/refs/heads/main/rockentertainmentred1.m3u8
+#https://github.com/cattv976/movies/raw/refs/heads/main/rockentertainmentred1.m3u8
 https://love.jco5sjujta.workers.dev/lx-origin/th-blueant_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
