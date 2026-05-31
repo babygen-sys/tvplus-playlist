@@ -609,20 +609,11 @@ https://stream.pjcdn.com:8200/1;&type=mp3
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png", Sukson Radio เพลงสากล
 https://stream.pjcdn.com:8000/1;&type=mp3
 
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/jbeQ338759.png", COOLfahrenheit
-https://coolism-web.cdn.byteark.com/;stream/1
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/FOa4340821.jpg", Passion FM
-http://onair22.onair.network:8076/live
-
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://dbs.radioline.fr/pictures/radio_08cdc58e6024575b05d1bbc3cc10b36a/logo200.jpg", EFM(Live)
 https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w1216683333.m3u8
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.radio.tmd.go.th/radio/images/station_bkk.png", Thai Weather Radio AM 1287
 http://www.radio.tmd.go.th:8014/;stream.mp3
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.looktung.net/_nuxt/img/logo-160x160.09096e1.png", ลูกทุ่งเน็ตเวิร์ก
-http://media.login.in.th:8200/;stream.mp3
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg", 90 ลูกทุ่ง รักไทย
 http://radio11.plathong.net:8896/;stream.mp3
@@ -650,9 +641,6 @@ https://cdn-edge-ott.prd.go.th/radio_vlc/3834-2ffa-ed0d-e8fd-7a66.stream_aac/chu
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.js100.com/uploads/ckeditor/images/25151(5).jpg", จส.100 (JS100)
 http://112.121.151.133:8184/;&type=mp3
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://pbs.twimg.com/profile_images/1807623439693545472/7kcFNfdv_200x200.jpg", Flex 104.5 Free your Life
-https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png", 106 วิทยุครอบครัวข่าว
 http://radio12.plathong.net:8648/;stream.mp3
@@ -703,9 +691,7 @@ http://atlanticthai.primcast.com:5898/;
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ltwwznwtmq8e.jpg", วัดป่าไทรงาม (Wat Sai Ngam)
 http://103.22.182.105:7110/;
 
-
 ### --- INTERNATIONAL RADIO & CONCERTS --- ###
-
 
 #EXTINF:-1 tvg-id="Hitradio.at" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/RVHXRNJ7/IMG-2757.png", Hitradio 3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
@@ -725,12 +711,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now.nz" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/HWPRzP9g/IMG-2200.png", Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/TRl6359023.jpg", Arirang Radio
-http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-
-
 ### --- BBC RADIO STATIONS --- ###
-
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png", BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one.m3u8
