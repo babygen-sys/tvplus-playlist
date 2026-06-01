@@ -1140,7 +1140,6 @@ https://love.jco5sjujta.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 http://api.plus-server.sbs/play.php?key=1234&ch=api_bein1
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 2
 http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono
-https://love.jco5sjujta.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
 http://api.plus-server.sbs/play.php?key=1234&ch=api_bein2
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 3
 https://love.jco5sjujta.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
