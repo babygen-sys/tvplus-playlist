@@ -1792,6 +1792,13 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 https://love.homema6859.workers.dev/lx-origin/sd-discovery_480/playlist.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/sd-discovery_720/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+#EXTVLCOPT:network-caching=1000
+https://love.pifipa2974.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8
+https://love.jco5sjujta.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
@@ -1804,7 +1811,7 @@ https://love.jco5sjujta.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
 https://github.com/cattv976/documentary/raw/refs/heads/main/trueexplorewild.m3u8
 https://github.com/cattv976/documentary/raw/refs/heads/main/trueexplorewild1.m3u8
 
-#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1717696078.png" group-title="ช่องสารคดี",Asian Food Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="ช่องสารคดี",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/lx-origin/sd-asianfood_480/playlist.m3u8
