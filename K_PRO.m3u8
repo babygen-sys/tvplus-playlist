@@ -959,27 +959,27 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://168dooballth.org/
 #EXTVLCOPT:http-origin=https://168dooballth.org
-https://love.mipolono.workers.dev/lx-origin/nz-skysport6_480/chunks.m3u8
+#https://love.mipolono.workers.dev/lx-origin/nz-skysport6_480/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://nutapi.work/league_match/images/1hcv9hs0ekt.png" group-title="ช่องกีฬาถ่ายทอดสด",เยอรมนี vs ฟินแลนด์
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://168dooballth.org/
 #EXTVLCOPT:http-origin=https://168dooballth.org
-https://love.lwvdbeh3vf.workers.dev/vx-origin/us-foxsports2_480/chunks.m3u8
+#https://love.lwvdbeh3vf.workers.dev/vx-origin/us-foxsports2_480/chunks.m3u8
 #https://love.mipolono.workers.dev/lx-origin/nz-skysport6_480/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://nutapi.work/league_match/images/1hcv9hs0ekt.png" group-title="ช่องกีฬาถ่ายทอดสด",USA vs เซเนกัล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://168dooballth.org/
 #EXTVLCOPT:http-origin=https://168dooballth.org
-https://love.1jlre9c4v3.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8
+#https://love.1jlre9c4v3.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 1
 http://api.plus-server.sbs/play.php?key=1234&ch=api_bein1
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 2
 http://api.plus-server.sbs/play.php?key=1234&ch=api_bein2
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 3
 http://api.plus-server.sbs/play.php?key=1234&ch=api_bein3
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",🏸 Badminton 
@@ -1081,14 +1081,14 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-#https://liveera.live/343live/1477/playlist.m3u8
+https://liveera.live/343live/1477/playlist.m3u8
 
 # ----------- Ais GOLF -----------
 #EXTINF:-1 tvg-id="AisGolf61" tvg-name="Ais GOLF 61" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais61.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 61 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-#https://liveera.live/343live/1482/playlist.m3u8
+https://liveera.live/343live/1482/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf66" tvg-name="Ais GOLF 66" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais66.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 66 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1100,7 +1100,7 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-#https://liveera.live/343live/1478/playlist.m3u8
+https://liveera.live/343live/1478/playlist.m3u8
 
 # ----------- Ais  -----------
 
