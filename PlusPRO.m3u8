@@ -1300,11 +1300,11 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/
 
 ### --- หมวด: PLAY SPORTS Football --- ###
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY sports 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/playsport_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 1 (Plus)
+#EXTINF:-1 tvg-id="PLAYsports1" tvg-name="PLAY sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/ais1.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 1 (Plus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AIS Live 1 TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/playsport_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 1 (K168)
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130743
+
+#EXTINF:-1 tvg-id="PLAYsports1" tvg-name="PLAY sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/ais1.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 1 (K168)
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/playsport_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 2 (Plus)
