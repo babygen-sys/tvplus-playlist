@@ -1661,8 +1661,10 @@ https://love.homema6859.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattv976/movies/raw/refs/heads/main/rockaction1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://liveera.live/343live/2930/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -1694,15 +1696,23 @@ https://tinyurl.com/3h2e4rtz
 http://49.0.64.96:8007/IZAA
 
 #EXTINF:-1 tvg-id="MonoPlus.th" tvg-name="MONO29 Plus" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="ช่องบันเทิง",MONO29 Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://liveera.live/343live/2823/playlist.m3u8
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="ช่องบันเทิง",MONO29 พากย์ไทย
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+#https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="ช่องบันเทิง",MONO29 Soundtrack
-https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+#https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/mono29music.png" group-title="ช่องบันเทิง",Mono29MusicStation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://liveera.live/343live/2824/playlist.m3u8
 https://monomax-ye61nx.cdn.byteark.com/fleetstream/Mono29MusicStation/index.m3u8
 
 #EXTINF:-1 tvg-id="Alure.th" tvg-name="ALURE" tvg-logo="http://45.144.165.187:8080/images/274ad4786c3abca69fa097b85867d9a4.png" group-title="ช่องบันเทิง",ALURE
@@ -1805,10 +1815,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/in
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี",Animal Show
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattv976/documentary/raw/refs/heads/main/animalshow.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://liveera.live/343live/710/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องสารคดี",Animal
 http://49.0.64.96:8007/Animal
@@ -1820,8 +1830,11 @@ http://49.0.64.96:8007/WSCI
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattv976/documentary/raw/refs/heads/main/samrujlok.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://liveera.live/343live/563/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
