@@ -1066,10 +1066,10 @@ http://49.0.64.96:8007/GOLF
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=golf2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bgsport.jpg" group-title="ช่องกีฬาถ่ายทอดสด",BG sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bgsport.jpg" group-title="ช่อง SPORTS - 2",BG sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport2/index.m3u8
+https://ealivefotex.com/maxsport1/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports" group-title="ช่อง SPORTS - 2" tvg-logo="https://epg.pw/media/images/epg/2025/03/09/20250309021231320841_24.png", Fox Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
