@@ -1115,26 +1115,6 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 
 #===========================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://nutapi.work/league_match/images/1hcv9hs0ekt.png" group-title="ช่องกีฬาถ่ายทอดสด",โปแลนด์ VS ยูเครน
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168dooballth.org/
-#EXTVLCOPT:http-origin=https://168dooballth.org
-#https://love.mipolono.workers.dev/lx-origin/nz-skysport6_480/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://nutapi.work/league_match/images/1hcv9hs0ekt.png" group-title="ช่องกีฬาถ่ายทอดสด",เยอรมนี vs ฟินแลนด์
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168dooballth.org/
-#EXTVLCOPT:http-origin=https://168dooballth.org
-#https://love.lwvdbeh3vf.workers.dev/vx-origin/us-foxsports2_480/chunks.m3u8
-#https://love.mipolono.workers.dev/lx-origin/nz-skysport6_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://nutapi.work/league_match/images/1hcv9hs0ekt.png" group-title="ช่องกีฬาถ่ายทอดสด",USA vs เซเนกัล
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168dooballth.org/
-#EXTVLCOPT:http-origin=https://168dooballth.org
-#https://love.1jlre9c4v3.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8
-
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 1
 http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 2
@@ -1143,11 +1123,10 @@ http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono
 http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",🏸 Badminton 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",🏸 Badminton 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.pifipa2974.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Open 2026 - Court 1 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
