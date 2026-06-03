@@ -1145,8 +1145,6 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
 
-#===========================================================================================================================
-
 #------------------------------------ VNL --------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก 
@@ -1174,7 +1172,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zj8nO0G6/live.is
 
 #===================================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก (MaxSport 4)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport4/index.m3u8
@@ -1187,14 +1185,14 @@ https://liveera.live/343live/1491/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://168dooballth.org/
+#EXTVLCOPT:http-origin=https://168dooballth.org
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0edvx0xK/live.isml/live-video=600000.m3u8
 
-#=====================================================================================================================
-#EXTINF:-1 tvg-logo="https://github.com/babygen-sys/yut/blob/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168dooballth.org/
-#EXTVLCOPT:http-origin=https://168dooballth.org
 # ====================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/2026_ASEAN_U-19_Boys%27_Championship.png" group-title="ช่องกีฬาถ่ายทอดสด",AFF U-19:มาเลเซีย VS สิงคโปร์
