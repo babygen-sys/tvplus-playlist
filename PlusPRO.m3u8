@@ -1254,11 +1254,17 @@ http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono
 
 #======================================================= Badminton ===========================================================
 #-------------------------------------------------------ASTRO BADMINTON---------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/badminton1.png" group-title="ช่องกีฬาถ่ายทอดสด",ASTRO BADMINTON TV 1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/badminton1.png" group-title="ช่องกีฬาถ่ายทอดสด",เทส ASTRO BADMINTON TV 1 
 http://api.plus-server.sbs/play.php?key=1234&ch=astro_badminton_1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/badminton1.png" group-title="ช่องกีฬาถ่ายทอดสด",เทส ASTRO BADMINTON TV 1 
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/badminton2.png" group-title="ช่องกีฬาถ่ายทอดสด",ASTRO BADMINTON TV 2
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/badminton2.png" group-title="ช่องกีฬาถ่ายทอดสด",เทส ASTRO BADMINTON TV 2
 http://api.plus-server.sbs/play.php?key=1234&ch=astro_badminton_2
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/badminton2.png" group-title="ช่องกีฬาถ่ายทอดสด",เทส ASTRO BADMINTON TV 2
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/2342.m3u8
+
+#-------------------------------------------------------------
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",🏸 Badminton 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
