@@ -1253,12 +1253,19 @@ http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono
 http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono
 
 #======================================================= Badminton ===========================================================
-
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800",🏸 Badminton 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m3u8
+
+#-------------------------------------------------------ASTRO BADMINTON---------------------------------------------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/badminton1.png" group-title="ช่องกีฬาถ่ายทอดสด",ASTRO BADMINTON TV 1
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/badminton2.png" group-title="ช่องกีฬาถ่ายทอดสด",ASTRO BADMINTON TV 2
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/2342.ts
+
 #-----------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Indo Open 2026 Court 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
