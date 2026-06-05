@@ -1148,7 +1148,8 @@ https://love.homema6859.workers.dev/lx-origin/my-bein2_480/playlist.m3u8
 https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
-
+#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",กีฬาถ่ายทอดสด 1
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
 #------------------------------------ VNL --------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL MAX SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1620,7 +1621,6 @@ https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 https://love.homema6859.workers.dev:443/vx-origin/epl-3_720/chunks.m3u8
 
 #--------------- bein 1
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
@@ -1645,7 +1645,6 @@ https://love.pifipa2974.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8
 https://ealivefotex.com/bein1th/tracks-v1a1/mono.ts.m3u8
 
 #--------------- bein 2
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
@@ -1664,22 +1663,24 @@ https://love.jco5sjujta.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
 https://ealivefotex.com/bein2th/tracks-v1a1/mono.ts.m3u8
 
 #--------------- bein 3
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
-#http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
+http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.pifipa2974.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
-https://love.jco5sjujta.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
+http://api.plus-server.sbs/play.php?key=1234&ch=api_bein5
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 3 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://warpsport24.com/
 https://ealivefotex.com/bein3th/tracks-v1a1/mono.ts.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+#https://love.pifipa2974.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
+#https://love.jco5sjujta.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
 
 #------------------SPOTV
 
