@@ -1149,37 +1149,31 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
 
-#EXTINF:-1 tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด 1
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
+#EXTINF:-1 tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
 
-#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด 2
+#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 #EXTVLCOPT:http-origin=https://www.thairath.co.th
-https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+#https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด 3
+#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport1/index.m3u8
+#https://ealivefotex.com/maxsport1/index.m3u8
 
-#EXTINF:-1 tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด 5
+#EXTINF:-1 tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/lx-origin/ca-tsn1_480/chunks.m3u8
 
-#EXTINF:-1 tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด 6
+#EXTINF:-1 tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/lx-origin/my-astro-sportsplus_480/chunks.m3u8
-
-#EXTINF:-1 tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",PGA Tour
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.pifipa2974.workers.dev/lx-origin/my-nbcgolf_480/chunks.m3u8
 
 #------------------------------------ VNL --------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL MAX SPORTS 
@@ -1192,25 +1186,48 @@ https://ealivefotex.com/maxsport3/index.m3u8
 https://ealivefotex.com/maxsport4/index.m3u8
 
 #===================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก สำรอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8ts2LlJi/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N5dFrSrr/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล เนชันส์ลีก สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ix4HV2x2/live.isml/.m3u8
-#-------------------------------------------------------------------------------------------------------------------------------
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Q0ZBRhLW/live.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hq6srlbq/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pl0MTYnm/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vENgseQ3/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zKvRlKlx/live.isml/.m3u8
+
+#-----------------------------------------------MONOMAX SPORTS29--------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX SPORTS29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://168dooballth.org/
 #EXTVLCOPT:http-origin=https://168dooballth.org
 https://love.fakojo4933.workers.dev/lx-origin/hd-mono_480/chunks.m3u8
+
+#-----------------------------------------------MONOMAX SPORTS love66 --------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="วอลเลย์บอล VNL" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.bajikag863.workers.dev/lx-origin/th-monomax04bkp_720/playlist.m3u8
+
+#--------------------------------------------------------------- VNL เฉพาะกิจ 54 --------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="วอลเลย์บอล VNL" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
+http://54.37.19.157/ais_sport4/tracks-v1a1/mono.m3u8
 
 # ====================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/m1.jpg" group-title="ช่องกีฬาถ่ายทอดสด",MAX-SPORT 1
@@ -1291,11 +1308,12 @@ http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.pifipa2974.workers.dev/lx-origin/sg-hubsport01_480/chunks.m3u8
 
-#-----------------------------------------------------------------------------------------------
+#-------------------------------------------Badminton Indo Open 2026 ----------------------------------------------------
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Indo Open 2026 Court 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
-https://mobilelive-test.ysp.cctv.cn/eastmantv/2031052601.m3u8
+https://mobilelive-test.ysp.cctv.cn/eastmantv/2031050401.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Indo Open 2026 Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
@@ -1303,6 +1321,7 @@ https://mobilelive-test.ysp.cctv.cn/eastmantv/2031052601.m3u8
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Indo Open 2026 Court 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
+
 #======================================================================== ATP Tour =================================================================
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://cdn.wearetennis.bnpparibas/media/images/cache/header_article/uploads/article/image/20210304063544000000_21bnp_mar_atplogo01a.jpg",ATP Tour
@@ -1365,12 +1384,11 @@ https://liveera.live/343live/1482/playlist.m3u8
 #EXTVLCOPT:http-origin=https://343live.com
 https://liveera.live/343live/1478/playlist.m3u8
 
-# ----------- Ais  -----------
-
+# ------------------------------------------------------- Ais PLAY sports  ---------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 48 (Plus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
+#https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ช่องกีฬาถ่ายทอดสด", playsport 48 (K168)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1383,11 +1401,11 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
 
-#EXTINF:-1 tvg-id="AisGolf55" tvg-name="Ais GOLF 55" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 55 (NBA)
+#EXTINF:-1 tvg-id="AisGolf55" tvg-name="Ais GOLF 55" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 55 NBA (K168)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-#https://liveera.live/343live/1484/playlist.m3u8
+https://liveera.live/343live/1484/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf56" tvg-name="Ais GOLF 56" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais56.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 56 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1399,10 +1417,15 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-#https://liveera.live/343live/1441/playlist.m3u8
+https://liveera.live/343live/1441/playlist.m3u8
 
-### --- หมวด: PLAY SPORTS Football --- ###
+#EXTINF:-1 tvg-id="AisGolf57" tvg-name="Ais GOLF 57" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais58.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 58 (WNBA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://liveera.live/343live/1440/playlist.m3u8
 
+### --------------------------------------------- หมวด: PLAY SPORTS Football ------------------------------------------ ###
 #EXTINF:-1 tvg-id="PLAYsports1" tvg-name="PLAY sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/ais1.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 1 (Plus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
