@@ -1167,13 +1167,13 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.pifipa2974.workers.dev/lx-origin/ca-tsn1_480/chunks.m3u8
+#https://love.pifipa2974.workers.dev/lx-origin/ca-tsn1_480/chunks.m3u8
 
 #EXTINF:-1 tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.pifipa2974.workers.dev/lx-origin/my-astro-sportsplus_480/chunks.m3u8
+#https://love.pifipa2974.workers.dev/lx-origin/my-astro-sportsplus_480/chunks.m3u8
 
 #------------------------------------ VNL --------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL MAX SPORTS 
@@ -1214,13 +1214,13 @@ http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 #EXTINF:-1 tvg-id="" tvg-name="วอลเลย์บอล VNL" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
+#https://love.homema6859.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
 #https://love.bajikag863.workers.dev/lx-origin/th-monomax04bkp_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="วอลเลย์บอล VNL" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
+#https://love.homema6859.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
 
 #--------------------------------------------------------------- VNL เฉพาะกิจ 54 --------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="วอลเลย์บอล VNL" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL
@@ -1311,7 +1311,7 @@ https://love.pifipa2974.workers.dev/lx-origin/sg-hubsport01_480/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Indo Open 2026 Court 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
-https://mobilelive-test.ysp.cctv.cn/eastmantv/2031050401.m3u8
+https://mobilelive-test.ysp.cctv.cn/eastmantv/2031050501.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Indo Open 2026 Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
