@@ -1029,31 +1029,26 @@ https://ealivefotex.com/maxsport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Q0ZBRhLW/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hq6srlbq/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pl0MTYnm/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vENgseQ3/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zKvRlKlx/live.isml/.m3u8
 
 #-----------------------------------------------MONOMAX SPORTS29--------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX SPORTS29
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
 #-----------------------------------------------MONOMAX SPORTS love66 --------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="วอลเลย์บอล VNL" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล VNL
