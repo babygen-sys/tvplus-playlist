@@ -1345,7 +1345,7 @@ http://43.168.176.59/mobilelive-test.ysp.cctv.cn/ysp/2031105901_hd.m3u8
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Indo Open 2026 Court 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://wakacha.github.io
-https://mobilelive-test.ysp.cctv.cn/eastman/2031106001.m3u8
+#https://mobilelive-test.ysp.cctv.cn/eastman/2031106001.m3u8
 #EXTINF:-1 tvg-logo="https://img.pikbest.com/png-images/20241229/vibrant-badminton-logo-with-colorful-shuttlecock_11315972.png!sw800" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Indo Open 2026 Court 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://43.168.176.59/mobilelive-test.ysp.cctv.cn/ysp/2031106001_hd.m3u8
