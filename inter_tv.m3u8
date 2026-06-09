@@ -1,10 +1,6 @@
-#EXTM3U
-
-###<==== ช่องทีวีต่างประเทศ ====>###
-
-==== บันเทิง ====
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
+#EXTM3U ###<==== ช่องทีวีต่างประเทศ ====>###
+#==== บันเทิง ====
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mr-bean-png/mr-bean-bean-fanart-fanart-20.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/brt0yS2H/IMG-2953.png" group-title="ช่องทีวีต่างประเทศ",Amazing Show
@@ -13,87 +9,251 @@ http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="ช่องทีวีต่างประเทศ",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="rock_action" tvg-logo="https://raw.githubusercontent.com/บอส/logos/main/rock_action.png" group-title="ช่องทีวีต่างประเทศ",ROCK ACTION 
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#EXTINF:-1 tvg-id="ENT_Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="ช่องทีวีต่างประเทศ",ENT Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="ENT_Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="ช่องทีวีต่างประเทศ",ENT Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="RockEntertainment.th" tvg-name="Rock Entertainment" tvg-logo="https://i.postimg.cc/g0K9G2Pz/Rock-Entertainment.png" group-title="ช่องทีวีต่างประเทศ",ROCK Entertainment
-http://202.169.224.202:8800/udp/239.9.1.8:1234
+#EXTINF:-1 tvg-id="Great_Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Great_Movies_2025.png" group-title="ช่องทีวีต่างประเทศ",Great Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvn_korea" tvg-logo="https://raw.githubusercontent.com/บอส/logos/main/tvn.png" group-title="ช่องทีวีต่างประเทศ", TVN / CJ ENM 
+#EXTINF:-1 tvg-id="rock_action" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/rockaction%20(2).png" group-title="ช่องทีวีต่างประเทศ",ROCK ACTION 
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
+
+#EXTINF:-1 tvg-id="RockEntertainment.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/rockentertian.png" group-title="ช่องทีวีต่างประเทศ",ROCK ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://object-streamo.emonaja.com/img/axn.png" group-title="ช่องทีวีต่างประเทศ",AXN 
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvn_korea" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cjenm_logo.jpg" group-title="ช่องทีวีต่างประเทศ",CJ ENM 
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="action_hollywood" tvg-logo="https://raw.githubusercontent.com/บอส/logos/main/hollywood.png" group-title="ช่องทีวีต่างประเทศ", Action Hollywood 
+#EXTINF:-1 tvg-id="action_hollywood" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/actionholeewood.png" group-title="ช่องทีวีต่างประเทศ", Action Hollywood 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="ช่องทีวีต่างประเทศ",WB FILM
+# --- International Movie & News Channels ---
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/786-7869945_warner-brothers-4-film-collection-blu-rays-hd.png" group-title="ช่องทีวีต่างประเทศ",WB FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CinemaWorld
+#EXTINF:-1 tvg-logo="https://img.favpng.com/14/9/14/nhk-world-premium-japan-logo-png-favpng-TrY461wz5x1rj2wWGEUhH2BMH.jpg" group-title="ช่องทีวีต่างประเทศ",NHK World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tms066x/kix.png" group-title="ช่องทีวีต่างประเทศ",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+#https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+# --- HBO & Cinemax Group ---
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/9LNJXe3.png" group-title="ช่องทีวีต่างประเทศ",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/19/24/14/hbo-2-television-show-streaming-media-png-favpng-w6NG7MNhKBv2JQqxyvGiw5vv8.jpg" group-title="ช่องทีวีต่างประเทศ",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+http://185.98.211.8:81/hbo2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ช่องทีวีต่างประเทศ",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ช่องทีวีต่างประเทศ",HBO
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#https://indihuy.streamized.net/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+#https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo-hits" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="ช่องทีวีต่างประเทศ",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+
+#EXTINF:-1 tvg-id="hbo-family" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="ช่องทีวีต่างประเทศ",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+
+#EXTINF:-1 tvg-id="hbo-signature" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="ช่องทีวีต่างประเทศ",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DkfzYmG/cinemax.png" group-title="ช่องทีวีต่างประเทศ",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+#http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png/revision/latest/scale-to-width-down/1200?cb=20250323085928" group-title="ช่องทีวีต่างประเทศ",CinemaWorld
 http://119.82.250.109:8080/nl.m3u8?id=1024
-
-#EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="ช่องทีวีต่างประเทศ",VIPA
-https://tinyurl.com/yktektyy
-
-#EXTINF:-1 tvg-id="Zee.th" group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png",Zee Nung
-https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CH8.th" group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png",Ch 8 Thailand 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
+#EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="ช่องทีวีต่างประเทศ",VIPA
+https://tinyurl.com/yktektyy
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/MIXMAJOR.png" group-title="ช่องทีวีต่างประเทศ",MIXMAJOR
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=mix_mvtv
 
-==== กาตูน ====
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/TVB%20Thai.jpg" group-title="ช่องทีวีต่างประเทศ",TVB Thai
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=tvb_mvtv
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2%20channel.jpg" group-title="ช่องทีวีต่างประเทศ",ราม่า channel
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://api.plus-server.sbs/play.php?key=1234&ch=rama_mvtv
 
-### --- หมวด: KIDS --- ###
+#EXTINF:-1 tvg-id="Zee_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="ช่องทีวีต่างประเทศ",Zee TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://mini.allinonereborn.fun/tata.php?id=11783
 
-#EXTINF:-1 tvg-id="channel1" group-title="ช่องทีวีต่างประเทศ",Boom
-#EXTVLCOPT:http-user-agent=IPtvDRM Player
-http://mooseven.ddns.net:8080/blive/blivetv/255834
+#EXTINF:-1 tvg-id="Zee_One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="ช่องทีวีต่างประเทศ",Zee One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest?cb=20180131140829" group-title="ช่องทีวีต่างประเทศ",WOWOW Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/453453.jpg/revision/latest?cb=20130406223357" group-title="ช่องทีวีต่างประเทศ",WOWOW Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/WOWOWlive_eng.jpg/revision/latest?cb=20250326114506", WOWOW Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+
+#EXTINF:-1 tvg-id="Channel_Ginga" tvg-logo="https://i.ytimg.com/vi/qzwPrtFv_To/sddefault.jpg" group-title="ช่องทีวีต่างประเทศ",Channel Ginga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+
+# --- [ หมวดหมู่: ช่องทีวีจีน ] ---
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_160_115" group-title="ช่องทีวีต่างประเทศ",CCTV-1 (General)
+http://74.91.26.218:82/live/cctv1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch542_160_115" group-title="ช่องทีวีต่างประเทศ",CCTV-4 (International)
+http://74.91.26.218:82/live/cctv4hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv5.png" group-title="ช่องทีวีต่างประเทศ",CCTV-5 (Sports)
+http://69.30.245.50/live/cctv5.m3u8
+http://74.91.26.218:82/live/cctv5hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv6.png" group-title="ช่องทีวีต่างประเทศ",CCTV-6 (Movies)
+http://74.91.26.218:82/live/cctv6hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv7.png" group-title="ช่องทีวีต่างประเทศ",CCTV-7 (Military/Agri)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv8.png" group-title="ช่องทีวีต่างประเทศ",CCTV-8 (Drama)
+http://74.91.26.218:82/live/cctv8hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch545_160_115" group-title="ช่องทีวีต่างประเทศ",CCTV-13 (News)
+http://74.91.26.218:82/live/cctv13hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="ช่องทีวีต่างประเทศ",CCTV-16 奥林匹克
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch330_160_115" group-title="ช่องทีวีต่างประเทศ",CGTN English
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+### --- KIDS --- ###
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="ช่องทีวีต่างประเทศ",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
+
+#EXTINF:-1 tvg-logo="https://liveera.live/images/channels/Animax__Singapore.png" group-title="ช่องทีวีต่างประเทศ", Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+#EXTINF:-1 tvg-logo="https://liveera.live/images/channels/Disney_Channel.png" group-title="ช่องทีวีต่างประเทศ", Disney Channel 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Boomerang_2025.png" group-title="ช่องทีวีต่างประเทศ",Boom 
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:network-caching=2000
+http://api.plus-server.sbs/play.php?key=1234&ch=boomerang_mvtv
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 tvg-id="Nickelodeon.th" tvg-name="NICKELODEON" group-title="ช่องทีวีต่างประเทศ",NICKELODEON
-http://202.169.224.202:8800/udp/239.9.1.17:1234
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Nicktoons_Splat.png/revision/latest/scale-to-width-down/250?cb=20240501141956" group-title="ช่องทีวีต่างประเทศ", Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.th" tvg-name="NICK JR" group-title="ช่องทีวีต่างประเทศ",NICK JR
-http://202.169.224.202:8800/udp/239.9.1.18:1234
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Nickelodeon_Junior_France_splat_logo.png/revision/latest/scale-to-width-down/250?cb=20241015185130" group-title="ช่องทีวีต่างประเทศ",Nickelodeon Junior
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",TOM & JERRY
-#EXTVLCOPT:network-caching=1000
-http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/150?cb=20241015184948" group-title="ช่องทีวีต่างประเทศ",Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://galandriel1.thobias11.cfd/nicjr/usergendxl2c8nd.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",PBS Kids
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="ช่องทีวีต่างประเทศ",TOM & JERRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iptv-web.app/
+#EXTVLCOPT:http-origin=https://iptv-web.app
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/5/8/13/pbs-kids-wucf-tv-television-logo-png-favpng-mMzezKqMk1yCDshRnKTCBUxRF.jpg" group-title="ช่องทีวีต่างประเทศ",PBS Kids
 #EXTVLCOPT:network-caching=1000
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",BIZNET KIDS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="ช่องทีวีต่างประเทศ"group-title="ช่องทีวีต่างประเทศ",BIZNET KIDS HD
 #EXTVLCOPT:network-caching=1000
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Zoomoo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oqq4uDn.png" group-title="ช่องทีวีต่างประเทศ",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Baby Shark TV
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/08ee76134022497.Y3JvcCwxNTE0LDExODQsNTA2LDk3.png" group-title="ช่องทีวีต่างประเทศ",Baby Shark TV
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="ช่องทีวีต่างประเทศ",Moonbug
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="ช่องทีวีต่างประเทศ",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-
-
-==== สารคดี ====
-
-### --- หมวด: DOCUMENTARY --- ###
-
+### --- หมวด:สารคดี --- ###
 
 #EXTINF:-1 tvg-id="Xplore.th" tvg-name="XPLORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="ช่องทีวีต่างประเทศ",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
@@ -104,47 +264,65 @@ https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="PetClubTV.us" tvg-name="PetClub TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="ช่องทีวีต่างประเทศ",PetClub TV2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.th" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/6pM0f0z7/Animal-Planet.png" group-title="ช่องทีวีต่างประเทศ",Animal Planet 1
-http://179.63.6.15:8002/play/a02p
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Wild%20Nature.jpg",Wild Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv
+https://d3vqzhzmvqrbon.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV2-MuxIP-WildNature/d2b98486-cf83-4217-8127-f73d79572668/0.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.th" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/6pM0f0z7/Animal-Planet.png" group-title="ช่องทีวีต่างประเทศ",Animal Planet 2
-http://202.169.224.202:8800/udp/239.9.1.7:1234
+#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://i.imgur.com/SkpFpW4.png" group-title="ช่องทีวีต่างประเทศ",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="AFN.us" tvg-name="AFN" tvg-logo="https://i.postimg.cc/fRFv6qf9/AFN.png" group-title="ช่องทีวีต่างประเทศ",AFN
-http://202.169.224.202:8800/udp/239.9.1.5:1234
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Outsidetv_logo_2016.png/revision/latest?cb=20210315043708",OutsideTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/22081ff1-4281-48fc-adf9-e17192068182/0.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.th" tvg-name="Discovery" tvg-logo="https://i.postimg.cc/HkWL6v1X/Discovery.png" group-title="ช่องทีวีต่างประเทศ",Discovery
-http://202.169.224.202:8800/udp/239.9.1.6:1234
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/9xaI81ZyFLQYtS0cg/240x240" group-title="ช่องทีวีต่างประเทศ",BBC EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 
-#EXTINF:-1 tvg-id="History.us" tvg-name="History Channel US Eastern Feed" tvg-logo="https://i.postimg.cc/q7fS9Z9P/History-Channel.png" group-title="ช่องทีวีต่างประเทศ",History Channel 
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/discovery-channel-logo-fmik7rr5juae040s-2.png" group-title="ช่องทีวีต่างประเทศ",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="ช่องทีวีต่างประเทศ",History Channel 
 https://tvpass.org/live/HistoryEast/sd
 
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic US Eastern" tvg-logo="https://i.postimg.cc/4N7xGzX5/Nat-Geo.png" group-title="ช่องทีวีต่างประเทศ",National Geographic 
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/national-geographic-logo-3kerqur3d78tp1u4-2.jpg" group-title="ช่องทีวีต่างประเทศ",National Geographic 
 https://tvpass.org/live/NationalGeographicEast/sd
 
-#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="National Geographic Wild" tvg-logo="https://i.postimg.cc/mD8z6H2z/Nat-Geo-Wild.png" group-title="ช่องทีวีต่างประเทศ",National Wild
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/national-geographic-wild-logo-01b75pw43p5z75yb-2.png" group-title="ช่องทีวีต่างประเทศ",National Wild
 https://tvpass.org/live/NationalGeographicWildEast/sd
 
-#EXTINF:-1 tvg-id="PlutoTVMovies" tvg-logo="https://i.postimg.cc/8zM8F8t7/Pluto-TV-Movies.png" group-title="ช่องทีวีต่างประเทศ",Pluto TV Movies
-https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
-
-#EXTINF:-1 tvg-id="RTDoc" tvg-logo="https://i.postimg.cc/9FmD1m0G/RT-Doc.png" group-title="ช่องทีวีต่างประเทศ",RT Documentary
+#https://www.cableman.ru/sites/default/files/russia_today_documentary.png
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="ช่องทีวีต่างประเทศ",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FuelTV" tvg-logo="https://i.postimg.cc/L5Xz8YyW/Fuel-TV.png" group-title="ช่องทีวีต่างประเทศ",Fuel TV (Plex)
-https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OutdoorChannel" tvg-logo="https://i.postimg.cc/mrh4VzH7/Outdoor-Channel.png" group-title="ช่องทีวีต่างประเทศ",Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://i.postimg.cc/6pX5X9m7/Wild-Earth.png" group-title="ช่องทีวีต่างประเทศ",WildEarth
+#EXTINF:-1 tvg-logo="https://premium-storefronts.s3.amazonaws.com/storefronts/wildearth/assets/logo.png?t=19e4019b949" group-title="ช่องทีวีต่างประเทศ",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fishinghalloffamemn.com/wp-content/uploads/2022/02/w2f-logo-for-website.png" group-title="ช่องทีวีต่างประเทศ",wired 2 fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="OutdoorChannel" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Outdoor_logo.png/revision/latest?cb=20231230015004&path-prefix=vi" group-title="ช่องทีวีต่างประเทศ",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-==== ข่าว ====
+#EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="ช่องทีวีต่างประเทศ",Food Network 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a9d2f7c1e6b4c8d8a55d7b1e3f0c926:2e62531bdb450480a18197b14f4ebc77
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+
 
 ### --- NEWS --- ###
+#==== ข่าว ====
 
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="ข่าว",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -156,72 +334,79 @@ https://server1.streamssl.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png" group-title="ข่าว",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 group-title="ข่าว", PPTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ข่าว", PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
 
-#EXTINF:-1 group-title="ข่าว", True4U
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="ข่าว", True4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/02_TRUE4U_480p/playlist.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/true24.m3u8
 
-#EXTINF:-1 group-title="ข่าว", ไทยรัฐ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-thairath.png" group-title="ข่าว", ไทยรัฐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/02_THAIRATH_720p/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="ข่าว",TSport 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.af4d1ygjfa.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" group-title="ข่าว",BBC WORLD NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/960px-BBC_World_News_2022.svg.png?_=20220425110846" group-title="ข่าว",BBC WORLD NEWS
 http://202.169.224.202:8800/udp/239.9.1.24:1234
 
-#EXTINF:-1 tvg-id="fox_weather" group-title="ข่าว", FOX Weather
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="ข่าว",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.foxadvertising.com/wp-content/uploads/2024/05/04090656/Weather-logo-leftaligned-e1756991354181.png" group-title="ข่าว", FOX Weather
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://247wlive.foxweather.com/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="global_news" group-title="ข่าว", Global News (Corus)
+#EXTINF:-1 tvg-id="global_news" tvg-logo="https://images.squarespace-cdn.com/content/v1/603729ce0e79511eedf6d045/924c167b-fc37-417e-ab29-29c62eb5ee17/Global-News-01-%5BConverted%5D.png" group-title="ข่าว", Global News 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="dw_news" group-title="ข่าว", DW English News
+#EXTINF:-1 tvg-id="dw_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="ข่าว", DW English News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="sky_news_au" group-title="ข่าว", Sky News Australia Extra 3
+#EXTINF:-1 tvg-id="sky_news_au"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1280px-Sky_News_logo.svg.png" group-title="ข่าว", Sky News Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTINF:-1 group-title="ข่าว", CNA
+#EXTINF:-1 tvg-logo="https://www.lzb.lt/wp-content/uploads/2017/10/nhkworld.png" group-title="ข่าว",NHK World 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www3.nhk.or.jp/
+#EXTVLCOPT:http-origin=https://www3.nhk.or.jp
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="ข่าว", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 group-title="ข่าว", Bloomberg News
+#EXTINF:-1  tvg-logo="https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png" group-title="ข่าว", Bloomberg News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:-1 group-title="ข่าว", Russia Today (RT)
+#EXTINF:-1 tvg-logo="https://ict2go.ru/uploads/media/participants_lid_image/0001/02/thumb_1317_participants_lid_image_big.png" group-title="ข่าว", Russia Today (RT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 
-#EXTINF:-1 group-title="ข่าว", BFM Business
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jcZ294dfvLrpfAlt-dEkMkhCjjLW_-j7vCdCZykNbgxHNK8yjCvC8P0mNg-LoAp5zFY=w600-h300-pc0xffffff-pd" group-title="ข่าว", BFM Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 group-title="ข่าว", CBS News
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.62894.9007199266307714.19056064-61f6-46db-a885-8606a40a9130.178f68bb-1678-4fb3-aea3-f0f8d7ac4599" group-title="ข่าว", CBS News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 group-title="ข่าว", Bloomberg HT
+#EXTINF:-1 tvg-logo="https://winderapp.com/_next/static/media/brand1.05d371ac.png" group-title="ข่าว", Bloomberg HT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
 
-
-==== Music & Radio ====
-
+#==== Music & Radio ====
+#---เพลง-----
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="Music&Radio",K-POP by CJ ENM
@@ -268,20 +453,11 @@ https://stream.pjcdn.com:8200/1;&type=mp3
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png", Sukson Radio เพลงสากล
 https://stream.pjcdn.com:8000/1;&type=mp3
 
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/jbeQ338759.png", COOLfahrenheit
-https://coolism-web.cdn.byteark.com/;stream/1
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/FOa4340821.jpg", Passion FM
-http://onair22.onair.network:8076/live
-
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://dbs.radioline.fr/pictures/radio_08cdc58e6024575b05d1bbc3cc10b36a/logo200.jpg", EFM(Live)
 https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w1216683333.m3u8
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.radio.tmd.go.th/radio/images/station_bkk.png", Thai Weather Radio AM 1287
 http://www.radio.tmd.go.th:8014/;stream.mp3
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="http://www.looktung.net/_nuxt/img/logo-160x160.09096e1.png", ลูกทุ่งเน็ตเวิร์ก
-http://media.login.in.th:8200/;stream.mp3
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg", 90 ลูกทุ่ง รักไทย
 http://radio11.plathong.net:8896/;stream.mp3
@@ -309,9 +485,6 @@ https://cdn-edge-ott.prd.go.th/radio_vlc/3834-2ffa-ed0d-e8fd-7a66.stream_aac/chu
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.js100.com/uploads/ckeditor/images/25151(5).jpg", จส.100 (JS100)
 http://112.121.151.133:8184/;&type=mp3
-
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://pbs.twimg.com/profile_images/1807623439693545472/7kcFNfdv_200x200.jpg", Flex 104.5 Free your Life
-https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png", 106 วิทยุครอบครัวข่าว
 http://radio12.plathong.net:8648/;stream.mp3
@@ -362,9 +535,7 @@ http://atlanticthai.primcast.com:5898/;
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ltwwznwtmq8e.jpg", วัดป่าไทรงาม (Wat Sai Ngam)
 http://103.22.182.105:7110/;
 
-
 ### --- INTERNATIONAL RADIO & CONCERTS --- ###
-
 
 #EXTINF:-1 tvg-id="Hitradio.at" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/RVHXRNJ7/IMG-2757.png", Hitradio 3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
@@ -384,14 +555,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now.nz" group-title="Music&Radio" tvg-logo="https://i.postimg.cc/HWPRzP9g/IMG-2200.png", Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music&Radio" tvg-logo="https://www.i-pic.info/i/TRl6359023.jpg", Arirang Radio
-http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-
-
-
 ### --- BBC RADIO STATIONS --- ###
-
-
 
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png", BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one.m3u8
@@ -426,73 +590,135 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1 group-title="Music&Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/1280px-BBC_World_Service_2022_%28Boxed%29.svg.png", BBC Radio World Service
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_world_service.m3u8
 
+###=====  SPORTS  ======
 
-=====  SPORTS  ======
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png?_=20170601155620" group-title="ช่องทีวีต่างประเทศ",DAZN Ringside
+#EXTVLCOPT:http-referrer=https://famelack.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", Fox
+http://stream.cammonitorplus.net/1780/index.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Setanta Sports 1 Georgia
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="Max.Sports.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="ช่องทีวีต่างประเทศ", Max Sports
+https://indihuy.streamized.net/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-chno="46" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", ESPN (United States)
+http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", ESPN2 (United States)
+http://41.223.30.230/ESPN2/index.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", ESPN U (United States)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:network-caching=1000
+https://cdn10.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=28ny7l41BQT656CE9vdntw&expires=1780228815
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.hamafola.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 2 
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:network-caching=1000
+https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=NLOUREmyWjRXPBaSMVWq6g&expires=1780228815
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
+#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
+https://love.hamafola.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 3 
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:network-caching=1000
+https://cdn1.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=-LbZW_Bggu7VG2dTO-WZog&expires=1780228815
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 4
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:network-caching=1000
+https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=g9iQLkmkBd5A_eX39XnXjw&expires=1780228815
+
+#EXTINF:-1 tvg-logo="https://uzdtv.uz/images/channel_1669618640.png"group-title="ช่องทีวีต่างประเทศ",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
-#EXTINF:-1 tvg-id="TennisdTV" tvg-logo="https://i.postimg.cc/t4mR0jM3/Real-Madrid-TV.png" group-title="ช่องทีวีต่างประเทศ",Tennis
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4D22AQHH9kjEwdvlEA/feedshare-shrink_800/B4DZRgcrPoHIAo-/0/1736784917955?e=2147483647&v=beta&t=A5XCo5J6FlunahdPi0KH5FP3ffvNTxGFpjN1f0HITyY" group-title="ช่องทีวีต่างประเทศ",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FreeLiveSports.uk" tvg-logo="https://i.postimg.cc/D0Y6Ym8m/Free-Live-Sports.png" group-title="ช่องทีวีต่างประเทศ",Free Live Sports
-https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://tv.golfnetwork.co.jp/uploads/image/fd58a773-04fb-4e72-8d1c-1a4ca51dfa31.png",Golf Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/69d2c866-6e91-480a-aae0-ab49aa0378c0/2.m3u8
 
-#EXTINF:-1 tvg-id="Sports.Channel" tvg-logo="https://i.postimg.cc/mD3vVfKz/Sports-Icon.png" group-title="ช่องทีวีต่างประเทศ",NFL network
-http://45.139.122.199:2095/play/live.php?mac=00:1A:79:46:E4:1E&stream=2131378&extension=ts
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/12/golf-channel-2026-logo.png" group-title="ช่องทีวีต่างประเทศ",Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://i.postimg.cc/44YfS7hH/ESPN1.png" group-title="ช่องทีวีต่างประเทศ",ESPN 1
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://s.yimg.com/ny/api/res/1.2/xSgC7ThEhoW5Yzk66.W8nQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTM2MDtoPTI5Nw--/https://media.zenfs.com/en/globenewswire.com/6c1dd46b1a26d3b71c2fabd28e90ea9a",Lingerie Fighting
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-ring-tv/d075770e-b072-414c-892c-ed282c5dbd50/2.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://i.postimg.cc/j5G0B8q2/ESPN2.png" group-title="ช่องทีวีต่างประเทศ",ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://thinkrightpr.com/wp-content/uploads/2022/02/RealAmericasVoice.jpeg",Real America's Voice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-origin=https://www.distro.tv
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/RYINFOI/m.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://i.postimg.cc/B6fB8q3n/ESPN3.png" group-title="ช่องทีวีต่างประเทศ",ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://i.postimg.cc/vH8b8q4n/ESPN4.png" group-title="ช่องทีวีต่างประเทศ",ESPN 4
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://i.postimg.cc/7Z8b8q5n/ESPN5.png" group-title="ช่องทีวีต่างประเทศ",ESPN 5
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://i.postimg.cc/m28b8q6n/ESPN6.png" group-title="ช่องทีวีต่างประเทศ",ESPN 6
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="ช่องทีวีต่างประเทศ",TVRI Sport
+#EXTINF:-1 tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png" group-title="ช่องทีวีต่างประเทศ",TVRI Sport
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRISport.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/quuen2024/logo-versi@queen/StrongmanChampions.png" group-title="ช่องทีวีต่างประเทศ",Strongman Champions League
+#EXTINF:-1 tvg-logo="https://strongmancl.com/wp-content/uploads/2025/12/SCL-logo.png" group-title="ช่องทีวีต่างประเทศ",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png" group-title="ช่องทีวีต่างประเทศ",Hi Sport
 http://49.0.64.96:8007/HiSports
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",RACING MAG
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-horse-racing-png-image_6898900.png",RACING MAG
 https://cdn.jsdelivr.net/gh/Paradise-91/ParaTV@main/streams/equidia/racingmag.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",RACING.LIVE
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/25038
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="ช่องทีวีต่างประเทศ",Horse and Country TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="ช่องทีวีต่างประเทศ",Horse and Country TV
 #EXTVLCOPT:network-caching=1000
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="ช่องทีวีต่างประเทศ",HORSE TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo4OSUbfRGEPzKkDjR8cC6pI47hAdIULmJg&s" group-title="ช่องทีวีต่างประเทศ",HORSE TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FuY7wEZ.jpg" group-title="ช่องทีวีต่างประเทศ",BILLIYARD TV
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa84ab38d6173af159c18427c39e129ef702855d9ac51df292018fabdd6a1f7e6.png" group-title="ช่องทีวีต่างประเทศ",BILLIYARD TV
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="ช่องทีวีต่างประเทศ",REDBULL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/RedBullEnergyDrink.svg/1280px-RedBullEnergyDrink.svg.png" group-title="ช่องทีวีต่างประเทศ",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0hBl6C.jpg" group-title="ช่องทีวีต่างประเทศ",FISHING TV
+#EXTINF:-1 tvg-logo="https://www.sport-fishing.com/cdn/shop/files/LOGO-FISH_DAN_H_Tuna.jpg?v=1702082396&width=95" group-title="ช่องทีวีต่างประเทศ",FISHING TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
