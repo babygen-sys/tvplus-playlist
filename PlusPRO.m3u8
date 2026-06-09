@@ -1369,6 +1369,18 @@ https://love.pifipa2974.workers.dev/vx-origin/uk-skysports-mix_480/chunks.m3u8
 #EXTVLCOPT:http-origin=https://343live.com
 https://liveera.live/343live/1477/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AisATP" tvg-name="Ais ATP" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais72.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 72 (ATP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://liveera.live/343live/1476/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AisATP" tvg-name="Ais ATP" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais73.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 73 (ATP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://liveera.live/343live/1475/playlist.m3u8
+
 # ----------- Ais GOLF -----------
 #EXTINF:-1 tvg-id="AisGolf61" tvg-name="Ais GOLF 61" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais61.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 61 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
