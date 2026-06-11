@@ -1228,7 +1228,7 @@ https://love.pifipa2974.workers.dev/lx-origin/my-astro-sportsplus_480/chunks.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.pifipa2974.workers.dev/lx-origin/my-astro-sportsplus_480/chunks.m3u8
+#https://love.pifipa2974.workers.dev/lx-origin/my-astro-sportsplus_480/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AVC Nations Cup 11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/AVC_Women%27s_Volleyball_Cup_Candon_2026_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",AVC Nations Cup 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
