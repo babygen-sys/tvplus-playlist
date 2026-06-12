@@ -1024,29 +1024,23 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup (plus-tv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://168dooballth.org/
+#EXTVLCOPT:http-origin=https://168dooballth.org
+https://xx05.eplth.work/hls/bA0_6Fr__x3wfnGnwQRhrA/1781242981/mono1.m3u8
+
 #EXTINF:-1 tvg-id="uk-itv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",ITV 1 HD (UK)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.yzxlc5xygw.workers.dev/vx-1s6x01mf6c4h/uk-itv1hd_480/chunks.m3u8
+https://ix-subheader-ended.eatmorebanana.org:9501/v3/LHR7ADe6loyQuxukR1JjUw/1781229116/5877d0bf2842e90efbc429f9322fbd88/NBdQnaoo4LNgSJC5OrehSg/1781239796/live/vx-origin/uk-itv1hd_480/chunks.m3u8
 
-#EXTINF:-1 tvg-id="us-foxsports1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FOX SPORTS 1 (US)
+#EXTINF:-1 tvg-id="us-foxsports1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",TSN 5 (CA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.wolayi7869.workers.dev/vx-1s6x01mf6c4h/us-foxsports1_480/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ca-tsn1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",TSN 1 (CA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.af4d1ygjfa.workers.dev/lx-1s6x01mf6c4h/ca-tsn1_480/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ca-tsn4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",TSN 4 (CA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.nyzedary.workers.dev/lx-1s6x01mf6c4h/ca-tsn4_480/chunks.m3u8
+https://ix-subheader-ended.eatmorebanana.org:9501/v5/Vd3m58fQDp-XB4WkSEpJWw/1781229196/5877d0bf2842e90efbc429f9322fbd88/koVGsSYgTRacglyXsvEEFA/1781239876/live/vx-origin/ca-tsn5_720/chunks.m3u8
 
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
 
