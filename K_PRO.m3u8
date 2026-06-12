@@ -921,27 +921,6 @@ https://ealivefotex.com/maxsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport2/index.m3u8
 
-#--------------------------------------------------------------Sky sports ------------------------------------------------------
-#EXTINF:-1 group-title="ช่อง SPORTS - 2" tvg-logo="https://iconape.com/wp-content/files/eo/314314/png/efl-league-one-logo.png",Sky Football 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/vx-origin/uk-skysports-football_720/chunks.m3u8
-https://love.pifipa2974.workers.dev/vx-origin/uk-skysports-football_480/chunks.m3u8
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 2" tvg-logo="https://iconape.com/wp-content/files/eo/314314/png/efl-league-one-logo.png",Sky Main Event 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/vx-origin/uk-skysports-mainevent_720/chunks.m3u8
-https://love.pifipa2974.workers.dev/vx-origin/uk-skysports-mainevent_480/chunks.m3u8
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 2" tvg-logo="https://iconape.com/wp-content/files/eo/314314/png/efl-league-one-logo.png",Sky Mix 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/vx-origin/uk-skysports-mix_720/chunks.m3u8
-https://love.pifipa2974.workers.dev/vx-origin/uk-skysports-mix_480/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports" group-title="ช่อง SPORTS - 2" tvg-logo="https://epg.pw/media/images/epg/2025/03/09/20250309021231320841_24.png", Fox Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1037,20 +1016,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 #EXTINF:-1 tvg-id="beINSports1" tvg-name="beIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BeIN_Sports_France_logo.svg/512px-BeIN_Sports_France_logo.svg.png" group-title="ช่อง SPORTS - 2",เทส beIN Sports 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=NontonTV/35 (Android 9)
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
 #EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BeIN_Sports_2_France_logo.svg/512px-BeIN_Sports_2_France_logo.svg.png" group-title="ช่อง SPORTS - 2",เทส beIN Sports 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=NontonTV/35 (Android 9)
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
 #EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BeIN_Sports_3_France_logo.svg/512px-BeIN_Sports_3_France_logo.svg.png" group-title="ช่อง SPORTS - 2",เทส beIN Sports 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=NontonTV/35 (Android 9)
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
@@ -1210,7 +1183,7 @@ https://cdn2.stream.atmflix.live/atmflixlive/vbtv4/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Zm6Ml8yw/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล สำรอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/QDmrOfSG/live.isml/.m3u8
