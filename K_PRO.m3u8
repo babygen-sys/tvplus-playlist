@@ -1105,13 +1105,13 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono5
 https://cdn2.stream.atmflix.live/atmflixlive/event1/playlist.m3u8
 
 #==================================================== atmflix World Cup  =================================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup 
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 #https://cdn2.stream.atmflix.live/atmflixlive/event1/playlist.m3u8
 
 #================================= BEIN SPORTS World Cup ===============================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="FIFA World Cup 2026", FR | BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png", FR | BEIN SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://185.160.192.64:80/mangin15/85784/14170
 
@@ -1131,6 +1131,11 @@ http://185.160.192.64:80/mangin15/85784/14170
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #http://185.160.192.64:80/mangin15/85784/39882
 
+#---------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",CCTV 5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",BBC ONE
+https://xemzi.short.gy/1000001
 
 #===================================================================================================
 
