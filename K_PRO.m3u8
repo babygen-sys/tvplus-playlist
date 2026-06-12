@@ -1117,15 +1117,15 @@ http://185.160.192.64:80/mangin15/85784/14170
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="FIFA World Cup 2026", FR | BEIN SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-3http://185.160.192.64:80/mangin15/85784/14169
+#http://185.160.192.64:80/mangin15/85784/14169
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="FIFA World Cup 2026", FR | BEIN SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-3http://185.160.192.64:80/mangin15/85784/14163
+#http://185.160.192.64:80/mangin15/85784/14163
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="FIFA World Cup 2026", FR | BEIN SPORTS MAX 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-3http://185.160.192.64:80/mangin15/85784/95
+#http://185.160.192.64:80/mangin15/85784/95
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="FIFA World Cup 2026", FR | BEIN SPORTS MAX 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
