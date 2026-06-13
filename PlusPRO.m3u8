@@ -1241,19 +1241,19 @@ https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/82079/playlist.m3u8
+#https://liveera.live/343live/82079/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://liveera.live/343live/82290/playlist.m3u8
+#https://liveera.live/343live/82290/playlist.m3u8
 
 #==================================================== atmflix World Cup  =================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/event1/playlist.m3u8
+#https://cdn2.stream.atmflix.live/atmflixlive/event1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1261,9 +1261,9 @@ https://cdn2.stream.atmflix.live/atmflixlive/event1/playlist.m3u8
 
 #---------------------------------------------------------------- siam World Cup ------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
 #http://api.plus-server.sbs/play.php?key=1234&ch=api_mono3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
@@ -1280,7 +1280,7 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
 #------------------------------------------------------ MONOMAX SPORTS29 -------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",MONOMAX SPORTS29
-http://api.plus-server.sbs/play.php?key=1234&ch=mono29
+#http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
 #================================= BEIN SPORTS World Cup ===============================================
 
@@ -1488,11 +1488,14 @@ http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
 #---------------------------------------------------------- Roland Garros ------------------------------------------------------------
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 1
-http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
+#http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 2
-http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
+http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 3
-http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
+http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
 
 #======================================================= Badminton ===========================================================
 
@@ -1663,95 +1666,34 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/
 
 # -------------------------------------------------------- MONOMAX 1 ---------------------------------------------------------------
 # --- MONOMAX 1 ---
-#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
-https://love.bajikag863.workers.dev/lx-origin/th-monomax01bkp_720/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 1 (Backup)
+#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 1 
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono
 
 # --- MONOMAX 2 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 2 (Main)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
-https://love.bajikag863.workers.dev/lx-origin/th-monomax02bkp_720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 2 (Backup)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 2
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport2_mono
 
 # --- MONOMAX 3 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
-https://love.bajikag863.workers.dev/lx-origin/th-monomax03bkp_720/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 03 (Backup)
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport3_mono
 
 # --- MONOMAX 4 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 4
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax04_720/chunks.m3u8
-https://love.bajikag863.workers.dev/lx-origin/th-monomax04bkp_720/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 04 (Backup)
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport4_mono
 
 # --- MONOMAX 5 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 5
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
-https://love.bajikag863.workers.dev/lx-origin/th-monomax05bkp_720/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 05 (Backup)
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport5_mono
 
 # --- MONOMAX 6 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 6
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
-https://love.bajikag863.workers.dev/lx-origin/th-monomax06bkp_720/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 06 (Backup)
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport6_mono
 
 # --- MONOMAX 7 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 7
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 07 (Backup)
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport7_mono
 
 # --- MONOMAX 8 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 8
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.homema6859.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 08 (Backup)
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport8_mono
 
@@ -1824,23 +1766,7 @@ https://love.homema6859.workers.dev:443/vx-origin/epl-3_720/chunks.m3u8
 
 #--------------- bein 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
-#http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168dooballth.org/
-#EXTVLCOPT:http-origin=https://168dooballth.org
-https://love.qejari.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-https://love.jco5sjujta.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 1 สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.pifipa2974.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8
-
+http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://warpsport24.com/
@@ -1848,17 +1774,7 @@ https://ealivefotex.com/bein1th/tracks-v1a1/mono.ts.m3u8
 
 #--------------- bein 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
-http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-https://love.pifipa2974.workers.dev/vx-origin/epl-bein2_720/playlist.m3u8
-https://love.jco5sjujta.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
-
+http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 2 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://warpsport24.com/
@@ -1866,37 +1782,21 @@ https://ealivefotex.com/bein2th/tracks-v1a1/mono.ts.m3u8
 
 #--------------- bein 3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่องกีฬาถ่ายทอดสด",True beIN Sports 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; 23127PN0CC Build/PQ3A.190605.02261134)
-http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 3 
+http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 3 สำรอง 
 http://api.plus-server.sbs/play.php?key=1234&ch=api_bein5
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่องกีฬาถ่ายทอดสด",beIN Sports 3 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://warpsport24.com/
 https://ealivefotex.com/bein3th/tracks-v1a1/mono.ts.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-x.eatmorebanana.org/
-#EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
-#https://love.pifipa2974.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
-#https://love.jco5sjujta.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
-
 #------------------SPOTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_1.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.cinesefo.workers.dev/vx-origin/hd-spotv_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_1.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/SPOTV01_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.cinesefo.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
