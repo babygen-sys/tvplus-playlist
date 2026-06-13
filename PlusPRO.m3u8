@@ -1255,7 +1255,7 @@ EXTVLCOPT:http-referrer=https://atmflix.live/event2/playlist.m3u8
 
 #---------------------------------------------------------------- siam World Cup ------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
@@ -1278,7 +1278,7 @@ http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
 #================================= BEIN SPORTS World Cup ===============================================
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png",FR BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026", FR BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://185.160.192.64:80/mangin15/85784/14170
 
