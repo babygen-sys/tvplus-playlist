@@ -1120,7 +1120,7 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono4
 #------------------------------------------------------ MONOMAX SPORTS29 -------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",MONOMAX SPORTS29
-#http://api.plus-server.sbs/play.php?key=1234&ch=mono29
+http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
 #================================= BEIN SPORTS World Cup ===============================================
 
