@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-ch3.png" group-title="ช่องทีวีไทย",CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
@@ -1227,7 +1226,6 @@ https://love.homema6859.workers.dev/lx-origin/my-bein2_480/playlist.m3u8
 #EXTVLCOPT:http-origin=https://embed-x.eatmorebanana.org
 https://love.homema6859.workers.dev/lx-origin/my-bein3_480/playlist.m3u8
 
-
 ###----------------------------------------------------- FIFA World Cup 2026 ชุดที่ 1 -----------------------------------------------------###
 
 #-------------------------------------------------------------------- 343live World Cup ----------------------------------------------------------
@@ -1272,12 +1270,10 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FI
 #http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
 
 #------------------------------------------------------ MONOMAX SPORTS29 -------------------------------------------------------
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",MONOMAX SPORTS29
 http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
 #================================= BEIN SPORTS World Cup ===============================================
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026", FR BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://185.160.192.64:80/mangin15/85784/14170
