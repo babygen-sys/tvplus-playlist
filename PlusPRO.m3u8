@@ -1403,7 +1403,7 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/B6pW5pQg/live.is
 
 
 #-----------------------------------------------MONOMAX SPORTS29--------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vnl.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX SPORTS29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Monomax-Sports.png" group-title="ช่องกีฬาถ่ายทอดสด", MONOMAX SPORTS29
 http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
 #--------------------------------------------------------------- VNL เฉพาะกิจ 54 --------------------------------------------------
