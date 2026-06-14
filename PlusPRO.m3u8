@@ -1381,26 +1381,36 @@ https://cdn2.stream.atmflix.live/atmflixlive/vbtv3/playlist.m3u8
 https://cdn2.stream.atmflix.live/atmflixlive/vbtv4/playlist.m3u8
 
 #=================================================== VXA VNL ============================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Ukraine v Poland 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/0ZIBS3Vs/live.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",China v Cuba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/qOmp8QVT/live.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Slovenia v Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/N3gUJbOc/live.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Belgium v Iran 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/B6pW5pQg/live.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Germany v France 21:35
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/izXpm8wY/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Bulgaria v Serbia 00:05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jaZlwaW6/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Canada v Turkiye 01:05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/AevVmi2i/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Brazil v Argentina 03:35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/iiHYADWC/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",USA v Italy 04:35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/x0sQQ2qZ/live.isml/.m3u8
 
 #-----------------------------------------------MONOMAX SPORTS29--------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Monomax-Sports.png" group-title="ช่องกีฬาถ่ายทอดสด", MONOMAX SPORTS29
