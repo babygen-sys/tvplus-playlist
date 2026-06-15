@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2025/07/Predator-Badlands-2025-1.webp" group-title="MOVIES", พรีเดเตอร์ แดนเถื่อน Predator Badlands (2025)
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2025/07/Predator-Badlands-2025-1.webp" ,พรีเดเตอร์ แดนเถื่อน Predator Badlands (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kahirihome.com/
 #EXTVLCOPT:http-origin=https://kahirihome.com
 https://playerufa2.com/20260611/qhFDeOEe/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/07/Nobody-2021.jpg.webp",คนธรรมดานรกเรียกพี่ Nobody (2021)
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2021/07/Nobody-2021.jpg.webp",คนธรรมดานรกเรียกพี่ Nobody (2021)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 #EXTVLCOPT:http-origin=https://moviesdoofree.com
 https://media.vdohls.com/j0ujl32gag/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2025/07/Graveyard-Horror-20252.webp",4 ป่าช้า Graveyard Horror (2025)
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2025/07/Graveyard-Horror-20252.webp",4 ป่าช้า Graveyard Horror (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 #EXTVLCOPT:http-origin=https://moviesdoofree.com
 https://media.vdohls.com/gkuwq2ni7j/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Office-Romance-2026-e1780734852480.webp",ปิ๊งรักในออฟฟิศ Office Romance (2026) 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Office-Romance-2026-e1780734852480.webp",ปิ๊งรักในออฟฟิศ Office Romance (2026) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 #EXTVLCOPT:http-origin=https://moviesdoofree.com
 https://media.vdohls.com/BTYu_yt2DD-ix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Gone-2026-e1780456286756.webp",โกน Gone(2026) 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Gone-2026-e1780456286756.webp",โกน Gone(2026) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 #EXTVLCOPT:http-origin=https://moviesdoofree.com
