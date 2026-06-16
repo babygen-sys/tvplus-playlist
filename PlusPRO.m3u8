@@ -1282,11 +1282,6 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",MONOMAX SPORTS29
 http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
-#================================= BEIN SPORTS World Cup ===============================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026", FR BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://185.160.192.64:80/mangin15/85784/14170
-
 #---------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",SUPER Sports 
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
@@ -1294,9 +1289,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/745149.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",SuperSport Central
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://starhub.pro/live/farhat-3379/67897-913379/741566.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",SuperSport Pass
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://starhub.pro/live/farhat-3379/67897-913379/745195.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FS1
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
