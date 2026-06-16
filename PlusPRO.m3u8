@@ -1298,11 +1298,11 @@ http://starhub.pro/live/farhat-3379/67897-913379/741566.ts
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://starhub.pro/live/farhat-3379/67897-913379/745195.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FOX 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FS1
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FOX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FS2
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
 
