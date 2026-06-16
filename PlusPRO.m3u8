@@ -1136,25 +1136,22 @@ https://slive.mana2.my/SpotvNow/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SPOTV_Now_logo_%28%C4%90N%C3%81%29.png/revision/latest/scale-to-width-down/985?cb=20231224030110&path-prefix=vi" group-title="ช่อง SPORTS - 2", SPOTV Now (Alt)
 https://svod.mana2.my/SpotvNow/index.mpd
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="ช่อง SPORTS - 2", TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="ช่อง SPORTS - 2",TSN 1
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://myxpanel.pro/live/Melo/Melo/3996.ts
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="ช่อง SPORTS - 2",TSN 2
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://myxpanel.pro/live/Melo/Melo/3995.ts
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="ช่อง SPORTS - 2", TSN 2
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="ช่อง SPORTS - 2",TSN 3
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://myxpanel.pro/live/Melo/Melo/3994.ts
-
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="ช่อง SPORTS - 2", TSN 3
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://myxpanel.pro/live/Melo/Melo/3993.ts
-
-#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN 4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="ช่อง SPORTS - 2", TSN 4
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://myxpanel.pro/live/Melo/Melo/3992.ts
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="ช่อง SPORTS - 2", TSN 5
+#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN 4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="ช่อง SPORTS - 2",TSN 4
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://myxpanel.pro/live/Melo/Melo/3991.ts
+http://myxpanel.pro/live/Melo/Melo/3993.ts
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="ช่อง SPORTS - 2",TSN 5
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://myxpanel.pro/live/Melo/Melo/3992.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="ช่อง SPORTS - 2", FS1
