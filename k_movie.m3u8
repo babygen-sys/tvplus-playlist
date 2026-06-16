@@ -1,4 +1,47 @@
 #EXTM3U
+#----------------------------------------------------- ทนายปีศาจ -------------------------------------------------
+#EXTINF:-1 tvg-id="TheEvilLawyer.EP01" tvg-name="ทนายปีศาจ EP.1" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/GwPA_apA-fQWA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheEvilLawyer.EP02" tvg-name="ทนายปีศาจ EP.2" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/AK_8i-cRB38fK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheEvilLawyer.EP03" tvg-name="ทนายปีศาจ EP.3" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/VO-V1qSpA_nDK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheEvilLawyer.EP04" tvg-name="ทนายปีศาจ EP.4" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/10-eGfVhYm_Aq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheEvilLawyer.EP05" tvg-name="ทนายปีศาจ EP.5" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/I-Vm_WiWECtyU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheEvilLawyer.EP06" tvg-name="ทนายปีศาจ EP.6" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/qOcY-ozI_0zUm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheEvilLawyer.EP07" tvg-name="ทนายปีศาจ EP.7" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/Wdol-a_OOKqMK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheEvilLawyer.EP08" tvg-name="ทนายปีศาจ EP.8" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.8 จบ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/U_3gU00yA-BmL/playlist.m3u8
+
+#----------------------------------------------- ทนายปีศาจ จบ ----------------------------
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2025/07/Predator-Badlands-2025-1.webp" ,พรีเดเตอร์ แดนเถื่อน Predator Badlands (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kahirihome.com/
@@ -19,11 +62,12 @@ https://media.vdohls.com/gkuwq2ni7j/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 #EXTVLCOPT:http-origin=https://moviesdoofree.com
 https://media.vdohls.com/BTYu_yt2DD-ix/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Gone-2026-e1780456286756.webp",โกน Gone(2026) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
-#EXTVLCOPT:http-origin=https://moviesdoofree.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/Zu7-AZ_2utvmt/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/05/2-4.jpg" group-title="Movie",เดอะ พันนิชเชอร์ ฆ่าทิ้งทวน The Punisher One Last Kill (2026) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
