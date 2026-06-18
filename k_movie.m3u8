@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Scream.7.2026" tvg-name="Scream 7 หวีดสุดขีด 7 (2026)" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/Scream-7-2026.webp" group-title="Movie",หวีดสุดขีด 7 Scream 7 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kahirihome.com/
+https://playerufa2.com/20260307/NaVkfu5u/index.m3u8
 #----------------------------------------------------- ทนายปีศาจ -------------------------------------------------
 #EXTINF:-1 tvg-id="TheEvilLawyer.EP01" tvg-name="ทนายปีศาจ EP.1" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
