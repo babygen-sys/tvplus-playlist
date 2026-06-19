@@ -1841,7 +1841,7 @@ http://api.plus-server.sbs/play.php?key=1234&ch=spotv1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=spotv1
+http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
 
 #--------- ช่องทีวีบันเทิง ---------
 
