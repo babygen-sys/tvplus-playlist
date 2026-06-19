@@ -1558,19 +1558,19 @@ https://godlivetv.io/343live/1475/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://godlivetv.io/343live/1482/playlist.m3u8
+#https://godlivetv.io/343live/1482/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf66" tvg-name="Ais GOLF 66" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais66.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 66 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://godlivetv.io/343live/1479/playlist.m3u8
+#https://godlivetv.io/343live/1479/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf69" tvg-name="Ais GOLF 69" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais69.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 69 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://godlivetv.io/343live/1478/playlist.m3u8
+#https://godlivetv.io/343live/1478/playlist.m3u8
 
 # ------------------------------------------------------- Ais PLAY sports  ---------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ช่องกีฬาถ่ายทอดสด", playsport 48 (K168)
@@ -1588,7 +1588,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://godlivetv.io/343live/1484/playlist.m3u8
+#https://godlivetv.io/343live/1484/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 55 NBA(Plus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1605,13 +1605,13 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://godlivetv.io/343live/1441/playlist.m3u8
+#https://godlivetv.io/343live/1441/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf57" tvg-name="Ais GOLF 57" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais58.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 58(WNBA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://343live.com/
 #EXTVLCOPT:http-origin=https://343live.com
-https://godlivetv.io/343live/1440/playlist.m3u8
+#https://godlivetv.io/343live/1440/playlist.m3u8
 
 
 ### --------------------------------------------- หมวด: PLAY SPORTS Football ------------------------------------------ ###
