@@ -1197,6 +1197,24 @@ https://ealivefotex.com/maxsport4/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 #https://ealivefotex.com/maxsport4/index.m3u8
 
+#------------------------------------------------ AVC godlivetv --------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://godlivetv.io/343live/1488/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://godlivetv.io/343live/1487/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://343live.com/
+#EXTVLCOPT:http-origin=https://343live.com
+https://godlivetv.io/343live/1486/playlist.m3u8
 
 #------------------------------------ VNL cattv976 ---------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล k168
