@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Oh-My-Ghost-Becoming-Li-Hu-2025.webp" group-title="Movie",หอแต๋วแตกแหกหลีหู
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/l1Z_Kob-AY79u/playlist.m3u8
 #-------------------------------- toy store ----------------------------------------
 #EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2022/01/Toy-Story-That-Time-Forgot-2014.jpg.webp" group-title="Movie",Toy Story That Time Forgot ทอย สตอรี่ ย้อนเวลาตามหาอาณาจักรนักสู้(2014) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
