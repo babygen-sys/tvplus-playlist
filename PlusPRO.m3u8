@@ -1393,7 +1393,8 @@ http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.aptoide.com/imgs/6/a/9/6a9d6294be85d251de1c330f2800763e_fgraphic.png" group-title="FIFA World Cup 2026",CTSport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",Sport HD 
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",Bein Sport1 EN
@@ -1402,14 +1403,11 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",CazeTV
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/284b0094ab4f339fe29f54d096eeb381f69395d2/CazeTV.m3u8
-
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/liveiptvneti/refs/heads/main/images.jpg" group-title="FIFA World Cup 2026",CazeTV
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/liveiptvneti/refs/heads/main/images.jpg" group-title="FIFA World Cup 2026",CazeTV
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",CazeTV
 https://raw.githubusercontent.com/rdc1793/canaisiptv/d03c08389570f97a1bf44cbc4b4b76840eaec6f0/cazetv.m3u8
     
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",MuHsun Sport
@@ -1434,13 +1432,10 @@ http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
 http://41.205.93.154/FOX49/index.m3u8
 http://41.205.93.154/FOX49/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",Sport HD 
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",BBC ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://xemzi.short.gy/1000001
+
 
 #===================================================================================================
 ⚽ ----------------------------------- ช่องกีฬาถ่ายทอดสด ----------------------------------------- ⚽
