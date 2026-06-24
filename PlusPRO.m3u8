@@ -1001,52 +1001,6 @@ https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
 # =================================================================== ช่อง SPORTS - 2 ============================================================>
-#---------------------------------------------true sports -----------------------------------------
-#EXTINF:-1 tvg-id="tsp1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trues1.png" group-title="ช่อง SPORTS - 2",True Sport 1
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tsp2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trues2.png" group-title="ช่อง SPORTS - 2",True Sport 2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/tsp2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tsp3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trues3.png" group-title="ช่อง SPORTS - 2",True Sport 3
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tsp4" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trues4.png" group-title="ช่อง SPORTS - 2",True Sport 4
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/tsp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tsp5" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trues5.png" group-title="ช่อง SPORTS - 2",True Sport 5
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tsp7" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trues7.png" group-title="ช่อง SPORTS - 2",True Sport 7
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/tsp7/tracks-v1a1/mono.m3u8
-
-#---------------------------------------------------- SPOTV True ------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/SPOTV_white.png/revision/latest?cb=20240814014930&path-prefix=vi" group-title="ช่อง SPORTS - 2",SPOTV True
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/spotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/SPOTV2_white.png/revision/latest?cb=20240814015103&path-prefix=vi" group-title="ช่อง SPORTS - 2",SPOTV 2 True
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/spotv2/tracks-v1a1/mono.m3u8
-
-#-------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="bein1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/true_bein1.webp" group-title="ช่อง SPORTS - 2",beIN SPORTS 1
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="bein2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/true_bein2.webp" group-title="ช่อง SPORTS - 2",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="bein3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/true_bein3.webp" group-title="ช่อง SPORTS - 2",beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
-http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8
-
-#------------------------------------------------------------------------------------------
-
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 2",LFC TV
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 #EXTVLCOPT:network-caching=2000
