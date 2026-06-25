@@ -623,7 +623,7 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
 #EXTVLCOPT:network-caching=1000
-https://cdn10.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=28ny7l41BQT656CE9vdntw&expires=1780228815
+#https://cdn10.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=28ny7l41BQT656CE9vdntw&expires=1780228815
 #EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 2 
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
@@ -647,7 +647,8 @@ https://raw.githubusercontent.com/rdc1793/canaisiptv/d03c08389570f97a1bf44cbc4b4
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1 tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png" group-title="ช่องทีวีต่างประเทศ",TVRI Sport
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRISport.m3u8
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4D22AQHH9kjEwdvlEA/feedshare-shrink_800/B4DZRgcrPoHIAo-/0/1736784917955?e=2147483647&v=beta&t=A5XCo5J6FlunahdPi0KH5FP3ffvNTxGFpjN1f0HITyY" group-title="ช่องทีวีต่างประเทศ",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
@@ -1219,10 +1220,10 @@ https://xemzi.short.gy/1000001
 
 #===================================================================================================
 ⚽ ----------------------------------- ช่องกีฬาถ่ายทอดสด ----------------------------------------- ⚽
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg" group-title="ช่องกีฬาถ่ายทอดสด",ONE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg" group-title="ช่องกีฬาถ่ายทอดสด",ONE ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-#https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1497,11 +1498,10 @@ https://cronos.mangora1.cfd/puki2/usergendxpk2s6utg0l.m3u8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
 
-#EXTINF:-1 tvg-id="AisGolf55" tvg-name="Ais GOLF 55" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 55 NBA K168)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://343live.com/
-#EXTVLCOPT:http-origin=https://343live.com
-#https://godlivetv.io/343live/1484/playlist.m3u8
+#EXTINF:-1 tvg-id="AisGolf55" tvg-name="Ais GOLF 55" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 55 NBA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 55 NBA(Plus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1515,10 +1515,9 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/
 #https://godlivetv.io/343live/1483/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf57" tvg-name="Ais GOLF 57" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais57.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 57(WNBA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://343live.com/
-#EXTVLCOPT:http-origin=https://343live.com
-#https://godlivetv.io/343live/1441/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AisGolf57" tvg-name="Ais GOLF 57" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais58.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 58(WNBA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
