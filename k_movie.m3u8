@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Husbands-in-Action%E2%80%8B-2026-e1781867492519.webp" group-title="Movie",คุณสามีส์ช่วยด้วย Husbands in Action​ (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/Ht-ww6cq_4cQ9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Voicemails-for-Isabelle-2026-e1782103446617.webp" group-title="Movie",ข้อความเสียงแด่อิซาเบล Voicemails for Isabelle (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/cG5UA-e0_VEH2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Per-Aspera-Ad-Astra-2026.webp" group-title="Movie",ฝ่าห้วงฝันสู่ดวงดาว Per Aspera Ad Astra (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/zrPO4_79-qfDz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/King-kaew-2026.webp" group-title="Movie",กิ่งแก้ว King Kaew (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/nWRP_lnm-FtV6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kahirihome.com/wp-content/uploads/2026/06/karma-2025-%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1.webp" group-title="Movie",อุบัติกรรม Karma (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1238,8 +1254,6 @@ https://m3u8haha.com/movie/M15365.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-6.jpg",Train Your Dragon (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m3u8haha.com/movie/M15338.mp4/playlist.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2-8.jpg",M3GAN 2.0 (2025) เมแกน 2.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
