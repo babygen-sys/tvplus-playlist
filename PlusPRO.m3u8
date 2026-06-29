@@ -2166,6 +2166,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/in
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="ช่องสารคดี",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png?_=20240515155053" group-title="ช่องสารคดี",Love Nature
+https://restream.pdtvhd.com/memfs/9e6205cb-2c2c-41ed-a7e5-831ccaade4d1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
