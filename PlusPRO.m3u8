@@ -2100,7 +2100,12 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-### --- หมวด: ช่องสารคดี --- ###
+### --------------- หมวด: ช่องสารคดี ------------------ ###
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery 
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0180/DASH/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2efcb6a41730b2f6007d33d998b55f30&chunkHttps=true&tmid=B0007&tpbk=aQlxKPpNcLIrK1DA&rrt=1782640665&tmod=rfk&rsid=137b6202-2aa6-4db7-a218-ffa06326bac2&tuid=5675c943a4&cdn=redfox-https&tdid=4a349c57653ba6826917b203075be8e4&origin=anevia&tfa=f0-fc&tttl=1782727065
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
