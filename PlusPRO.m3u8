@@ -2000,7 +2000,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-#https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0114/DASH/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=bb168eb76c286b3e21966f308abccfb9&chunkHttps=true&tmid=B0007&tpbk=cav3Mw0LlZcIQoP8&rrt=1782521102&tmod=rfk&rsid=30157766-dc44-476d-a79c-0192c9b3f033&tuid=68777c80c3&cdn=redfox-https&tdid=3c08c7778672f4f8a3d72a7655e91c7d&origin=anevia&tfa=f0-fc&tttl=1782607502
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0114/DASH/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2efcb6a41730b2f6007d33d998b55f30&chunkHttps=true&tmid=B0007&tpbk=aQlxKPpNcLIrK1DA&rrt=1782640665&tmod=rfk&rsid=137b6202-2aa6-4db7-a218-ffa06326bac2&tuid=5675c943a4&cdn=redfox-https&tdid=4a349c57653ba6826917b203075be8e4&origin=anevia&tfa=f0-fc&tttl=1782727065
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 #EXTVLCOPT:http-referrer=https://github.com/
