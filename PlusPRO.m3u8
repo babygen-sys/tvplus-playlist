@@ -1658,12 +1658,12 @@ http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://cdn.wearetennis.bnpparibas/media/images/cache/header_article/uploads/article/image/20210304063544000000_21bnp_mar_atplogo01a.jpg",ATP Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
-https://cronos.mangora1.cfd/puki1/usergendx6kal0r2bsm.m3u8
+#https://cronos.mangora1.cfd/puki1/usergendx6kal0r2bsm.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://cdn.wearetennis.bnpparibas/media/images/cache/header_article/uploads/article/image/20210304063544000000_21bnp_mar_atplogo01a.jpg",ATP Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
-https://cronos.mangora1.cfd/puki2/usergendxpk2s6utg0l.m3u8
+#https://cronos.mangora1.cfd/puki2/usergendxpk2s6utg0l.m3u8
 
 #========================================================= The Championships, Wimbledon =================================================================
 
