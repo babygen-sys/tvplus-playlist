@@ -1630,12 +1630,14 @@ http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 #https://cronos.mangora1.cfd/puki2/usergendxpk2s6utg0l.m3u8
 
 #========================================================= The Championships, Wimbledon =================================================================
+#EXTINF:40 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/330px-SuperTennis_-_Logo_2016.svg.png",SuperTennis
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/h264_720p_manifest.m3u8
 
 #EXTINF:40 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Wimbledon-logo-png-large-size.png",wimbledon 2026
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTVLCOPT:network-caching=1000
 http://54.37.19.157/spotv/tracks-v1a1/mono.m3u8
-
 #EXTINF:40 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Wimbledon-logo-png-large-size.png",wimbledon 2026
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTVLCOPT:network-caching=1000
@@ -1645,7 +1647,6 @@ http://54.37.19.157/spotv2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://kudos111.terranovax1.cfd/er01/usergendx0slkgx7dqrnd.m3u8
-
 #EXTINF:40 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Wimbledon-logo-png-large-size.png",wimbledon 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
@@ -1659,7 +1660,7 @@ https://kudos111.terranovax1.cfd/er02/usergenje3x9dqrnd.m3u8
 #------------------------------ Court 1
 #EXTINF:-1 tvg-id="BadmintonCourt1" tvg-name="Badminton Court 1" tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kltraen.pages.dev/
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8
 #------------------------------ Court 2
 #EXTINF:-1 tvg-id="BadmintonCourt2" tvg-name="Badminton Court 2" tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
