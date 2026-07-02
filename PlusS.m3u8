@@ -355,10 +355,9 @@ https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Boomerang_2025.png" group-title="ช่องทีวีต่างประเทศ",Boom 
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-#EXTVLCOPT:network-caching=2000
-#http://api.plus-server.sbs/play.php?key=1234&ch=boomerang_mvtv
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Boomerang_2025.png" group-title="ช่องทีวีต่างประเทศ",Boom
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
 http://49.0.64.96:8007/Cartoonumi
