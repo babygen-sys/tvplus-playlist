@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Milky-Subway-The-Galactic-Limited-Express-2026.webp" group-title="Movie",มิลกี้ ซับเวย์ รถไฟด่วนทะลุกาแล็กซี เดอะ มูฟวี่(2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/8FTT-1YAu_myq/playlist.m3u8
 ### ------------------------------------------------------------------- แล้วเราจะพบกัน (2026) -------------------- ###
 #EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/I-Will-Find-You-2026.webp" group-title="Movie",แล้วเราจะพบกัน EP.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
