@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202606/movie/e0d7f104a490bdbbdcf8b713e5b661d3.jpg" group-title="Movie",Colors of Evil Black(ซับไทย)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-Referrer: https://ezmovie.live/movie/toy-story-5-2026
 https://vod1.stream25.com/Colors-of-Evil-Black-2026-sub.mp4.m3u8
 #-------------------------------- toy store 1-5 ----------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Toy_Story_5_poster.jpg" group-title="Movie",ทอย สตอรี่5(ซูม ) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-Referrer: https://ezmovie.live/movie/toy-story-5-2026
 https://vod1.stream25.com/Toy-Story-5-2026-TH-Version-1.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2022/01/Toy-Story-That-Time-Forgot-2014.jpg.webp" group-title="Movie",Toy Story That Time Forgot ทอย สตอรี่ ย้อนเวลาตามหาอาณาจักรนักสู้(2014) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
