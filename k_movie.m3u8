@@ -1,8 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202606/movie/e0d7f104a490bdbbdcf8b713e5b661d3.jpg" group-title="Movie",Colors of Evil Black(ซับไทย)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+Referrer: https://ezmovie.live/movie/toy-story-5-2026
+https://vod1.stream25.com/Colors-of-Evil-Black-2026-sub.mp4.m3u8
+#-------------------------------- toy store 1-5 ----------------------------------------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Toy_Story_5_poster.jpg" group-title="Movie",ทอย สตอรี่5(ซูม ) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+Referrer: https://ezmovie.live/movie/toy-story-5-2026
+https://vod1.stream25.com/Toy-Story-5-2026-TH-Version-1.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2022/01/Toy-Story-That-Time-Forgot-2014.jpg.webp" group-title="Movie",Toy Story That Time Forgot ทอย สตอรี่ ย้อนเวลาตามหาอาณาจักรนักสู้(2014) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/hdi1jfhrk8cvihb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/05/Toy-Story-4-2019.jpg.webp" group-title="Movie",Toy Story4 ทอย สตอรี่ (2019) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/yn9ovpavvo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/05/Toy-Story-3-2010.jpg.webp" group-title="Movie",Toy Story3 ทอย สตอรี่ (2010) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/fhop1bhdh7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/05/Toy-Story-2-1999.jpg.webp" group-title="Movie",Toy Story 2 ทอย สตอรี่ (1999) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/gwok0snre0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/05/Toy-Story-1995.jpg.webp" group-title="Movie",Toy Story 1 ทอย สตอรี่ (1995) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/y3uhih05o6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Milky-Subway-The-Galactic-Limited-Express-2026.webp" group-title="Movie",มิลกี้ ซับเวย์ รถไฟด่วนทะลุกาแล็กซี เดอะ มูฟวี่(2026) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/8FTT-1YAu_myq/playlist.m3u8
+
 ### ------------------------------------------------------------------- แล้วเราจะพบกัน (2026) -------------------- ###
 #EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/I-Will-Find-You-2026.webp" group-title="Movie",แล้วเราจะพบกัน EP.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -38,7 +68,7 @@ https://media.vdohls.com/d-FPBD_WXqJlL/playlist.m3u8
 https://media.vdohls.com/UNuu_szINU-ul/playlist.m3u8
 
 #-------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Husbands-in-Action-2026-e1781867492519.webp" group-title="Movie",คุณสามีส์ช่วยด้วย Husbands in Action (2026)
+#EXTINF:-1 tvg-logo="https://statics-01.quackquackcdn.com/b0194620-1426-53f1-912a-ed7e671b5bc3/poster.jpg" group-title="Movie",คุณสามีส์ช่วยด้วย Husbands in Action (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/Ht-ww6cq_4cQ9/playlist.m3u8
@@ -54,7 +84,6 @@ https://media.vdohls.com/zrPO4_79-qfDz/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/nWRP_lnm-FtV6/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://kahirihome.com/wp-content/uploads/2026/06/karma-2025-%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1.webp" group-title="Movie",อุบัติกรรม Karma (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kahirihome.com/
@@ -67,34 +96,12 @@ https://playerufa2.com/20260615/o7E8h5YK/2000kb/hls/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kahirihome.com/
 https://playerufa2.com/20260617/AP9lOgRQ/2000kb/hls/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/Oh-My-Ghost-Becoming-Li-Hu-2025.webp" group-title="Movie",หอแต๋วแตกแหกหลีหู
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/l1Z_Kob-AY79u/playlist.m3u8
-#-------------------------------- toy store ----------------------------------------
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2022/01/Toy-Story-That-Time-Forgot-2014.jpg.webp" group-title="Movie",Toy Story That Time Forgot ทอย สตอรี่ ย้อนเวลาตามหาอาณาจักรนักสู้(2014) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
-https://media.vdohls.com/hdi1jfhrk8cvihb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/05/Toy-Story-4-2019.jpg.webp" group-title="Movie",Toy Story4 ทอย สตอรี่ (2019) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
-https://media.vdohls.com/yn9ovpavvo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/05/Toy-Story-3-2010.jpg.webp" group-title="Movie",Toy Story3 ทอย สตอรี่ (2010) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
-https://media.vdohls.com/fhop1bhdh7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/05/Toy-Story-2-1999.jpg.webp" group-title="Movie",Toy Story 2 ทอย สตอรี่ (1999) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
-https://media.vdohls.com/gwok0snre0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.net/wp-content/uploads/2021/05/Toy-Story-1995.jpg.webp" group-title="Movie",Toy Story 1 ทอย สตอรี่ (1995) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
-https://media.vdohls.com/y3uhih05o6/playlist.m3u8
 
-#-------------------------------- toy store ----------------------------------------
+#--------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Scream.7.2026" tvg-name="Scream 7 หวีดสุดขีด 7 (2026)" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/Scream-7-2026.webp" group-title="Movie",หวีดสุดขีด 7 Scream 7 (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kahirihome.com/
@@ -105,37 +112,30 @@ https://playerufa2.com/20260307/NaVkfu5u/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/GwPA_apA-fQWA/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheEvilLawyer.EP02" tvg-name="ทนายปีศาจ EP.2" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/AK_8i-cRB38fK/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheEvilLawyer.EP03" tvg-name="ทนายปีศาจ EP.3" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/VO-V1qSpA_nDK/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheEvilLawyer.EP04" tvg-name="ทนายปีศาจ EP.4" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/10-eGfVhYm_Aq/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheEvilLawyer.EP05" tvg-name="ทนายปีศาจ EP.5" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/I-Vm_WiWECtyU/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheEvilLawyer.EP06" tvg-name="ทนายปีศาจ EP.6" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/qOcY-ozI_0zUm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheEvilLawyer.EP07" tvg-name="ทนายปีศาจ EP.7" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/Wdol-a_OOKqMK/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TheEvilLawyer.EP08" tvg-name="ทนายปีศาจ EP.8" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/The-Evil-Lawyer-2026.webp" group-title="Movie", ทนายปีศาจ EP.8 จบ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
