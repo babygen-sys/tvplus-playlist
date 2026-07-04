@@ -501,6 +501,7 @@ https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 https://love.af4d1ygjfa.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/960px-BBC_World_News_2022.svg.png?_=20220425110846" group-title="ข่าว",BBC WORLD NEWS
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 http://202.169.224.202:8800/udp/239.9.1.24:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="ข่าว",CNN 
