@@ -1297,6 +1297,9 @@ https://raw.githubusercontent.com/rdc1793/canaisiptv/d03c08389570f97a1bf44cbc4b4
 #https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="ช่องกีฬาถ่ายทอดสด",CH7
 #https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-105/ukc6-i98x/chunklist.m3u8
 
 #--------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
