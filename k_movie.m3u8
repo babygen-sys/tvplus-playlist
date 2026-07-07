@@ -1,5 +1,9 @@
 #EXTM3U
 #----------------------------------------------------------------- .24hd.net ---------------------------------------------------
+#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Black-Sheep-The-Fate-of-Corruption-II-2026-e1782788578354.webp" group-title="Movie",แกะดำ (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/Jzf-gi3L_Nr29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/07/Minions-Monsters-2026-e1782875218412.webp" group-title="Movie",มินเนี่ยน & มอนสเตอร์(2026) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
