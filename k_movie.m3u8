@@ -4,6 +4,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/Jzf-gi3L_Nr29/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/Lee-Cronin-s-The-Mummy-2026-e1774430485341.webp",ลี โครนิน เดอะ มัมมี่ (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://media.vdohls.com/1_S1-GudIrsFJ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/07/Minions-Monsters-2026-e1782875218412.webp" group-title="Movie",มินเนี่ยน & มอนสเตอร์(2026) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
@@ -186,12 +189,6 @@ https://playerufa2.com/20260604/osnOY9FF/index.m3u8
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 #EXTVLCOPT:http-origin=https://moviesdoofree.com
 https://m3u8haha.com/movie/M15791.mp4/chunk.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/Lee-Cronin-s-The-Mummy-2026-e1774430485341.webp",ลี โครนิน เดอะ มัมมี่ (2026) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
-#EXTVLCOPT:http-origin=https://moviesdoofree.com
-https://m3u8haha.com/movie/M15801.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.24hd.net/wp-content/uploads/2026/06/This-Is-It-2009.webp" ,ไมเคิล แจ็กสัน ดิสอิสอิท This Is It (2009)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
