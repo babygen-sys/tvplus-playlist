@@ -1427,7 +1427,9 @@ https://vbtv.ahmadadityaberdikari.workers.dev/play/8pChFEyS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://vbtv.ahmadadityaberdikari.workers.dev/play/RfBpOZzw.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://vbtv.ahmadadityaberdikari.workers.dev/play/JQmOQWkO.m3u8
 
 #=================================================== VXA VNL ============================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Thailand v USA 
