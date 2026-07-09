@@ -1592,20 +1592,16 @@ https://cdn2.stream.atmflix.live/atmflixlive/vbtv4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event21/playlist.m3u8
 
-#----------------VBTV 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg" group-title="ช่องกีฬาถ่ายทอดสด",VNL1
+#---------------------------------------------------------- mee88player VNL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL1
 https://live.mee88player.com/live/1491.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg" group-title="ช่องกีฬาถ่ายทอดสด",VNL2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL2
 https://live.mee88player.com/live/1495.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg" group-title="ช่องกีฬาถ่ายทอดสด",VNL3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL3
 https://live.mee88player.com/live/1493.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg" group-title="ช่องกีฬาถ่ายทอดสด",VNL4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL4
 https://live.mee88player.com/live/1492.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HJGys06a4AAD6ZY.jpg" group-title="ช่องกีฬาถ่ายทอดสด",VNL5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL5
 https://live.mee88player.com/live/1494.m3u8
 
 #=================================================== VXA VNL ============================================
@@ -1651,6 +1647,7 @@ https://live.mee88player.com/live/1494.m3u8
 
 #-----------------------------------------------MONOMAX SPORTS29--------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Monomax-Sports.png" group-title="ช่องกีฬาถ่ายทอดสด", MONOMAX SPORTS29
+http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 
 #---------------------------------------------------------- Roland Garros ------------------------------------------------------------
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1280px-Logo_Roland-Garros.svg.png",Roland Garros 1
