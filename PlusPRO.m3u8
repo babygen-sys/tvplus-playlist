@@ -1314,8 +1314,13 @@ http://49.0.64.96:8007/GOLF
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports61/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais62.png" group-title="ช่อง SPORTS - 2", playsport 62 (GOLF)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports62/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais64.png" group-title="ช่อง SPORTS - 2", playsport 64 (GOLF)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports64/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais66.png" group-title="ช่อง SPORTS - 2", playsport 66 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
@@ -1349,6 +1354,7 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports58/playlist.m3u8
 
+#-------------------------------------------------------------- ONE --------------------------------------------------
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg" group-title="ช่อง SPORTS - 2",ONE Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://live.eac-news.com/Khmer/streams/ONEChampionship.m3u8
