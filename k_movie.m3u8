@@ -1,5 +1,19 @@
 #EXTM3U
-#----------------------------------------------------------------- .24hd.net ---------------------------------------------------
+#----------------------------------------------------------------- 24hd.net / House of the Dragon Season 3 (2026) ตระกูลแห่งมังกร ซีซั่น 3 EP.1-8---------------------------------------------------
+#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/House-of-the-Dragon-Season-3-2026-e1782101507441.webp" group-title="Movie",ตระกูลแห่งมังกร 3 EP.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/B-AGgcoU6_YEn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/House-of-the-Dragon-Season-3-2026-e1782101507441.webp" group-title="Movie",ตระกูลแห่งมังกร 3 EP.2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/Mc9fO_8aK-fsF/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/House-of-the-Dragon-Season-3-2026-e1782101507441.webp" group-title="Movie",ตระกูลแห่งมังกร 3 EP.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/I_TzDnweyu-uv/playlist.m3u8
+
+#----------------------------------------------------------------- 24hd.net ---------------------------------------------------
 #EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Black-Sheep-The-Fate-of-Corruption-II-2026-e1782788578354.webp" group-title="Movie",แกะดำ (2026) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
