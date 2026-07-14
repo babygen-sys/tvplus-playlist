@@ -1544,26 +1544,26 @@ https://kudos111.terranovax1.cfd/er01/usergendx0slkgx7dqrnd.m3u8
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://kudos111.terranovax1.cfd/er02/usergenje3x9dqrnd.m3u8
 
-#======================================================= Badminton ===========================================================
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff",🏸 Badminton 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-
-#-------------------------------------------- kltraen Badminton-----------------------------------------------
+#-------------------------------------------Badminton wakacha ----------------------------------------------------
 #------------------------------ Court 1
-#EXTINF:-1 tvg-id="BadmintonCourt1" tvg-name="Badminton Court 1" tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 1
+#EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://wakacha.github.io
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4266835000496061_AiHD.m3u8?txSecret=99029f9223e4a4a623a068b879e5e4b5&txTime=6A56B160
 #------------------------------ Court 2
-#EXTINF:-1 tvg-id="BadmintonCourt2" tvg-name="Badminton Court 2" tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 2
+#EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kltraen.pages.dev/
+#EXTVLCOPT:http-origin=https://wakacha.github.io
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4266834685201061_AiHD.m3u8?txSecret=bd438c0698571e032f55ad2e92c71bf2&txTime=6A56B160
 #------------------------------ Court 3
-#EXTINF:-1 tvg-id="BadmintonCourt1" tvg-name="Badminton Court 1" tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 3
+#EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kltraen.pages.dev/
+#EXTVLCOPT:http-origin=https://wakacha.github.io
+https://576572429726c2abb81829f2b3d1d81c.v.smtcdns.net/play.cbalive.weibisai.com/live/4266835132129061_AiHD.m3u8?txSecret=e726a4643f279dfc9cf09ef732919ab5&txTime=6A56B160
 #------------------------------ Court 4
-#EXTINF:-1 tvg-id="BadmintonCourt2" tvg-name="Badminton Court 2" tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 4
+#EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton Court 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kltraen.pages.dev/
+#EXTVLCOPT:http-origin=https://wakacha.github.io
 
 #-------------------------------------------Badminton wakacha ----------------------------------------------------
 #------------------------------ Court 1
