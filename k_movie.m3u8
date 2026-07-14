@@ -1,9 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+
+#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/07/Golden-Kamuy-Assault-on-Abashiri-Prison-2026.webp",โกลเดนคามุย 3 การจู่โจมคุกอะบาชิริ Golden Kamuy Assault on Abashiri Prison (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/b5z2HFhB-i_P6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/03/The-Undertaker-2-2026.webp",The Undertaker 2 (2026) สัปเหร่อ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/rSiKdS-Mo0_mT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2021/07/Sully-2016.jpg.webp" group-title="Movie",Sully (2016) ปาฏิหาริย์ที่แม่น้ำฮัดสัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
+https://media.vdohls.com/tj3qgxrgqrps5vf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/07/Nothing-to-Lose-2026.webp" group-title="Movie",เมื่อไม่มีอะไรจะเสีย Nothing to Lose(2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/7M0l-9D39o_6d/playlist.m3u8
-
 #----------------------------------------------------------------- 24hd.net / House of the Dragon Season 3 (2026) ตระกูลแห่งมังกร ซีซั่น 3 EP.1-8---------------------------------------------------
 #EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/House-of-the-Dragon-Season-3-2026-e1782101507441.webp" group-title="Movie",ตระกูลแห่งมังกร 3 EP.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
