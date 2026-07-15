@@ -1735,19 +1735,19 @@ https://live.iptv-th.workers.dev/live/xc-129.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/2930/playlist.m3u8
+#https://godlivetv.io/madoball/2930/playlist.m3u8
 https://live.iptv-th.workers.dev/live/xc-140.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/2929/playlist.m3u8
+#https://godlivetv.io/madoball/2929/playlist.m3u8
 https://live.iptv-th.workers.dev/live/xc-139.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/2739/playlist.m3u8
+#https://godlivetv.io/madoball/2739/playlist.m3u8
 https://live.iptv-th.workers.dev/live/xc-130.m3u8
 
 #--------------------------------------------------------- True
