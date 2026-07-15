@@ -1,13 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 group-title="Movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 
-#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/07/Golden-Kamuy-Assault-on-Abashiri-Prison-2026.webp",โกลเดนคามุย 3 การจู่โจมคุกอะบาชิริ Golden Kamuy Assault on Abashiri Prison (2026) 
+#-------------------------------------------- เทสระบบ dumoviefree.com
+#EXTINF:-1 group-title="Movie" tvg-logo="https://037-hdtv.com/wp-content/uploads/2026/04/%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%87%E0%B8%A2%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%B1%E0%B8%94-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-Panda-Plan-2-The-Magical-Tribe.webp",เทสระบบ แพนด้าเด้งยกกำลังฟัด(พากย์ไทย)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://dumoviefree.com/cdn/hls/5ec9bedaa4e7287c24d765de51cfa9d4/master.txt?s=1&d=
+#-------------------------------------------------
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/07/Golden-Kamuy-Assault-on-Abashiri-Prison-2026.webp",โกลเดนคามุย 3 การจู่โจมคุกอะบาชิริ Golden Kamuy Assault on Abashiri Prison (2026) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/b5z2HFhB-i_P6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/03/The-Undertaker-2-2026.webp",The Undertaker 2 (2026) สัปเหร่อ 2
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/03/The-Undertaker-2-2026.webp",The Undertaker 2 (2026) สัปเหร่อ 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24hd.net/the-evil-lawyer-2026
 https://media.vdohls.com/rSiKdS-Mo0_mT/playlist.m3u8
