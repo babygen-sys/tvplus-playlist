@@ -1048,6 +1048,21 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130751
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",🏌️‍♂️ Golf
 http://49.0.64.96:8007/GOLF
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",Golf
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",SBS Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",Jttc Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",sky gole
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D\22931
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",sky main event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 
 # ---------------------------------------------------- All sports in sport-1 ------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",TNA Sports
