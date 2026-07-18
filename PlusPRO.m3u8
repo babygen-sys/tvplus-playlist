@@ -455,8 +455,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 
 ### --- NEWS --- ###
-#==== ข่าว ====
-
+#------------------------------------------------- ข่าว ----------------------
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="ข่าว",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.dahobe7598.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8
@@ -735,27 +734,6 @@ http://41.223.30.230/ESPN2/index.m3u8
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#EXTVLCOPT:network-caching=1000
-#https://cdn10.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=28ny7l41BQT656CE9vdntw&expires=1780228815
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 2 
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#EXTVLCOPT:network-caching=1000
-#https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=NLOUREmyWjRXPBaSMVWq6g&expires=1780228815
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 3 
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#EXTVLCOPT:network-caching=1000
-#https://cdn1.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=-LbZW_Bggu7VG2dTO-WZog&expires=1780228815
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://media.info/l/o/1/1539.1565312705.png",BT SPORTS 4
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#EXTVLCOPT:network-caching=1000
-#https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=g9iQLkmkBd5A_eX39XnXjw&expires=1780228815
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/liveiptvneti/refs/heads/main/images.jpg" group-title="ช่องทีวีต่างประเทศ",CazeTV
 https://raw.githubusercontent.com/rdc1793/canaisiptv/d03c08389570f97a1bf44cbc4b4b76840eaec6f0/cazetv.m3u8
 
@@ -779,7 +757,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTVLCOPT:network-caching=1000
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/12/golf-channel-2026-logo.png" group-title="ช่องทีวีต่างประเทศ",Golf Channel USA
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-6-logo-png-transparent.png" group-title="ช่องทีวีต่างประเทศ",Golf 
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
@@ -1021,11 +999,11 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1152
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1151
 
 #------------------------------------ SG| HUB SPORTS HD
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ช่อง SPORTS - 1",HUB SPORTS 1 | SG
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 1 | SG
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941573
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ช่อง SPORTS - 1",HUB SPORTS 2 | SG
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 2 | SG
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941572
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ช่อง SPORTS - 1",HUB SPORTS 3 | SG
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 3 | SG
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571
 
 #----------------------------------------------------- Golf
@@ -1033,29 +1011,29 @@ http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&str
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/69d2c866-6e91-480a-aae0-ab49aa0378c0/2.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/69d2c866-6e91-480a-aae0-ab49aa0378c0/2.m3u8
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://allente-static-files.akamaized.net/channel_logos/prod/800/50077-4.png",V Sport Golf
 #EXTVLCOPT:network-caching=1000
-#http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="ช่อง SPORTS - 1",🏌️‍♂️ Golf Channel 
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130751
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",🏌️‍♂️ Golf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",🏌️‍♂️ Golf  
 http://49.0.64.96:8007/GOLF
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",Golf
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://cdn.prod.website-files.com/61549f9352f3558157a226ea/67a297a10498c8477ae01656_Golf-Digest-logo-blog-author-circle.webp",Golf digest
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",SBS Golf
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png?_=20220107164658",SBS Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",Jttc Golf
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/JTBC_Golf.png/revision/latest?cb=20240810221104",Jttc Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",sky gole
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1280px-Sky_Sport_Golf_Logo_2022.svg.png",sky golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D\22931
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="",sky main event
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22931
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sports_Main_Event_-_Logo_2025.svg",sky main event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 
