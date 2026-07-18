@@ -1831,7 +1831,9 @@ https://mobilelive-test.ysp.cctv.cn/ysp/2031469001.m3u8
 
 
 #================================================================ ช่องทีวีบันเทิง =======================================================================
-
+#EXTINF:-1 tvg-id="MonoPlus.th" tvg-name="MONO29 Plus" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="ช่องบันเทิง",MONO29 Plus
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/mono29music.png" group-title="ช่องบันเทิง",Mono29MusicStation
+# -----------------------------------------------------------------
 #EXTINF:-1 tvg-id="AsianHit.th" tvg-name="Asian Hit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="ช่องบันเทิง",Asian Hit
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
@@ -1840,96 +1842,104 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-
-
-#EXTINF:-1 tvg-id="Universal.th" tvg-name="Universal" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png" group-title="ช่องบันเทิง",Universal
-http://49.0.64.96:8007/H-Channel
-#EXTINF:-1 tvg-id="FuckIDMovie.th" tvg-name="FuckIDMovie" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="ช่องบันเทิง",FuckIDMovie
-http://49.0.64.96:8007/PING
-#EXTINF:-1 tvg-id="TVSeries.th" tvg-name="TV Series" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="ช่องบันเทิง",TV Series 
-http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-id="Kdrama.uk" tvg-name="RomCom K-Drama" tvg-logo="https://i.postimg.cc/90crSQ0X/IMG-2655.png" group-title="ช่องบันเทิง",RomCom K-Drama
 https://tinyurl.com/3h2e4rtz
-#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="ช่องบันเทิง",MOVIE 
-http://49.0.64.96:8007/IZAA
 
-#EXTINF:-1 tvg-id="MonoPlus.th" tvg-name="MONO29 Plus" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="ช่องบันเทิง",MONO29 Plus
-
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/mono29music.png" group-title="ช่องบันเทิง",Mono29MusicStation
-
+# ------------------------------------------------------------ CINEMA ------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 1
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 9)
-#http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w5H53SITSMYtRd-Oqf6wLL0/m3u8
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 2
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 9)
-#http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w_5cOTPtf2-yuYVaNlq13GI/m3u8
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/PING
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 3
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 9)
-#http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 4
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 9)
-#http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1wwRB5fluemONXXZNwQoTE3k/m3u8
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 5
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 6
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1EHTNroAo_ziJPjVP4TI-a/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 7
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3HbwKeTfQOAfde0Yq6nB4R/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 8
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD0hg4Gs2jd1iXYXcS21RzWF/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 9
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3_KM4YkgSnGtAVRvW0dCOl/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 10
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD25HYA1IFukGHKeezKo5D5D/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 11
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1miPXcY4ojlIQc_lnl8GAz/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 12
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1g5vIgHfN-EcoVjgAsNK-e/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 13
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3fWtqA7sA4dnszUzaFmt7L/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 14
+#EXTVLCOPT:network-caching=1000
+http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD2Ou_WL_7FzJRpX42MD8j_O/ts
 
+# ---------------------------------------------- HBO / madoball
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2820/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-133.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2819/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-134.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2818/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-135.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/AXN_logo.png/revision/latest/scale-to-width-down/985?cb=20240108142059&path-prefix=vi" group-title="ช่องบันเทิง",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2650/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-129.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2930/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-140.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2929/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-139.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2739/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-130.m3u8
 
-#--------------------------------------------------------- True
+#--------------------------------------------------------- True / madoball
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1915/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-147.m3u8
 
 #EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1873/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-123.m3u8
 
 #EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1874/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-141.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1942,19 +1952,16 @@ https://godlivetv.io/madoball/1877/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1875/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-148.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueSeries
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1916/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-146.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",True Film CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1913/playlist.m3u8
-https://live.iptv-th.workers.dev/live/xc-151.m3u8
 
 #====================================================== การ์ตูน ==================================================================
 #EXTINF:-1 tvg-id="Bean.us" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png" group-title="ช่องการ์ตูน",Mr.bean Cartoon
@@ -1971,8 +1978,6 @@ http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 tvg-id="DreamWorks.th" tvg-logo="https://f.ptcdn.info/621/051/000/or0grkyar15AgQGj5ZY-o.png" group-title="ช่องการ์ตูน",DreamWorks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://love.homema6859.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="ช่องการ์ตูน",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
