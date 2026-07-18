@@ -1200,24 +1200,30 @@ http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&str
 #--------------- bein 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่อง SPORTS - 2",True beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่อง SPORTS - 2",True beIN Sports 1
-http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
 #--------------- bein 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่อง SPORTS - 2",True beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่อง SPORTS - 2",True beIN Sports 2
-http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
 #--------------- bein 3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่อง SPORTS - 2",True beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่อง SPORTS - 2",True beIN Sports 3
-http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
 
 
 #----------------------------------------------- True Premier Football ----------------------------------
