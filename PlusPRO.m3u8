@@ -767,22 +767,6 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.distro.tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-ring-tv/d075770e-b072-414c-892c-ed282c5dbd50/2.m3u8
 
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/3840px-J_Sports_Logo.svg.png", J Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/RedBullEnergyDrink.svg/1280px-RedBullEnergyDrink.svg.png" group-title="ช่องทีวีต่างประเทศ",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
@@ -1006,6 +990,22 @@ http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&str
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 3 | SG
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571
 
+#------------------------------------ now sports
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="ช่อง SPORTS - 1",now sports1
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112207
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="ช่อง SPORTS - 1",now sports2
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112206
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="ช่อง SPORTS - 1",now sports3
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112205
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="ช่อง SPORTS - 1",now sports4
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/W-Sport_logo.svg/330px-W-Sport_logo.svg.png" group-title="ช่อง SPORTS - 1",now sports5 ( W-sport)
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112203
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="ช่อง SPORTS - 1",now sports6
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112202
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="ช่อง SPORTS - 1",now sports7
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112201
+
 #----------------------------------------------------- Golf
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://tv.golfnetwork.co.jp/uploads/image/fd58a773-04fb-4e72-8d1c-1a4ca51dfa31.png",Golf Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1037,7 +1037,6 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22931
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 
-
 # ---------------------------------------------------- All sports in sport-1 ------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",TNA Sports
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
@@ -1066,6 +1065,8 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="ช่อง SPORTS - 1",Racing Stream 2
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+
+
 
 # =================================================================== ช่อง SPORTS - 2 ============================================================>
 ### ------------------------------------------------------------------- TRUE Sport --------------------  ###
@@ -1243,32 +1244,32 @@ https://cdn2.stream.atmflix.live/atmflixlive/volleyball1/playlist.m3u8
 https://cdn2.stream.atmflix.live/atmflixlive/volleyball2/playlist.m3u8
 
 
-# -------------------------------------------------------- MONOMAX 51/54/cattv976 ---------------------------------------------------------------
+# -------------------------------------------------------- MONOMAX cattv976/fastopen ---------------------------------------------------------------
 # --- MONOMAX 1 ---
 #EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่อง SPORTS - 2",Monomax 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
+https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
 #EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่อง SPORTS - 2",Monomax 1 
-http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
 
 # --- MONOMAX 2 ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่อง SPORTS - 2",Monomax 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
+https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่อง SPORTS - 2",Monomax 2
-http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport2_mono
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 
 #-------------------------------------------------- BG Sports ------------------------------------------------- #
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bgsport.jpg" group-title="ช่อง SPORTS - 2",BG sports ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport1/index.m3u8
+#https://ealivefotex.com/maxsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bgsport.jpg" group-title="ช่อง SPORTS - 2",BG sports ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport2/index.m3u8
+#https://ealivefotex.com/maxsport2/index.m3u8
 
 # ---------------------------------------------------------- All sport in sport-2 ------------------------------------------------------------
 
@@ -1343,10 +1344,12 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports64/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports66/playlist.m3u8
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130749
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais69.png" group-title="ช่อง SPORTS - 2", playsport 69 (GOLF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports69/playlist.m3u8
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130747
 
 # ------------------------------------------------ Ais NBA  --------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ช่องกีฬาถ่ายทอดสด", playsport 48 (K168)
