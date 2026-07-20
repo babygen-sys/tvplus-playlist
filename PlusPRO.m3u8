@@ -1708,37 +1708,38 @@ http://49.0.64.96:8007/IZAA
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 6
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1EHTNroAo_ziJPjVP4TI-a/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1EHTNroAo_ziJPjVP4TI-a/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 7
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3HbwKeTfQOAfde0Yq6nB4R/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3HbwKeTfQOAfde0Yq6nB4R/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 8
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD0hg4Gs2jd1iXYXcS21RzWF/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD0hg4Gs2jd1iXYXcS21RzWF/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 9
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3_KM4YkgSnGtAVRvW0dCOl/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3_KM4YkgSnGtAVRvW0dCOl/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 10
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD25HYA1IFukGHKeezKo5D5D/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD25HYA1IFukGHKeezKo5D5D/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 11
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1miPXcY4ojlIQc_lnl8GAz/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1miPXcY4ojlIQc_lnl8GAz/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 12
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1g5vIgHfN-EcoVjgAsNK-e/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD1g5vIgHfN-EcoVjgAsNK-e/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 13
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3fWtqA7sA4dnszUzaFmt7L/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD3fWtqA7sA4dnszUzaFmt7L/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 14
 #EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD2Ou_WL_7FzJRpX42MD8j_O/ts
+#http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD2Ou_WL_7FzJRpX42MD8j_O/ts
 
 # ---------------------------------------------- HBO / madoball
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2820/playlist.m3u8
+https://live.iptv-th.workers.dev/live/77.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1769,27 +1770,32 @@ https://godlivetv.io/madoball/2929/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2739/playlist.m3u8
+https://live.iptv-th.workers.dev/live/74.m3u8
 
 #--------------------------------------------------------- True / madoball
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1915/playlist.m3u8
+https://live.iptv-th.workers.dev/live/70.m3u8
 
 #EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1873/playlist.m3u8
+https://live.iptv-th.workers.dev/live/80.m3u8
 
 #EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1874/playlist.m3u8
+https://live.iptv-th.workers.dev/live/64.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1877/playlist.m3u8
+https://live.iptv-th.workers.dev/live/67.m3u8
 
 #EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
 
@@ -1797,6 +1803,7 @@ https://godlivetv.io/madoball/1877/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1875/playlist.m3u8
+https://live.iptv-th.workers.dev/live/66.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueSeries
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1856,11 +1863,13 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1546/playlist.m3u8
+https://live.iptv-th.workers.dev/live/47.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", DiscoveryAsia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1606/playlist.m3u8
+https://live.iptv-th.workers.dev/live/55.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
