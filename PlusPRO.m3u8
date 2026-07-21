@@ -1710,27 +1710,27 @@ https://live.iptv-th.workers.dev/live/77.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/2819/playlist.m3u8
+#https://godlivetv.io/madoball/2819/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/2818/playlist.m3u8
+#https://godlivetv.io/madoball/2818/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/AXN_logo.png/revision/latest/scale-to-width-down/985?cb=20240108142059&path-prefix=vi" group-title="ช่องบันเทิง",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/2650/playlist.m3u8
+#https://godlivetv.io/madoball/2650/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/2930/playlist.m3u8
+#https://godlivetv.io/madoball/2930/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/2929/playlist.m3u8
+#https://godlivetv.io/madoball/2929/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
 https://live.iptv-th.workers.dev/live/74.m3u8
@@ -1756,12 +1756,12 @@ https://live.iptv-th.workers.dev/live/66.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueSeries
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1916/playlist.m3u8
+#https://godlivetv.io/madoball/1916/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",True Film CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1913/playlist.m3u8
+#https://godlivetv.io/madoball/1913/playlist.m3u8
 
 #====================================================== การ์ตูน ==================================================================
 #EXTINF:-1 tvg-id="Bean.us" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png" group-title="ช่องการ์ตูน",Mr.bean Cartoon
@@ -1816,22 +1816,22 @@ https://live.iptv-th.workers.dev/live/55.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/722/playlist.m3u8
+#https://godlivetv.io/madoball/722/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/555/playlist.m3u8
+#https://godlivetv.io/madoball/555/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/740/playlist.m3u8
+#https://godlivetv.io/madoball/740/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="ช่องสารคดี",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1854/playlist.m3u8
+#https://godlivetv.io/madoball/1854/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="ช่องสารคดี",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1846,12 +1846,12 @@ https://restream.pdtvhd.com/memfs/9e6205cb-2c2c-41ed-a7e5-831ccaade4d1.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/710/playlist.m3u8
+#https://godlivetv.io/madoball/710/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/563/playlist.m3u8
+#https://godlivetv.io/madoball/563/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องสารคดี",Animal
 http://49.0.64.96:8007/Animal
