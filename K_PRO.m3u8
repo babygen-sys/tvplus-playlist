@@ -1276,6 +1276,15 @@ https://ealivefotex.com/maxsport3/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport4/index.m3u8
 
+#------------------------------------------------------- streambylivepulse ถ่ายทอดสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel80/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel81/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel82/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel83/playlist.m3u8
 
 #---------------------------------------------------------- VNL atmfix --------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL HD
@@ -1535,38 +1544,42 @@ http://49.0.64.96:8007/Cartoonumi
 https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
-https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง",HBO Signature
-https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/AXN_logo.png/revision/latest/scale-to-width-down/985?cb=20240108142059&path-prefix=vi" group-title="ช่องบันเทิง",AXN
-https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
-https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
-https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
 https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
 
 #--------------------------------------------------------- True
-#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
+#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia-c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
+#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More-c
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
+#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film-c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
+#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1-v
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
 
 #EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
-https://hls.iptv-th.workers.dev/live/102/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
 https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
@@ -1591,7 +1604,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 tvg-id="DreamWorks.th" tvg-logo="https://f.ptcdn.info/621/051/000/or0grkyar15AgQGj5ZY-o.png" group-title="ช่องการ์ตูน",DreamWorks
-https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png" group-title="ช่องการ์ตูน",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1650,7 +1663,7 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 https://restream.pdtvhd.com/memfs/9e6205cb-2c2c-41ed-a7e5-831ccaade4d1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี",Animal Show
-https://hls.iptv-th.workers.dev/live/329/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/329/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก
 https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
