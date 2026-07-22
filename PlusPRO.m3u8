@@ -1432,6 +1432,15 @@ https://ealivefotex.com/maxsport3/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport4/index.m3u8
 
+#------------------------------------------------------- streambylivepulse ถ่ายทอดสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel80/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel81/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel82/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel83/playlist.m3u8
 
 #---------------------------------------------------------- VNL atmfix --------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL HD
