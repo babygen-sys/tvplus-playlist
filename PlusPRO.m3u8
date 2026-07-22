@@ -51,8 +51,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ช่องทีวีไทย",PPTV
-#EXTVLCOPT:network-caching=1000
-https://live.iptv-th.workers.dev/live/36.m3u8
+https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="ช่องทีวีไทย",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -927,23 +926,10 @@ http://41.205.93.154/ESPN/index.m3u8
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/4022
 
 #------------------------------------------------------------  SPOTV  -----------------------------
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SPOTV_Now_logo_%28%C4%90N%C3%81%29.png/revision/latest/scale-to-width-down/985?cb=20231224030110&path-prefix=vi" group-title="ช่อง SPORTS - 1", SPOTV Now
-https://slive.mana2.my/SpotvNow/index.mpd
 
-#EXTINF:-1 tvg-id="spotv-hd" tvg-logo="https://i.imgur.com/QExPfsT.png" group-title="ช่อง SPORTS - 1",SpoTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-#EXTINF:-1 tvg-id="spotv-2-hd" tvg-logo="https://i.imgur.com/7mY1Zxg.png" group-title="ช่อง SPORTS - 1",SpoTV 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QExPfsT.png" group-title="ช่อง SPORTS - 1",SpoTV HD
 
 #-------------------------------------------------Prima Sport------------------------------------------
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest?cb=20240205121905" group-title="ช่อง SPORTS - 1",Prima Sport 1
@@ -1279,9 +1265,7 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 # ---------------------------------------------------------- All sport in sport-2 ------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 2",LFC TV
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-#EXTVLCOPT:network-caching=2000
-#http://opplextv.cyou:8080/nasir6160/nasir/346243
+https://hls.iptv-th.workers.dev/live/161/playlist.m3u8
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 2",MUTV
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://get.perfecttv.net/mutv.mpd
@@ -1411,14 +1395,13 @@ https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",CH7
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",Gmm25
-https://live.iptv-th.workers.dev/live/25.m3u8
+https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE 31
+https://hls.iptv-th.workers.dev/live/138/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE HD ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",F-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-105/ukc6-i98x/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",MotoGP ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
@@ -1703,65 +1686,52 @@ http://49.0.64.96:8007/Cartoonumi
 #EXTVLCOPT:network-caching=1000
 #http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD2Ou_WL_7FzJRpX42MD8j_O/ts
 
-# ---------------------------------------------- HBO / madoball
+# ---------------------------------------------- HBO 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง",HBO HD
-https://live.iptv-th.workers.dev/live/77.m3u8
+https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/2819/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/2818/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/AXN_logo.png/revision/latest/scale-to-width-down/985?cb=20240108142059&path-prefix=vi" group-title="ช่องบันเทิง",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/2650/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/2930/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/2929/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
-https://live.iptv-th.workers.dev/live/74.m3u8
+https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
 
-#--------------------------------------------------------- True / madoball
+#--------------------------------------------------------- True
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
-https://live.iptv-th.workers.dev/live/70.m3u8
+https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
-https://live.iptv-th.workers.dev/live/80.m3u8
+https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
-https://live.iptv-th.workers.dev/live/64.m3u8
+https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
-https://live.iptv-th.workers.dev/live/67.m3u8
+https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
 
 #EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
+https://hls.iptv-th.workers.dev/live/102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
-https://live.iptv-th.workers.dev/live/66.m3u8
+https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueSeries
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1916/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",True Film CCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1913/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
 
 #====================================================== การ์ตูน ==================================================================
 #EXTINF:-1 tvg-id="Bean.us" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png" group-title="ช่องการ์ตูน",Mr.bean Cartoon
@@ -1777,7 +1747,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 tvg-id="DreamWorks.th" tvg-logo="https://f.ptcdn.info/621/051/000/or0grkyar15AgQGj5ZY-o.png" group-title="ช่องการ์ตูน",DreamWorks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png" group-title="ช่องการ์ตูน",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1808,30 +1778,22 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 ### ---------------------------------------------------- หมวด: ช่องสารคดี -------------------------------------------------- ###
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery 
-https://live.iptv-th.workers.dev/live/47.m3u8
+https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", DiscoveryAsia
-https://live.iptv-th.workers.dev/live/55.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", Discovery Asia
+https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/722/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/555/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",True Explore Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/740/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="ช่องสารคดี",Asian Food Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1854/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="ช่องสารคดี",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1844,14 +1806,10 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 https://restream.pdtvhd.com/memfs/9e6205cb-2c2c-41ed-a7e5-831ccaade4d1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี",Animal Show
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/710/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/329/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/563/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องสารคดี",Animal
 http://49.0.64.96:8007/Animal
