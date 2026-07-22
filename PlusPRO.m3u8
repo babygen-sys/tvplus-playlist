@@ -1688,7 +1688,7 @@ http://49.0.64.96:8007/Cartoonumi
 
 # ---------------------------------------------- HBO 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง",HBO HD
-#https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 #https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
@@ -1703,10 +1703,10 @@ http://49.0.64.96:8007/Cartoonumi
 #https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
-https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
-#https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
 
 #--------------------------------------------------------- True
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia-c
@@ -1782,22 +1782,22 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 ### ---------------------------------------------------- หมวด: ช่องสารคดี -------------------------------------------------- ###
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery 
-#https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", Discovery Asia
-#https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
-#https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
-#https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",True Explore Wild
-#https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="ช่องสารคดี",Asian Food Network
-#https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="ช่องสารคดี",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1813,7 +1813,7 @@ https://restream.pdtvhd.com/memfs/9e6205cb-2c2c-41ed-a7e5-831ccaade4d1.m3u8
 #https://hls.iptv-th.workers.dev/live/329/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก
-#https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องสารคดี",Animal
 http://49.0.64.96:8007/Animal
