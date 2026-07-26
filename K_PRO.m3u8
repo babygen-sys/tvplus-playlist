@@ -1251,8 +1251,7 @@ https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
 
-#--------------------------------------------------------------------------------------------------
-
+#-------------------------------------------------------------------- /api.plus-server.sbs 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 #http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
 
@@ -1276,6 +1275,13 @@ https://ealivefotex.com/maxsport4/index.m3u8
 
 #------------------------------------------------------- streambylivepulse ถ่ายทอดสด
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel36/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel37/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+https://live1.streambylivepulse.com/live/channel38/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 https://live1.streambylivepulse.com/live/channel80/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 https://live1.streambylivepulse.com/live/channel81/playlist.m3u8
@@ -1283,6 +1289,8 @@ https://live1.streambylivepulse.com/live/channel81/playlist.m3u8
 https://live1.streambylivepulse.com/live/channel82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 https://live1.streambylivepulse.com/live/channel83/playlist.m3u8
+
+# ---------------------------------------------------- cdnlivetv.tv ถ่ายทอดสด
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
 #https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd374/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
@@ -1292,14 +1300,14 @@ https://live1.streambylivepulse.com/live/channel83/playlist.m3u8
 
 
 #=================================================== VXA VNL ============================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Brazil v Italy 14:35
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",China v Italy 14:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PEbI6ecX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",China v Turkiye 18:05
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PA9u74As/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Brazil v Turkiye 18:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8TBQDKh6/live.isml/.m3u8
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Wrzj4WWp/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1448,8 +1456,7 @@ https://live1.streambylivepulse.com/live/channel62/playlist.m3u8
 https://live1.streambylivepulse.com/live/channel63/playlist.m3u8
 #------------------------------ Court 4
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://wakacha.github.io
+
 
 #================================================================ ช่องทีวีบันเทิง =======================================================================
 #EXTINF:-1 tvg-id="MonoPlus.th" tvg-name="MONO29 Plus" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="ช่องบันเทิง",MONO29 Plus
@@ -1512,6 +1519,9 @@ http://49.0.64.96:8007/Cartoonumi
 
 # ---------------------------------------------- HBO 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง",HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
 https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
@@ -1530,35 +1540,51 @@ https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
 #https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
-https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
+#https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
 
 #--------------------------------------------------------- True
-#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia-c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/108.m3u8
 https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More-c
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/30760.m3u8
 https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film-c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/104.m3u8
 https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1-v
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/238349.m3u8
 https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
 
 #EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
 #https://hls.iptv-th.workers.dev/live/102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/105.m3u8
 https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueSeries
-https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/103.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",True Film CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/259866.m3u8
 https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
 
 #====================================================== การ์ตูน ==================================================================
@@ -1612,6 +1638,9 @@ https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+http://mooseven.ddns.net:8080/live/test/testm7/30876.m3u8
 https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
