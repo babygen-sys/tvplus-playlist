@@ -1321,7 +1321,7 @@ https://godlivetv.io/madoball/1478/playlist.m3u8
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130747
 
 # ------------------------------------------------ Ais NBA madoball --------------------------
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ช่องกีฬาถ่ายทอดสด", playsport 48 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais48.png" group-title="ช่อง SPORTS - 2", playsport 48 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/1439/playlist.m3u8
@@ -1437,14 +1437,12 @@ https://live1.streambylivepulse.com/live/channel83/playlist.m3u8
 
 
 #=================================================== VXA VNL ============================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",China v Italy 14:05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PA9u74As/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Brazil v Turkiye 18:05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.gameday.cyou
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Wrzj4WWp/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
