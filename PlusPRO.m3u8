@@ -1678,12 +1678,17 @@ http://49.0.64.96:8007/Cartoonumi
 #http://43.229.132.25:80/play/QzERbTGVoGZwbDYGCMoxHgshZ1Z8foGdCDHiSclvnD2Ou_WL_7FzJRpX42MD8j_O/ts
 
 # ---------------------------------------------- HBO 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD เทส1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://m7play.online/
 #EXTVLCOPT:http-origin=http://m7play.online
 http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD เทส2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
+#EXTVLCOPT:http-origin=https://hls.iptv-th.workers.dev
+https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
+# ---------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 #https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
 
