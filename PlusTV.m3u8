@@ -51,7 +51,10 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ช่องทีวีไทย",PPTV
-https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
+http://mooseven.ddns.net:8080/live/test/testm7/23.m3u8
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="ช่องทีวีไทย",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -211,24 +214,16 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-
+# --------------------------------------------------------------------------- HBO 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/19/24/14/hbo-2-television-show-streaming-media-png-favpng-w6NG7MNhKBv2JQqxyvGiw5vv8.jpg" group-title="ช่องทีวีต่างประเทศ",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
-http://185.98.211.8:81/hbo2/index.m3u8?token=test
+#http://185.98.211.8:81/hbo2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ช่องทีวีต่างประเทศ",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://canale-tv.net
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ช่องทีวีต่างประเทศ",HBO
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://indihuy.streamized.net/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
-#https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 tvg-id="hbo-hits" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="ช่องทีวีต่างประเทศ",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -745,7 +740,6 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-origin=https://www.distro.tv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-ring-tv/d075770e-b072-414c-892c-ed282c5dbd50/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/RedBullEnergyDrink.svg/1280px-RedBullEnergyDrink.svg.png" group-title="ช่องทีวีต่างประเทศ",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -768,3 +762,5 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa84ab38d6173af159c18427c39e129ef702855d9ac51df292018fabdd6a1f7e6.png" group-title="ช่องทีวีต่างประเทศ",BILLIYARD TV
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png"group-title="ช่องทีวีต่างประเทศ",Snooker
+https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
