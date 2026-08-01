@@ -1365,8 +1365,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_cha
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
 
-### ⚽ ===================================================================== premier ================================================================= ⚽ ###
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก⚽ premier league 
+### ⚽ ===================================================================== พรีเมียร์ลีก ================================================================= ⚽ ###
+#EXTINF:-1 tvg-logo="https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F4043437%2Fimage_6651354012428.png&w=288&h=288&t=frame" group-title="พรีเมียร์ลีก",⚽ pre season friendlies
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",⚽ premier league 
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
