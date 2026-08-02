@@ -946,14 +946,18 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1152
 
 #------------------------------------ SG| HUB SPORTS HD
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 1 | SG
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941573
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941573
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 2 | SG
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941572
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941572
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 3 | SG
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571
+#EXTINF:-1 tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 4 | SG
+http://185.243.7.195:80/play/live.php?mac=00:1B:79:3F:29:13&stream=1903774&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.resolutedepg.online/205-hub-sports-5.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 5 | SG
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903775&extension=m3u8
 
 #------------------------------------ now sports
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="ช่อง SPORTS - 1",now sports1
