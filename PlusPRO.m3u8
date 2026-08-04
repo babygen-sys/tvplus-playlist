@@ -1474,7 +1474,11 @@ http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 #https://kudos111.terranovax1.cfd/er02/usergenje3x9dqrnd.m3u8
 #-------------------------------------------------------------------- /api.plus-server.sbs 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
 
 #--------------------------------------------------- ealivefotex ถ่ายทอดสด --------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
