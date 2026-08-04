@@ -1372,14 +1372,26 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&exten
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
 
 # ------------------------------ MONOMAX -------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",Monomax 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
+http://mooseven.ddns.net:8080/live/test/testm7/255809.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",Monomax 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m7play.online/
+#EXTVLCOPT:http-origin=http://m7play.online
+http://mooseven.ddns.net:8080/live/test/testm7/255810.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
-#https://cdn1.googlecdnforstreaming.live/live/monomax-1/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/monomax-1/playlist.m3u8
 
 #⚽================================================================ ช่องกีฬาถ่ายทอดสด ================================================================= ⚽
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",thairath
