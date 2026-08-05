@@ -1397,6 +1397,40 @@ http://mooseven.ddns.net:8080/live/test/testm7/255810.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130723
 
+
+# ============================================================================= BEACH VOLLEYBALL =========================================================
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Fejes/Clancy (AUS) vs Barber/Gernert (GER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/V0hNssye/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Bock/Kunst (GER) vs Bisgaard/Høg (DEN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/wsLyn7nP/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Christ/Neuß (GER) vs Grune/Uhl (GER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vOSC6C0F/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Pavelkova K./Pavelkova A. (CZE) vs Lorenzova/Tomasova (CZE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/pxd3Tk1c/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Annique/Menia (SUI) vs Paul/Lippmann (GER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/R6a4VhPo/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Serdiuk/Romaniuk (UKR) vs Maidhof/Schwarz (GER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vBU9zrW0/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Hesse/Hesse (GER) vs Belanger/Monkhouse (CAN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/NAKmq2ZX/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Hollas H./Remmelg (EST) vs Beutel/Schurholz (GER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/f9nCVXrG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Friedli/Jordan (SUI) vs Fiedler/Fromm (GER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1WXrNaMn/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Lorenz/Rietschel (GER) vs Tiisaar/Korotkov (EST)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/UDH83qif/live.isml/.m3u8
+
+
 #⚽================================================================ ช่องกีฬาถ่ายทอดสด ================================================================= ⚽
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",thairath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
