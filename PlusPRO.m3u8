@@ -1398,40 +1398,49 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130723
 
 
-# ============================================================================= BEACH VOLLEYBALL =========================================================
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Fejes/Clancy (AUS) vs Barber/Gernert (GER)
+# ============================================================== VOLLEYBALL =========================================================
+# -------------------------------------------- atmflixlive VOLLEYBALL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/fivb%20volleyball%20girls%E2%80%99%20u17.png" group-title="VOLLEYBALL",fivb volleyball u17 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/fivb%20volleyball%20girls%E2%80%99%20u17.png" group-title="VOLLEYBALL",fivb volleyball u17 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/fivb%20volleyball%20girls%E2%80%99%20u17.png" group-title="VOLLEYBALL",fivb volleyball u17 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/fivb%20volleyball%20girls%E2%80%99%20u17.png" group-title="VOLLEYBALL",fivb volleyball u17 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv4/playlist.m3u8
+
+# ------------------------------------------- streambylivepulse.com VOLLEYBALL 
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://live1.streambylivepulse.com/live/channel80/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://live1.streambylivepulse.com/live/channel81/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://live1.streambylivepulse.com/live/channel82/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://live1.streambylivepulse.com/live/channel83/playlist.m3u8
+
+# ---------------------------------------------- SEA V Cup 2026
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",SEA V Cup 2026
+https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
+
+# ---------------------------------------------- VXA VOLLEYBALL
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/V0hNssye/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Bock/Kunst (GER) vs Bisgaard/Høg (DEN)
+#EXTVLCOPT:http-origin=https://www.gameday.cyou
+# -------------------
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/wsLyn7nP/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Christ/Neuß (GER) vs Grune/Uhl (GER)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vOSC6C0F/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Pavelkova K./Pavelkova A. (CZE) vs Lorenzova/Tomasova (CZE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/pxd3Tk1c/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Annique/Menia (SUI) vs Paul/Lippmann (GER)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/R6a4VhPo/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Serdiuk/Romaniuk (UKR) vs Maidhof/Schwarz (GER)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vBU9zrW0/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Hesse/Hesse (GER) vs Belanger/Monkhouse (CAN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/NAKmq2ZX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Hollas H./Remmelg (EST) vs Beutel/Schurholz (GER)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/f9nCVXrG/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Friedli/Jordan (SUI) vs Fiedler/Fromm (GER)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1WXrNaMn/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1671449351/assets/competition-logos/Events%202023/Beach%20Volleyball/Beach%20pro%20Tour/bpt-2023-logo-white" group-title="BEACH VOLLEYBALL", Lorenz/Rietschel (GER) vs Tiisaar/Korotkov (EST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/UDH83qif/live.isml/.m3u8
 
 
-#⚽================================================================ ช่องกีฬาถ่ายทอดสด ================================================================= ⚽
+# ⚽================================================================ ช่องกีฬาถ่ายทอดสด ================================================================= ⚽
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",thairath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
@@ -1450,18 +1459,22 @@ https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/ey
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",CH7
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE championship
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE มวยสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2 ถ่ายสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2 สด
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX SPORTS29
 http://api.plus-server.sbs/play.php?key=1234&ch=mono29
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",WNBA สด
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
+https://live1.streambylivepulse.com/live/channel40/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
+https://live1.streambylivepulse.com/live/channel41/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
 https://live1.streambylivepulse.com/live/channel42/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",WNBA สด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
@@ -1470,7 +1483,6 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports58/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA สด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
@@ -1497,114 +1509,39 @@ http://mooseven.ddns.net:8080/live/test/testm7/218069.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 7 SD
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 
-#----------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://canale-tv.net/
-#https://kudos111.terranovax1.cfd/er01/usergendx0slkgx7dqrnd.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://canale-tv.net/
-#https://kudos111.terranovax1.cfd/er02/usergenje3x9dqrnd.m3u8
 #-------------------------------------------------------------------- /api.plus-server.sbs 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
 
 #--------------------------------------------------- ealivefotex ถ่ายทอดสด --------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport4/index.m3u8
 
 #------------------------------------------------------- streambylivepulse ถ่ายทอดสด
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 https://live1.streambylivepulse.com/live/channel36/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 https://live1.streambylivepulse.com/live/channel37/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 https://live1.streambylivepulse.com/live/channel38/playlist.m3u8
-# ----------------
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-https://live1.streambylivepulse.com/live/channel80/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-https://live1.streambylivepulse.com/live/channel81/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-https://live1.streambylivepulse.com/live/channel82/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-https://live1.streambylivepulse.com/live/channel83/playlist.m3u8
-
-# ---------------------------------------------------- cdnlivetv.tv ถ่ายทอดสด
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-#https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd374/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-#https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd375/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายทอดสด
-#https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd376/playlist.m3u8
-
-
-#=================================================== VXA VNL ============================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",14:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.gameday.cyou
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",18:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.gameday.cyou
-
-
-#---------------------------------------------------------- VNL mee88player -------------------
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL
-https://live.mee88player.com/live/1491.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL
-https://live.mee88player.com/live/1492.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL
-https://live.mee88player.com/live/1493.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL
-https://live.mee88player.com/live/1494.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL
-https://live.mee88player.com/live/1495.m3u8
-
-#---------------------------------------------------------- VNL atmfix --------------------
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/event1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",VNL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/event21/playlist.m3u8
 
 #======================================================================== ATP Tour =================================================================
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://cdn.wearetennis.bnpparibas/media/images/cache/header_article/uploads/article/image/20210304063544000000_21bnp_mar_atplogo01a.jpg",ATP Tour
