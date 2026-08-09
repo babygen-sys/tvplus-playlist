@@ -1242,7 +1242,6 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 
 # ---------------------------------------------------------- All sport in sport-2 ------------------------------------------------------------
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 2",LFC TV
-https://hls.iptv-th.workers.dev/live/161/playlist.m3u8
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 2",MUTV
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://get.perfecttv.net/mutv.mpd
@@ -1358,8 +1357,7 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130747
 https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_contentId=4403
 
 ### ⚽ ===================================================================== พรีเมียร์ลีก ================================================================= ⚽ ###
-#EXTINF:-1 tvg-logo="https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F4043437%2Fimage_6651354012428.png&w=288&h=288&t=frame" group-title="พรีเมียร์ลีก",⚽ pre season friendlies
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
+
 #EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/3840px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="พรีเมียร์ลีก",⚽SKY Football 
@@ -1446,14 +1444,7 @@ https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/ey
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 #EXTVLCOPT:http-origin=https://www.thairath.co.th
 #https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",AFF Championship TRUE 2
-http://mooseven.ddns.net:8080/live/test/testm7/218060.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",Gmm25
-#https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",Gmm25
-#https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE 31
-#https://hls.iptv-th.workers.dev/live/138/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE 31
 https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
 
@@ -1492,17 +1483,17 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 https://cdn2.stream.atmflix.live/atmflixlive/playsports58/playlist.m3u8
 #----------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-https://live1.streambylivepulse.com/live/channel33/playlist.m3u8
+#https://live1.streambylivepulse.com/live/channel33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-https://live1.streambylivepulse.com/live/channel34/playlist.m3u8
+#https://live1.streambylivepulse.com/live/channel34/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-https://live1.streambylivepulse.com/live/channel35/playlist.m3u8
+#https://live1.streambylivepulse.com/live/channel35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-https://live1.streambylivepulse.com/live/channel40/playlist.m3u8
+#https://live1.streambylivepulse.com/live/channel40/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-https://live1.streambylivepulse.com/live/channel41/playlist.m3u8
+#https://live1.streambylivepulse.com/live/channel41/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-https://live1.streambylivepulse.com/live/channel42/playlist.m3u8
+#https://live1.streambylivepulse.com/live/channel42/playlist.m3u8
 
 # ---------------------------------------------------------- Billiards Snooker ----------
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",CCTV 5
