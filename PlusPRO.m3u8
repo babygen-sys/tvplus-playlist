@@ -1667,6 +1667,9 @@ http://mooseven.ddns.net:8080/live/test/testm7/37875.m3u8
 #EXTVLCOPT:http-referrer=http://m7play.online/
 #EXTVLCOPT:http-origin=http://m7play.online
 http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD s
+https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
+
 # ---------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 
