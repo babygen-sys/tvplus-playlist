@@ -999,14 +999,14 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1280px-Sky_Sport_Golf_Logo_2022.svg.png",sky golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22931
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sports_Main_Event_-_Logo_2025.svg",sky main event
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sports_Main_Event_UHD_logo.jpg",sky main event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 
 # ---------------------------------------------------- All sports in sport-1 ------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="ช่อง SPORTS - 1",CCTV Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",TNA Sports
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/141-1415157_tna-wrestling.png" group-title="ช่อง SPORTS - 1",TNA Sports
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="ช่อง SPORTS - 1",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
@@ -1253,9 +1253,6 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 2",INTER TV ᴴᴰ
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-logo="https://storage.ghost.io/c/42/2e/422e2400-eb2f-4a64-b2d4-436c43252d51/content/images/2025/07/la-liga.png" group-title="ช่อง SPORTS - 2",La liga Inside
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="ช่อง SPORTS - 2",🏁FORMULA 1 Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1263,7 +1260,6 @@ https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/3840px-WWE_Logo.svg.png" group-title="ช่อง SPORTS - 2",WWE
-#http://41.205.93.154/WWE/index.m3u8
 
 ### ------------------------------------------------------------------- TENNIS SPORTS -------------------- ###
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/True_Tennis.png/revision/latest/scale-to-width-down/284?cb=20240416041723&path-prefix=vi" group-title="ช่อง SPORTS - 2",TRUE TENNIS
@@ -1290,81 +1286,23 @@ https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf
 http://49.0.64.96:8007/GOLF
 
-### --------------------------------------------------------- หมวด: AIS VIP SPORTS --------------------------------------------------------------- ###
-# ----------- ---------------------------------------Ais GOLF madoball --------------------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais61.png" group-title="ช่อง SPORTS - 2", playsport 61 (GOLF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1482/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais62.png" group-title="ช่อง SPORTS - 2", playsport 62 (GOLF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1481/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais64.png" group-title="ช่อง SPORTS - 2", playsport 64 (GOLF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1438/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais66.png" group-title="ช่อง SPORTS - 2", playsport 66 (GOLF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1479/playlist.m3u8
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130749
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais69.png" group-title="ช่อง SPORTS - 2", playsport 69 (GOLF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1478/playlist.m3u8
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130747
-
-# ------------------------------------------------ Ais NBA madoball --------------------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais48.png" group-title="ช่อง SPORTS - 2", playsport 48 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1439/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่อง SPORTS - 2",PLAY sports 55 NBA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1484/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais56.png" group-title="ช่อง SPORTS - 2", playsport 56 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1483/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais57.png" group-title="ช่อง SPORTS - 2", playsport 57(WNBA) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1441/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais58.png" group-title="ช่อง SPORTS - 2", playsport 58(WNBA) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1440/playlist.m3u8
-
-# ---------------------------------------------------- Ais ATP madoball ----------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais71.png" group-title="ช่อง SPORTS - 2", playsport 71 (ATP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1477/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais72.png" group-title="ช่อง SPORTS - 2", playsport 72 (ATP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1476/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais73.png" group-title="ช่อง SPORTS - 2", playsport 73 (ATP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://madoball.com/
-#https://godlivetv.io/madoball/1475/playlist.m3u8
-
 #-------------------------------------------------------------- ONE -------------
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg" group-title="ช่อง SPORTS - 2",ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_contentId=4403
 
+
 ### ⚽ ===================================================================== พรีเมียร์ลีก ================================================================= ⚽ ###
 # ----------------------------------------------------- SKY moj ---------
-#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 2
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
-#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="พรีเมียร์ลีก",⚽SKY main event
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20main%20event.png" group-title="พรีเมียร์ลีก",⚽SKY main event
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/3840px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="พรีเมียร์ลีก",⚽SKY Football 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="พรีเมียร์ลีก",⚽SKY Football
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
+
 # ------------------------------------------------------- HUB PREMIER --------
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"group-title="พรีเมียร์ลีก",HUB PREMIER 1
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
@@ -1372,49 +1310,52 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&exten
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png"group-title="พรีเมียร์ลีก",HUB PREMIER 3
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
-# ------------------------------------------------------ MONOMAX fastopen ------
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",Monomax 1
+
+# ------------------------------------------------------ MONOMAX mooseven/fastopen ------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max1.png" group-title="พรีเมียร์ลีก",Monomax 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://m7play.online/
 #EXTVLCOPT:http-origin=http://m7play.online
 http://mooseven.ddns.net:8080/live/test/testm7/255809.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max1.png" group-title="พรีเมียร์ลีก",Monomax 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-1/playlist.m3u8
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130731
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",Monomax 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",Monomax 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://m7play.online/
 #EXTVLCOPT:http-origin=http://m7play.online
 http://mooseven.ddns.net:8080/live/test/testm7/255810.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",Monomax 2 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130723
+
 # ------------------------------------------------------- SIAM Monomax ------
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 1
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 2
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 3
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 4
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 5
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 6
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 7
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 8
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 9
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 10
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam10
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7j9sGD.png" group-title="พรีเมียร์ลีก",premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 11
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam11
 
 
