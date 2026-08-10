@@ -946,14 +946,15 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1152
 
 #------------------------------------ SG| HUB SPORTS HD
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 1 | SG
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941573
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903771&extension=m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 2 | SG
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941572
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903772&extension=m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 3 | SG
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903773&extension=m3u8
+#EXTINF:-1 tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 4 | SG
+http://185.243.7.195:80/play/live.php?mac=00:1B:79:3F:29:13&stream=1903774&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.resolutedepg.online/205-hub-sports-5.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 5 | SG
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903775&extension=m3u8
 
 #------------------------------------ now sports
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="ช่อง SPORTS - 1",now sports1
@@ -986,7 +987,7 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130751
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",🏌️‍♂️ Golf  
 http://49.0.64.96:8007/GOLF
-#EXTINF:-1 tvg-logo="https://iconlogovector.com/uploads/images/2025/04/lg-67f2347e73e60-PGA-TOUR.webp" group-title="ช่องทีวีต่างประเทศ",PGA TOUR
+#EXTINF:-1 tvg-logo="https://iconlogovector.com/uploads/images/2025/04/lg-67f2347e73e60-PGA-TOUR.webp" group-title="ช่อง SPORTS - 1",PGA TOUR
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png?_=20220107164658",SBS Golf
@@ -998,14 +999,14 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1280px-Sky_Sport_Golf_Logo_2022.svg.png",sky golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22931
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sports_Main_Event_-_Logo_2025.svg",sky main event
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sports_Main_Event_UHD_logo.jpg",sky main event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 
 # ---------------------------------------------------- All sports in sport-1 ------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="ช่อง SPORTS - 1",CCTV Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",TNA Sports
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/141-1415157_tna-wrestling.png" group-title="ช่อง SPORTS - 1",TNA Sports
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="ช่อง SPORTS - 1",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
@@ -1032,4 +1033,3 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="ช่อง SPORTS - 1",Racing Stream 2
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-
