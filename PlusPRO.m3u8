@@ -1303,6 +1303,13 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="พรีเมียร์ลีก",⚽SKY Football
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
 
+# ----------------------------------------------------- astro = line.tvdsz -------
+astro epl 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="พรีเมียร์ลีก",⚽astro epl 1
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1016544&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="พรีเมียร์ลีก",⚽astro epl 2
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=918985&extension=m3u8
+
 # ------------------------------------------------------- HUB PREMIER --------
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"group-title="พรีเมียร์ลีก",HUB PREMIER 1
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
