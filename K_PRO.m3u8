@@ -25,12 +25,7 @@ http://119.82.250.109:8080/nl.m3u8?id=1112
 http://119.82.250.109:8080/nl.m3u8?id=1111
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://object-streamo.emonaja.com/img/axn.png" group-title="ช่องทีวีต่างประเทศ",AXN 
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
+http://neosfpoo.top:8080/01707840462002/ac462c0458e5/10112
 
 #EXTINF:-1 tvg-id="tvn_korea" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cjenm_logo.jpg" group-title="ช่องทีวีต่างประเทศ",CJ ENM 
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
@@ -38,53 +33,39 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="action_hollywood" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/actionholeewood.png" group-title="ช่องทีวีต่างประเทศ", Action Hollywood 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-# --- International Movie & News Channels ---
+# ------------------------------------------------------ International Movie & News Channels ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ช่องทีวีต่างประเทศ",WARNER TV
+http://neosfpoo.top:8080/01707840462002/ac462c0458e5/10228
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/786-7869945_warner-brothers-4-film-collection-blu-rays-hd.png" group-title="ช่องทีวีต่างประเทศ",WB FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
-https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-# --- HBO & Cinemax Group ---
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/9LNJXe3.png" group-title="ช่องทีวีต่างประเทศ",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-# --------------------------------------------------------------------------- HBO 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/19/24/14/hbo-2-television-show-streaming-media-png-favpng-w6NG7MNhKBv2JQqxyvGiw5vv8.jpg" group-title="ช่องทีวีต่างประเทศ",HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
-#http://185.98.211.8:81/hbo2/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ช่องทีวีต่างประเทศ",HBO
+# --------------------------------------------------------------------------- HBO
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/hbo.png" group-title="ช่องทีวีต่างประเทศ",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://canale-tv.net
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
-
-#EXTINF:-1 tvg-id="hbo-hits" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="ช่องทีวีต่างประเทศ",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-
-#EXTINF:-1 tvg-id="hbo-family" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="ช่องทีวีต่างประเทศ",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo-signature" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="ช่องทีวีต่างประเทศ",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DkfzYmG/cinemax.png" group-title="ช่องทีวีต่างประเทศ",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/19/24/14/hbo-2-television-show-streaming-media-png-favpng-w6NG7MNhKBv2JQqxyvGiw5vv8.jpg" group-title="ช่องทีวีต่างประเทศ",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+http://neosfpoo.top:8080/01707840462002/ac462c0458e5/10177
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/512?cb=20251013214240" group-title="ช่องทีวีต่างประเทศ",HBO +
+http://181.224.255.210:8001/play/a0qz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/19/24/14/hbo-2-television-show-streaming-media-png-favpng-w6NG7MNhKBv2JQqxyvGiw5vv8.jpg" group-title="ช่องทีวีต่างประเทศ",HBO Xtreme
+http://181.224.255.210:8001/play/a0oo/index.m3u8
+http://181.224.255.210:8001/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/3840px-Cinemax_%28Yellow%29.svg.png" group-title="ช่องทีวีต่างประเทศ",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-#http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#http://181.224.255.210:8001/play/a0mk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png/revision/latest/scale-to-width-down/1200?cb=20250323085928" group-title="ช่องทีวีต่างประเทศ",CinemaWorld
 http://119.82.250.109:8080/nl.m3u8?id=1024
@@ -107,9 +88,9 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-logo="https://img.favpng.com/14/9/14/nhk-world-premium-japan-logo-png-favpng-TrY461wz5x1rj2wWGEUhH2BMH.jpg" group-title="ช่องทีวีต่างประเทศ",NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",TBS
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2022/01/tokyo-broadcasting-system-television-inc-tbs-vector-logo-small.png"group-title="ช่องทีวีต่างประเทศ",TBS
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Gaki no Tsukai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XY487Kx.png"group-title="ช่องทีวีต่างประเทศ",Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="ช่องทีวีต่างประเทศ",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
@@ -158,7 +139,7 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 ### --- KIDS --- ###
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="ช่องทีวีต่างประเทศ",CARTOONITO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Cartoonito_-_Logo_2006.svg" group-title="ช่องทีวีต่างประเทศ",CARTOONITO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://canale-tv.net
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
@@ -168,7 +149,7 @@ https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
-#EXTINF:-1 tvg-logo="https://liveera.live/images/channels/Disney_Channel.png" group-title="ช่องทีวีต่างประเทศ", Disney 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2009_Disney_XD_logo.svg/1280px-2009_Disney_XD_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ช่องทีวีต่างประเทศ", Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
@@ -536,19 +517,6 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTVLCOPT:http-referrer=https://famelack.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", Fox
-http://stream.cammonitorplus.net/1780/index.m3u8
-
-#EXTINF:-1 tvg-chno="46" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", ESPN (United States)
-http://41.205.93.154/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-chno="49" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", ESPN2 (United States)
-http://41.223.30.230/ESPN2/index.m3u8
-
-#EXTINF:-1 tvg-chno="48" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="ช่องทีวีต่างประเทศ", ESPN U (United States)
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/liveiptvneti/refs/heads/main/images.jpg" group-title="ช่องทีวีต่างประเทศ",CazeTV
 https://raw.githubusercontent.com/rdc1793/canaisiptv/d03c08389570f97a1bf44cbc4b4b76840eaec6f0/cazetv.m3u8
@@ -1144,6 +1112,13 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="พรีเมียร์ลีก",⚽SKY Football
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
 
+# ----------------------------------------------------- astro = line.tvdsz -------
+astro epl 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="พรีเมียร์ลีก",⚽astro epl 1
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1016544&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="พรีเมียร์ลีก",⚽astro epl 2
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=918985&extension=m3u8
+
 # ------------------------------------------------------- HUB PREMIER --------
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"group-title="พรีเมียร์ลีก",HUB PREMIER 1
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
@@ -1501,40 +1476,35 @@ http://mooseven.ddns.net:8080/live/test/testm7/37875.m3u8
 #EXTVLCOPT:http-referrer=http://m7play.online/
 #EXTVLCOPT:http-origin=http://m7play.online
 http://mooseven.ddns.net:8080/live/test/testm7/154020.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD s
+https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
+
 # ---------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง",HBO Signature
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/AXN_logo.png/revision/latest/scale-to-width-down/985?cb=20240108142059&path-prefix=vi" group-title="ช่องบันเทิง",AXN
+https://hls.iptv-th.workers.dev/live/4003/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
+https://hls.iptv-th.workers.dev/live/4004/playlist.m3u8
 
 #------------------------------------------------------------------------------ True
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/108.m3u8
+https://hls.iptv-th.workers.dev/live/3999/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/30760.m3u8
+
 #EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/104.m3u8
+https://hls.iptv-th.workers.dev/live/3998/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/238349.m3u8
+https://hls.iptv-th.workers.dev/live/4123/playlist.m3u8
 
 #EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
 
@@ -1596,6 +1566,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 ### ---------------------------------------------------- หมวด: ช่องสารคดี -------------------------------------------------- ###
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery 
+https://hls.iptv-th.workers.dev/live/4031/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/508?cb=20260411142105&path-prefix=vi" group-title="ช่องสารคดี",Discovery Asia
 
@@ -1609,6 +1580,7 @@ http://mooseven.ddns.net:8080/live/test/testm7/30876.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",True Explore Wild
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="ช่องสารคดี",Asian Food Network
+https://hls.iptv-th.workers.dev/live/4015/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="ช่องสารคดี",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1636,7 +1608,4 @@ http://49.0.64.96:8007/WSCI
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 #EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="ช่องสารคดี",Food Network 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
+https://hls.iptv-th.workers.dev/live/4016/playlist.m3u8
