@@ -7,8 +7,22 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://movietofree.sbs/
 # =======================================================================
-
 # ---------------- movie to free
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/07/09447bd8cf24dfb36d372976558b323c-3.jpg",บันทึกสุดท้ายของจอมโจร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/The-Death-of-Robin-Hood-2026-V2-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/0558407ebdc1b0aca7f9b9bf625c6d98.jpg",ซับไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Young-Washington-2026-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/07/840721d1f349fb52d8c038787151581d-1.jpg",ปากปีศาจ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/The-Devils-Mouth-2026-tha.mp4.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/07/ce3ea8531b98d80f66b4339ed766d9b5-3.jpg",อวตาร 3 อัคนีและธุลีดิน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://movietofree.sbs/
