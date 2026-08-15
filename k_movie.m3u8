@@ -7,6 +7,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://movietofree.sbs/
 # =======================================================================
+# ---------------- movie to free
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/08/1-2.jpg",ผีอมตะแผดเผา ซับไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://m3u8data.com/movie/M15880.mp4/playlist.m3u8
+
 # -------------------------- www.24hd.vip
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/08/Nando-Between-Two-Worlds-A-Sintonia-Film-2026.webp",ทางสู่ฝันของนานโด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
