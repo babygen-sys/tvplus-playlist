@@ -391,6 +391,10 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1315
 #EXTVLCOPT:http-origin=https://canale-tv.net
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/thumbh_20251105_005015_270.jpg" group-title="ช่องทีวีต่างประเทศ",Discovering China
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8?ads.dpname=distrotv&ads.app_domain=&ads.app_name=DistroTV&ads.app_store_url=&ads.coppa=0&ads.dnt=0&ads.c_producer=CGTN&ads.device_model=&ads.did=&ads.ifa_type=localStorage&ads.url=&ads.content_livestream=1&ads.ic=IAB20&ads.iu=&ads.idtype=Web&ads.lmt=&ads.gpp=&ads.gpp_sid=&ads.prodq=0&ads.inv_partner_domain=http%3A%2F%2Fdistro.tv&ads.schain=1&ads.bundle=&ads.gdpr=0&ads.gdprConsent=&ads.islive=1&ads.streamtype=live&ads.vf=rjfpI732J94
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="ช่องทีวีต่างประเทศ",History Channel 
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1314
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/national-geographic-logo-3kerqur3d78tp1u4-2.jpg" group-title="ช่องทีวีต่างประเทศ",National Geographic 
