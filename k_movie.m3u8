@@ -7,6 +7,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://movietofree.sbs/
 # =======================================================================
+# -------------------------- www.24hd.vip
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/08/Nando-Between-Two-Worlds-A-Sintonia-Film-2026.webp",ทางสู่ฝันของนานโด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player77hdfree.xyz/
+https://vdohls.com/vc-Ftj_6RYRS9/playlist.m3u8
+
 # ---------------- movie to free
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/07/09447bd8cf24dfb36d372976558b323c-3.jpg",บันทึกสุดท้ายของจอมโจร
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -58,7 +64,7 @@ https://static.vdohls.com/LQ-x0_WSIRv1z/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://movietofree.sbs/
 https://vod1.stream25.com/Pretty-Crazy-2025-TH.mp4.m3u8
 
-# -------------------------- 
+# -------------------------- moviedofree
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/08/Mor-Lam-Rhythm-2026.webp",อ้ายต้าววเอวหวาน ระเบียบวาทะศิลป์
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://m3u8data.com/movie/M15881.mp4/playlist.m3u8
