@@ -973,6 +973,16 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22931
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 
+# ------------------------------------------------------  Polsat Sport xtvplayer.top:8080
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png" group-title="ช่อง SPORTS - 1",PL: Polsat Sport Premium 1
+http://xtvplayer.top:8080/4536546/6545653/352808
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png" group-title="ช่อง SPORTS - 1",PL: Polsat Sport Premium 2
+http://xtvplayer.top:8080/4536546/6545653/352809
+#EXTINF:-1 tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/09/Polsat-Sport-Logo.png" group-title="ช่อง SPORTS - 1",PL: Polsat Sport Premium 3
+http://xtvplayer.top:8080/4536546/6545653/352810
+#EXTINF:-1 tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/09/Polsat-Sport-Logo.png" group-title="ช่อง SPORTS - 1",PL: Polsat Sport Premium 4
+http://xtvplayer.top:8080/4536546/6545653/352811
+
 # ---------------------------------------------------- All sports in sport-1 ------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="ช่อง SPORTS - 1",CCTV Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
