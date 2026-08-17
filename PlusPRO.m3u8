@@ -1425,6 +1425,23 @@ http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports51/playlist.m3u8
 
+# ----------------------------------- playsport  siam api 
+#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais90.png",Football
+#EXTVLCOPT:network-caching=1000
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais95.png",Football
+#EXTVLCOPT:network-caching=1000
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
+# ----------------------------------- playsport 1/2 ball67 api 
+#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais1.png",Play Sport 1
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:network-caching=1000
+http://api.plus-server.sbs/play.php?key=1234&ch=ballthai1
+#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais2.png",Play Sport 2
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:network-caching=1000
+http://api.plus-server.sbs/play.php?key=1234&ch=ballthai2
+
 # ---------------------------------------------------------- basketball  ----------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA Play 55 สด HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
