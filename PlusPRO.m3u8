@@ -1603,19 +1603,24 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130747
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Badminton สด 
+https://seep.eu.org/http://iptv.852851.xyz/l/7Asrbux_vkFdn5hVJiQQhZs5FTtomkUnk5ojX0itoET2Bev6EL8JRoNfVySMLrBh/index.m3u8
+
 #----------------------------------------------------------------- Badminton wakacha ----------------------------------------------------
 #------------------------------ Court 1
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 1
-https://live1.streambylivepulse.com/live/channel61/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8
 #------------------------------ Court 2
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 2
-https://live1.streambylivepulse.com/live/channel62/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8
 #------------------------------ Court 3
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 3
-https://live1.streambylivepulse.com/live/channel63/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8
 #------------------------------ Court 4
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 4
-https://live1.streambylivepulse.com/live/channel64/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel64/playlist.m3u8
+
+
 
 #================================================================ ช่องทีวีบันเทิง =======================================================================
 #EXTINF:-1 tvg-id="MonoPlus.th" tvg-name="MONO29 Plus" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="ช่องบันเทิง",MONO29 Plus
