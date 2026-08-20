@@ -31,12 +31,6 @@ https://main.123hd-serie.com/m3u8/4beeb269b90d07a0ef9cd86a/4beeb269b90d07a0ef9cd
 #EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
 https://main.123hd-serie.com/m3u8/6b89a76500e99552777f9e67/6b89a76500e99552777f9e67438.m3u8
 
-# ---------------- moviesdoofree
-#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/08/1-2.jpg",ผีอมตะแผดเผา ซับไทย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://movietofree.sbs/
-https://static.vdohls.com/peYRq_qPAE-Xb/playlist.m3u8
-
 # ----------------- www.24hd.vip
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/08/Nando-Between-Two-Worlds-A-Sintonia-Film-2026.webp",ทางสู่ฝันของนานโด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
