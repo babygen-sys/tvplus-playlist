@@ -1229,13 +1229,13 @@ https://cdn2.stream.atmflix.live/atmflixlive/volleyball3/playlist.m3u8
 
 # ------------------------------------------- streambylivepulse.com VOLLEYBALL 
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
-https://live1.streambylivepulse.com/live/channel80/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel80/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
-https://live1.streambylivepulse.com/live/channel81/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel81/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
-https://live1.streambylivepulse.com/live/channel82/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
-https://live1.streambylivepulse.com/live/channel83/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel83/playlist.m3u8
 
 # ---------------------------------------------- SEA V Cup 2026
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",SEA V Cup 2026
@@ -1256,10 +1256,8 @@ https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/ey
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 #EXTVLCOPT:http-origin=https://www.thairath.co.th
 #https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE 31
-https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
-
+#https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",CH7
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE มวยสด
@@ -1271,18 +1269,7 @@ https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX SPORTS29
 http://api.plus-server.sbs/play.php?key=1234&ch=mono29
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais51.png" group-title="ช่องกีฬาถ่ายทอดสด",NFL Play 51 สด HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/playsports51/playlist.m3u8
 
-# ----------------------------------- playsport  siam api 
-#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais90.png",Football
-#EXTVLCOPT:network-caching=1000
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
-#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais95.png",Football
-#EXTVLCOPT:network-caching=1000
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
 # ----------------------------------- playsport 1/2 ball67 api 
 #EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais1.png",Play Sport 1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
@@ -1292,6 +1279,20 @@ http://api.plus-server.sbs/play.php?key=1234&ch=ballthai1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 #EXTVLCOPT:network-caching=1000
 http://api.plus-server.sbs/play.php?key=1234&ch=ballthai2
+
+# ----------------------------------- playsport  siam api 
+#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais90.png",Football
+#EXTVLCOPT:network-caching=1000
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais95.png",Football
+#EXTVLCOPT:network-caching=1000
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
+
+# ---------------------------------------------------------- NFL  Play 51
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais51.png" group-title="ช่องกีฬาถ่ายทอดสด",NFL Play 51 สด HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports51/playlist.m3u8
 
 # ---------------------------------------------------------- basketball  ----------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA Play 55 สด HD
@@ -1310,19 +1311,27 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports58/playlist.m3u8
-#----------------------------------------------
+
+#---------------------------------------------- ถ่ายทอดสด live1.quickscoreboardz.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-#https://live1.streambylivepulse.com/live/channel33/playlist.m3u8
+#https://live1.quickscoreboardz.com/live/channel33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-#https://live1.streambylivepulse.com/live/channel34/playlist.m3u8
+#https://live1.quickscoreboardz.com/live/channel34/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-#https://live1.streambylivepulse.com/live/channel35/playlist.m3u8
+#https://live1.quickscoreboardz.com/live/channel35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-#https://live1.streambylivepulse.com/live/channel40/playlist.m3u8
+#https://live1.quickscoreboardz.com/live/channel40/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-#https://live1.streambylivepulse.com/live/channel41/playlist.m3u8
+#https://live1.quickscoreboardz.com/live/channel41/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png" group-title="ช่องกีฬาถ่ายทอดสด",basketball สด
-#https://live1.streambylivepulse.com/live/channel42/playlist.m3u8
+#https://live1.quickscoreboardz.com/live/channel42/playlist.m3u8
+#-------------------------------------------------------  
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+#https://live1.quickscoreboardz.com/live/channel36/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+#https://live1.quickscoreboardz.com/live/channel37/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+#https://live1.quickscoreboardz.com/live/channel38/playlist.m3u8
 
 # ---------------------------------------------------------- Billiards Snooker ----------
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",CCTV 5
@@ -1335,19 +1344,11 @@ http://119.82.250.109:8080/nl.m3u8?id=1073
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 3 SD
-http://mooseven.ddns.net:8080/live/test/testm7/218063.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 7 HD
-http://mooseven.ddns.net:8080/live/test/testm7/218069.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 7 SD
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
-
-#-------------------------------------------------------------------- /api.plus-server.sbs 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
 
 #--------------------------------------------------- ealivefotex ถ่ายทอดสด --------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
@@ -1367,13 +1368,13 @@ https://ealivefotex.com/maxsport3/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport4/index.m3u8
 
-#------------------------------------------------------- streambylivepulse ถ่ายทอดสด
+#-------------------------------------------------------------------- /api.plus-server.sbs 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-https://live1.streambylivepulse.com/live/channel36/playlist.m3u8
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-https://live1.streambylivepulse.com/live/channel37/playlist.m3u8
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-https://live1.streambylivepulse.com/live/channel38/playlist.m3u8
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
 
 #======================================================================== ATP Tour =================================================================
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://cdn.wearetennis.bnpparibas/media/images/cache/header_article/uploads/article/image/20210304063544000000_21bnp_mar_atplogo01a.jpg",ATP Tour
