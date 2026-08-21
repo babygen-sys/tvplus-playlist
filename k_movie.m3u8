@@ -14,7 +14,18 @@
 #EXTINF:-1 group-title="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
+
 # =======================================================================
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/02e40957c58f910f5c041242b1d89966.jpg",No sub (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Lucky-Strike-2026-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/182cb663e703d9936573ef322cbca160-1.jpg",ยอดยุทธ์ดาบพิทักษ์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Blades-of-The-Guardians-2026-tha.mp4.m3u8
+
 # ---------------- 123hd
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/08/PAW-Patrol-The-Dino-Movie-2026.webp",ขบวนการเจ้าตูบสี่ขา
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
