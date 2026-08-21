@@ -1345,23 +1345,48 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130723
 https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 
 
-# ------------------------------------------------------- SIAM Monomax ------
+# ------------------------------------------------------- SIAM / hls.iptv-th.workers ( Monomax ) ------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 1
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 1 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 2
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 2 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 3
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/3910/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 3 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 4
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/3909/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 4 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 5
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/3908/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 5 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 6
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/3907/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 6 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 7
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/3906/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 7 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 8
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/3905/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 8 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam8
+# --------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 9
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 10
