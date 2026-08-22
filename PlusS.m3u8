@@ -51,10 +51,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ช่องทีวีไทย",PPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://m7play.online/
-#EXTVLCOPT:http-origin=http://m7play.online
-http://mooseven.ddns.net:8080/live/test/testm7/23.m3u8
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/1011/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="ช่องทีวีไทย",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,7 +93,7 @@ https://server1.streamssl.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png" group-title="ช่องทีวีไทย",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="ช่องทีวีไทย" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png", Cable 37 
+#EXTINF:-1 tvg-id="Cable.th" group-title="ช่องทีวีไทย" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png",Cable 37 
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="ช่องทีวีไทย",มวลชนทีวี
@@ -736,6 +734,111 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 
 ###========================================================================================== SPORTS 1 ================================================================================================================###
+# ------------------------------------------------------  premier league = xtvplayer.top:8080
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="ช่อง SPORTS - 1",Super Sports Premier League
+#http://xtvplayer.top:8080/4536546/6545653/238478.ts
+
+#EXTINF:-1 group-title="ช่อง SPORTS - 1",Super Sports Football
+#http://xtvplayer.top:8080/4536546/6545653/238480.ts
+
+#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="ช่อง SPORTS - 1",Star Sports Select 1
+#http://xtvplayer.top:8080/4536546/6545653/109993.ts
+
+#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="ช่อง SPORTS - 1",Star Sports Select 2
+#http://xtvplayer.top:8080/4536546/6545653/109994.ts
+
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="ช่อง SPORTS - 1",Super Sports PSL
+#http://xtvplayer.top:8080/4536546/6545653/238477.ts
+
+#EXTINF:-1 group-title="ช่อง SPORTS - 1",Super Sports La Liga
+#http://xtvplayer.top:8080/4536546/6545653/238479.ts
+
+#EXTINF:-1 group-title="ช่อง SPORTS - 1",Super Sports Grand Stand
+#http://xtvplayer.top:8080/4536546/6545653/238476.ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png" group-title="ช่อง SPORTS - 1",Polsat Sport Premium 1
+#http://xtvplayer.top:8080/4536546/6545653/352808.ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png" group-title="ช่อง SPORTS - 1",Polsat Sport Premium 2
+#http://xtvplayer.top:8080/4536546/6545653/352809.ts
+
+#EXTINF:-1 tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/09/Polsat-Sport-Logo.png" group-title="ช่อง SPORTS - 1",Polsat Sport Premium 3
+#http://xtvplayer.top:8080/4536546/6545653/352810.ts
+
+#EXTINF:-1 tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/09/Polsat-Sport-Logo.png" group-title="ช่อง SPORTS - 1",Polsat Sport Premium 4
+#http://xtvplayer.top:8080/4536546/6545653/352811.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="ช่อง SPORTS - 1",BeIN Sports English 1 FHD
+#http://xtvplayer.top:8080/4536546/6545653/381323.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="ช่อง SPORTS - 1",BeIN Sports English 2 FHD
+#http://xtvplayer.top:8080/4536546/6545653/381325.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="ช่อง SPORTS - 1",BeIN Sports English 2 HD
+#http://xtvplayer.top:8080/4536546/6545653/381324.ts
+
+
+# ----------------------------------------------------- Digi Sport  moj ---------
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport1.png" ,Digi Sport 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27181
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport2.png" ,Digi Sport 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27182
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport3.png" ,Digi Sport 3
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27183
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport4.png" ,Digi Sport 4
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27184
+
+# ----------------------------------------------------- Bein Sports moj ---------
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 1 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1285
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 2 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1284
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 3 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1283
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 4 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1282
+
+# ----------------------------------------------------- SKY moj ---------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="ช่อง SPORTS - 1",SKY Football
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20main%20event.png" group-title="ช่อง SPORTS - 1",SKY main event
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
+
+# ----------------------------------------------------- astro = line.tvdsz -------
+astro epl 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ช่อง SPORTS - 1",astro epl 1
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1016544&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="ช่อง SPORTS - 1",astro epl 2
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=918985&extension=m3u8
+
+# ------------------------------------------------------- HUB PREMIER --------
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
+
+#------------------------------------ now sports
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="ช่อง SPORTS - 1",now sports1
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112207
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="ช่อง SPORTS - 1",now sports2
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112206
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="ช่อง SPORTS - 1",now sports3
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112205
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="ช่อง SPORTS - 1",now sports4
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/W-Sport_logo.svg/330px-W-Sport_logo.svg.png" group-title="ช่อง SPORTS - 1",now sports5 ( W-sport)
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112203
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="ช่อง SPORTS - 1",now sports6
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112202
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="ช่อง SPORTS - 1",now sports7
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112201
+
 #---------------------------------------------------------- Fox Sports -------------------------------------------------------
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports" group-title="ช่อง SPORTS - 1" tvg-logo="https://epg.pw/media/images/epg/2025/03/09/20250309021231320841_24.png", Fox Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -776,25 +879,18 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 # -------------------------------------------------------------------- TSN ---------------------------------------------------------
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="ช่อง SPORTS - 1",TSN 1
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
-#http://myxpanel.pro/live/Melo/Melo/3996.ts
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="ช่อง SPORTS - 1",TSN 2
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://myxpanel.pro/live/Melo/Melo/3995.ts
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="ช่อง SPORTS - 1",TSN 3
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://myxpanel.pro/live/Melo/Melo/3994.ts
 
 #EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN 4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="ช่อง SPORTS - 1",TSN 4
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://myxpanel.pro/live/Melo/Melo/3991.ts
-http://myxpanel.pro/live/Melo/Melo/3993.ts
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="ช่อง SPORTS - 1",TSN 5
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://myxpanel.pro/live/Melo/Melo/3992.ts
 
 # ----------------------------------------------------  beIN Sports ------------------------------------------------
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="ช่อง SPORTS - 1", beIN Sports XTRA (United States)
@@ -926,21 +1022,6 @@ http://185.243.7.195:80/play/live.php?mac=00:1B:79:3F:29:13&stream=1903774&exten
 #EXTINF:-1 tvg-logo="https://www.resolutedepg.online/205-hub-sports-5.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 5 | SG
 http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903775&extension=m3u8
 
-#------------------------------------ now sports
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="ช่อง SPORTS - 1",now sports1
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112207
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="ช่อง SPORTS - 1",now sports2
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112206
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="ช่อง SPORTS - 1",now sports3
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112205
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="ช่อง SPORTS - 1",now sports4
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112204
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/W-Sport_logo.svg/330px-W-Sport_logo.svg.png" group-title="ช่อง SPORTS - 1",now sports5 ( W-sport)
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112203
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="ช่อง SPORTS - 1",now sports6
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112202
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="ช่อง SPORTS - 1",now sports7
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112201
 
 #----------------------------------------------------- Golf
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://tv.golfnetwork.co.jp/uploads/image/fd58a773-04fb-4e72-8d1c-1a4ca51dfa31.png",Golf Network
@@ -1003,4 +1084,3 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="ช่อง SPORTS - 1",Racing Stream 2
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-
