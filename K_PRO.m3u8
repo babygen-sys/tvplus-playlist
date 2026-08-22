@@ -1187,13 +1187,13 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_cha
 ### ⚽ ===================================================================== พรีเมียร์ลีก ================================================================= ⚽ ###
 # ----------------------------------------------------- SKY moj ---------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 1
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
+#http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 2
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
+#http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20main%20event.png" group-title="พรีเมียร์ลีก",⚽SKY main event
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
+#http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="พรีเมียร์ลีก",⚽SKY Football
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
 
 # ----------------------------------------------------- astro = line.tvdsz -------
 astro epl 1
@@ -1210,6 +1210,13 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&exten
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png"group-title="พรีเมียร์ลีก",HUB PREMIER 3
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
 
+# ------------------------------------------------------- all PREMIER --------
+#EXTINF:-1 group-title="พรีเมียร์ลีก" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 3 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1283
+#EXTINF:-1 tvg-logo="" group-title="พรีเมียร์ลีก",premier league 1
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="พรีเมียร์ลีก",premier league 2
+https://ealivefotex.com/maxsport7/index.m3u8
 
 # ------------------------------------------------------ MONOMAX warpdooball /fastopen ------
 # --- MONOMAX 1 ---
