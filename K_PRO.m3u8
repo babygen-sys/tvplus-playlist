@@ -620,6 +620,27 @@ https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="ช่อง SPORTS - 1",BeIN Sports English 2 HD
 #http://xtvplayer.top:8080/4536546/6545653/381324.ts
 
+
+# ----------------------------------------------------- Digi Sport  moj ---------
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport1.png" ,Digi Sport 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27181
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport2.png" ,Digi Sport 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27182
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport3.png" ,Digi Sport 3
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27183
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport4.png" ,Digi Sport 4
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27184
+
+# ----------------------------------------------------- Bein Sports moj ---------
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 1 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1285
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 2 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1284
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 3 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1283
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 4 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1282
+
 # ----------------------------------------------------- SKY moj ---------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
@@ -1214,42 +1235,42 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130723
 https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 
 # ------------------------------------------------------ MONOMAX atmflix.live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",monomax-sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",monomax-sports 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",monomax-sports 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",monomax-sports 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",monomax-sports 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",monomax-sports 6 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",monomax-sports 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",monomax-sports 8 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports8/playlist.m3u8
@@ -1426,13 +1447,14 @@ https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2 สด
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",The Super Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://live-sport-a.monomax.me/out/v1/Monomax-Sport/sport1/c-hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX SPORTS29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://hls.iptv-th.workers.dev/live/1229/playlist.m3u8
 #http://api.plus-server.sbs/play.php?key=1234&ch=mono29
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",The Super Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live-sport-a.monomax.me/out/v1/Monomax-Sport/sport1/c-hls/index.m3u8
 
 # ---------------------------------------------------------- Billiards Snooker ----------
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",VOLI TV
@@ -1448,22 +1470,22 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-#https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 2 sd
+http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-#https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 3 sd
+http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-#https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 2 sd
-http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 3 sd
-http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3
+https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 7 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
+
 
 #--------------------------------------------------- ealivefotex ถ่ายทอดสด --------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
