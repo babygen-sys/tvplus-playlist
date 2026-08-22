@@ -1665,6 +1665,7 @@ https://ealivefotex.com/maxsport3/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport4/index.m3u8
 
+
 #-------------------------------------------------------------------- /api.plus-server.sbs 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
@@ -1672,6 +1673,11 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
 http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
+
+#-------------------------------------------------------------------- ligue 1 / warp sport24
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam2
+
 
 # ----------------------------------- playsport 1/2 ball67 api 
 #EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais1.png",Play Sport 1
@@ -1683,7 +1689,8 @@ http://api.plus-server.sbs/play.php?key=1234&ch=ballthai1
 #EXTVLCOPT:network-caching=1000
 http://api.plus-server.sbs/play.php?key=1234&ch=ballthai2
 
-# ----------------------------------- playsport  siam api 
+
+# ----------------------------------- playsport warp sport24 api 
 #EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais90.png",Football
 #EXTVLCOPT:network-caching=1000
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
