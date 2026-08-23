@@ -11,11 +11,24 @@
 #EXTINF:-1 group-title="Movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 # ----------------------------------------------- 123hd
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="Movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
 
 # =======================================================================
+# -------------------------------------------  123hd
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.123-hdx.com/wp-content/uploads/2026/08/Chompoo-Lost-Forgotten-2026-%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B9%88-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B8%A1-300x450.png",ทดสอบ  คดีชมพู่ เด็กหายที่ถูกลืม
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
+https://main.123hd-serie.com/m3u8/ff4649a85ac30728ff98fc3b/ff4649a85ac30728ff98fc3b438.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.123-hdx.com/wp-content/uploads/2026/08/Confessions-of-a-Shaman-2026-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%9C%E0%B8%B5-300x450.png",ทดสอบ คำสารภาพของหมอผี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
+https://main.123hd-serie.com/m3u8/f1c8cfbeae60cc925ffe51ad/f1c8cfbeae60cc925ffe51ad438.m3u8
+
+#----------------------------------------------- movietofree
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/02e40957c58f910f5c041242b1d89966.jpg",No sub (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://movietofree.sbs/
