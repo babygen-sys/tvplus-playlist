@@ -1348,77 +1348,12 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1283
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 2
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 3
-https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8
+https://ealivefotex.com/maxsport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 4
 https://ealivefotex.com/maxsport7/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 5
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax1
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 6
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax2
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax2_new
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 7
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax3
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax3_new
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 8
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax4
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax4_new
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 9
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax5_new
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 10
-http://api.plus-server.sbs/play.php?key=1234&ch=monomax6_new
+https://ealivefotex.com/maxsport8/index.m3u8
 
-# ----------------------------------------------------- SKY moj ---------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 1
-#http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 2
-#http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20main%20event.png" group-title="พรีเมียร์ลีก",⚽SKY main event
-#http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="พรีเมียร์ลีก",⚽SKY Football
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
-
-# ------------------------------------------------------- HUB PREMIER --------
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"group-title="พรีเมียร์ลีก",HUB PREMIER 1
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png"group-title="พรีเมียร์ลีก",HUB PREMIER 2
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png"group-title="พรีเมียร์ลีก",HUB PREMIER 3
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
-
-# ----------------------------------------------------- astro = line.tvdsz -------
-astro epl 1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="พรีเมียร์ลีก",⚽astro epl 1
-#http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1016544&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="พรีเมียร์ลีก",⚽astro epl 2
-#http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=918985&extension=m3u8
-
-# ------------------------------------------------------ MONOMAX warpdooball /fastopen ------
-# --- MONOMAX 1 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max1.png" group-title="พรีเมียร์ลีก",Monomax 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-1/playlist.m3u8
-#https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max1.png" group-title="พรีเมียร์ลีก",Monomax 1 sd
-#EXTVLCOPT:network-caching=1000
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130731
-#https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-
-# --- MONOMAX 2 ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",Monomax 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
-#https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",Monomax 2 sd
-#EXTVLCOPT:network-caching=1000
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130723
-#https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 
 # ------------------------------------------------------ MONOMAX atmflix.live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 1 HD
@@ -1479,37 +1414,25 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 8 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 9 sd
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 10 sd
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 11 sd
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam11
 
-# ------------------------------------------------ hls.iptv-th.workers ( Monomax ) ------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 1
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 2
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 3
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3910/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 4
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3909/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 5
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3908/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 6
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3907/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 7
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3906/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="พรีเมียร์ลีก", MAX 8
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3905/playlist.m3u8
+
+# ------------------------------------------------------- HUB PREMIER --------
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"group-title="พรีเมียร์ลีก",HUB PREMIER 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png"group-title="พรีเมียร์ลีก",HUB PREMIER 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png"group-title="พรีเมียร์ลีก",HUB PREMIER 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
+
+# ----------------------------------------------------- SKY moj ---------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="พรีเมียร์ลีก",⚽SKY premier league 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20main%20event.png" group-title="พรีเมียร์ลีก",⚽SKY main event
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="พรีเมียร์ลีก",⚽SKY Football
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
 
 
 # ============================================================== VOLLEYBALL =========================================================
