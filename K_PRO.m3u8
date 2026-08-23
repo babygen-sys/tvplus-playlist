@@ -1233,23 +1233,11 @@ astro epl 1
 # ------------------------------------------------------ MONOMAX warpdooball /fastopen ------
 # --- MONOMAX 1 ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max1.png" group-title="พรีเมียร์ลีก",Monomax 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-1/playlist.m3u8
-#https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max1.png" group-title="พรีเมียร์ลีก",Monomax 1 sd
-#EXTVLCOPT:network-caching=1000
 #http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130731
 #https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
 
 # --- MONOMAX 2 ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",Monomax 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-2/playlist.m3u8
-#https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="พรีเมียร์ลีก",Monomax 2 sd
-#EXTVLCOPT:network-caching=1000
 #http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130723
 #https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 
@@ -1365,19 +1353,22 @@ https://cdn2.stream.atmflix.live/atmflixlive/vbtv3/playlist.m3u8
 https://cdn2.stream.atmflix.live/atmflixlive/vbtv4/playlist.m3u8
 
 # -------------------------------------------- hls.iptv-th.workers VOLLEYBALL 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball 1 world sd
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 1 sd
+https://live.mee88player.com/live/1490.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 2 sd
 https://live.mee88player.com/live/1491.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball 2 world sd
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 3 sd
 https://live.mee88player.com/live/1492.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball 3 world sd
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 4 sd
 https://live.mee88player.com/live/1493.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball 4 world sd
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 5 sd
 https://live.mee88player.com/live/1494.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball 5 world sd
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 6 sd
 https://live.mee88player.com/live/1495.m3u8
 
 
