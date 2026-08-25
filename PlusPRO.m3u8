@@ -1909,17 +1909,15 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 
 ### ---------------------------------------------------- หมวด: ช่องสารคดี -------------------------------------------------- ###
+# ********* ตัวอย่างทำลิงค์สำรองซ้อน ************ เพิ่ม ||| ระหว่าง 2 ลิงค์
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery
-https://hls.iptv-th.workers.dev/live/4031/playlist.m3u8
-http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery
+https://hls.iptv-th.workers.dev/live/4031/playlist.m3u8|||http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/508?cb=20260411142105&path-prefix=vi" group-title="ช่องสารคดี",Discovery Asia
-https://hls.iptv-th.workers.dev/live/4032/playlist.m3u8
-http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery-asia
+https://hls.iptv-th.workers.dev/live/4032/playlist.m3u8|||http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery-asia
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
-https://hls.iptv-th.workers.dev/live/4017/playlist.m3u8
-http://api.plus-server.sbs/play.php?key=1234&kicksball=truex-zyte
+https://hls.iptv-th.workers.dev/live/4017/playlist.m3u8|||http://api.plus-server.sbs/play.php?key=1234&kicksball=truex-zyte
 
 #EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
 
