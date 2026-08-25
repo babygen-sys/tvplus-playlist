@@ -824,16 +824,16 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&exten
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
 
 #------------------------------------ Japan Sports / 58.82.168.138:5002
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7T3rEop.jpeg" group-title="Japan Sports",J Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7T3rEop.jpeg" group-title="ช่อง SPORTS - 1",J Sports 1
 http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bScdvN3.jpeg" group-title="Japan Sports",J Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bScdvN3.jpeg" group-title="ช่อง SPORTS - 1",J Sports 2
 http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YD8THCL.jpeg" group-title="Japan Sports",J Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YD8THCL.jpeg" group-title="ช่อง SPORTS - 1",J Sports 3
 http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p1Htj63.jpeg" group-title="Japan Sports",J Sports 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1Htj63.jpeg" group-title="ช่อง SPORTS - 1",J Sports 4
 http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
 
 #------------------------------------ now sports
