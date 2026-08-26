@@ -16,6 +16,21 @@
 #EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
 
 # =======================================================================
+# ----------------------------------------------- movie to free
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/60582806b911c5be51c8d585bc5da168-1.jpg",เผชิญหน้า เอล ชาโป
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Facing-El-Chapo-2026-tha.mp4.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/581d6764bc5ece8bc9d9f1020a7b2797.jpg",ราคี (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/The-Stain-2026-tha.mp4.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/a475460011e5705de761c84a9caf3513-1.jpg",สาปรักคลั่งหลอน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Obsession-2026-sub.mp4.m3u8
+
 # -------------------------------------------  123hd
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.123-hdx.com/wp-content/uploads/2026/08/Chompoo-Lost-Forgotten-2026-%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B9%88-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B8%A1-300x450.png",ทดสอบ  คดีชมพู่ เด็กหายที่ถูกลืม
