@@ -1481,11 +1481,12 @@ https://live.mee88player.com/live/1492.m3u8
 https://live.mee88player.com/live/1493.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 5 sd
-https://live.mee88player.com/live/1494.m3u8
+#https://live.mee88player.com/live/1494.m3u8
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 6 sd
-https://live.mee88player.com/live/1495.m3u8
-
+#https://live.mee88player.com/live/1495.m3u8
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
 
 #------------------------------- True volleyball1 atmflix ----------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="VOLLEYBALL",volleyball-1 สด
@@ -1581,7 +1582,13 @@ http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 http://api.plus-server.sbs/play.php?key=1234&ch=api_siam2
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam5
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam4
 
 #--------------------------------------------------- ealivefotex ถ่ายทอดสด --------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
