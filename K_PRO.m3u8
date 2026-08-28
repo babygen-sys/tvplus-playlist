@@ -1305,6 +1305,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&exten
 #http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
 
 
+
 # ============================================================== VOLLEYBALL =========================================================
 # -------------------------------------------- atmflixlive VOLLEYBALL 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 1 HD
@@ -1327,24 +1328,22 @@ https://cdn2.stream.atmflix.live/atmflixlive/vbtv4/playlist.m3u8
 # --------------------------------------------  VOLLEYBALL live.mee88player.com
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 1 sd
-#https://live.mee88player.com/live/1494.m3u8
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 2 sd
 #https://live.mee88player.com/live/1495.m3u8
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 3 sd
-https://live.mee88player.com/live/1490.m3u8
+https://live.mee88player.com/live/1494.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 4 sd
-https://live.mee88player.com/live/1491.m3u8
+https://live.mee88player.com/live/1493.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 5 sd
 https://live.mee88player.com/live/1492.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 6 sd
-https://live.mee88player.com/live/1493.m3u8
+https://live.mee88player.com/live/1491.m3u8
 
 
 
