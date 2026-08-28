@@ -1137,11 +1137,11 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 
 
 # ----------------------------------- playsport 1/2 ball67 api 
-#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais1.png",Play Sport 1
+#EXTINF:-1,group-title="ช่อง SPORTS - 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais1.png",Play Sport 1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 #EXTVLCOPT:network-caching=1000
 http://api.plus-server.sbs/play.php?key=1234&ch=ballthai1
-#EXTINF:-1,group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais2.png",Play Sport 2
+#EXTINF:-1,group-title="ช่อง SPORTS - 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais2.png",Play Sport 2
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 #EXTVLCOPT:network-caching=1000
 http://api.plus-server.sbs/play.php?key=1234&ch=ballthai2
