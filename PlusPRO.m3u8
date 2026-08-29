@@ -177,9 +177,7 @@ https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rock_action" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/rockaction%20(2).png" group-title="ช่องทีวีต่างประเทศ",ROCK ACTION 
-http://119.82.250.109:8080/nl.m3u8?id=1112
 #EXTINF:-1 tvg-id="RockEntertainment.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/rockentertian.png" group-title="ช่องทีวีต่างประเทศ",ROCK ENTERTAINMENT
-http://119.82.250.109:8080/nl.m3u8?id=1111
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://object-streamo.emonaja.com/img/axn.png" group-title="ช่องทีวีต่างประเทศ",AXN 
 http://neosfpoo.top:8080/01707840462002/ac462c0458e5/10112
@@ -201,8 +199,10 @@ http://neosfpoo.top:8080/01707840462002/ac462c0458e5/10228
 #https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#https://mytime-tcl.amagi.tv/playlist.m3u8
 
 # --------------------------------------------------------------------------- HBO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="ช่องทีวีต่างประเทศ",HBO
@@ -737,50 +737,56 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png"group-title="ช่องทีวีต่างประเทศ",Snooker
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 
+
+
 ###========================================================================================== SPORTS 1 ================================================================================================================###
-# ------------------------------------------------------  premier league = xtvplayer.top:8080
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="ช่อง SPORTS - 1",Super Sports Premier League
-#http://xtvplayer.top:8080/4536546/6545653/238478.ts
+# ----------------------------------------------------- Bein Sports moj ---------
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 1 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1285
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 2 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1284
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 3 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1283
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 4 HD
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1282
 
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Super Sports Football
-#http://xtvplayer.top:8080/4536546/6545653/238480.ts
+# ----------------------------------------------------- SKY moj SKY premier league 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="ช่อง SPORTS - 1",SKY Football
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20main%20event.png" group-title="ช่อง SPORTS - 1",SKY main event
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="ช่อง SPORTS - 1",Star Sports Select 1
-#http://xtvplayer.top:8080/4536546/6545653/109993.ts
+# ------------------------------------------------------- HUB PREMIER --------
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
 
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="ช่อง SPORTS - 1",Star Sports Select 2
-#http://xtvplayer.top:8080/4536546/6545653/109994.ts
+#------------------------------------ now sports fastopen.live:808
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="ช่อง SPORTS - 1",now sports1
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112207
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="ช่อง SPORTS - 1",now sports2
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112206
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="ช่อง SPORTS - 1",now sports3
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112205
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="ช่อง SPORTS - 1",now sports4
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112204
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="ช่อง SPORTS - 1",now sports6
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112202
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="ช่อง SPORTS - 1",now sports7
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112201
 
-#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="ช่อง SPORTS - 1",Super Sports PSL
-#http://xtvplayer.top:8080/4536546/6545653/238477.ts
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Super Sports La Liga
-#http://xtvplayer.top:8080/4536546/6545653/238479.ts
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Super Sports Grand Stand
-#http://xtvplayer.top:8080/4536546/6545653/238476.ts
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/60hby51700906886.png" group-title="ช่อง SPORTS - 1",Polsat Sport Premium 1
-#http://xtvplayer.top:8080/4536546/6545653/352808.ts
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png" group-title="ช่อง SPORTS - 1",Polsat Sport Premium 2
-#http://xtvplayer.top:8080/4536546/6545653/352809.ts
-
-#EXTINF:-1 tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/09/Polsat-Sport-Logo.png" group-title="ช่อง SPORTS - 1",Polsat Sport Premium 3
-#http://xtvplayer.top:8080/4536546/6545653/352810.ts
-
-#EXTINF:-1 tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/09/Polsat-Sport-Logo.png" group-title="ช่อง SPORTS - 1",Polsat Sport Premium 4
-#http://xtvplayer.top:8080/4536546/6545653/352811.ts
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="ช่อง SPORTS - 1",BeIN Sports English 1 FHD
-#http://xtvplayer.top:8080/4536546/6545653/381323.ts
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="ช่อง SPORTS - 1",BeIN Sports English 2 FHD
-#http://xtvplayer.top:8080/4536546/6545653/381325.ts
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="ช่อง SPORTS - 1",BeIN Sports English 2 HD
-#http://xtvplayer.top:8080/4536546/6545653/381324.ts
-
+# ----------------------------------------------------- astro = line.tvdsz -------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ช่อง SPORTS - 1",astro epl 1
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1016544&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="ช่อง SPORTS - 1",astro epl 2
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=918985&extension=m3u8
 
 # ----------------------------------------------------- Digi Sport  moj ---------
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport1.png" ,Digi Sport 1
@@ -792,71 +798,8 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27183
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport4.png" ,Digi Sport 4
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27184
 
-# ----------------------------------------------------- Bein Sports moj ---------
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 1 HD
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1285
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 2 HD
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1284
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 3 HD
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1283
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 4 HD
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1282
 
-# ----------------------------------------------------- SKY moj ---------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 1
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 2
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="ช่อง SPORTS - 1",SKY Football
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20main%20event.png" group-title="ช่อง SPORTS - 1",SKY main event
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
-
-# ----------------------------------------------------- astro = line.tvdsz -------
-astro epl 1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ช่อง SPORTS - 1",astro epl 1
-http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1016544&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="ช่อง SPORTS - 1",astro epl 2
-http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=918985&extension=m3u8
-
-# ------------------------------------------------------- HUB PREMIER --------
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 1
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 2
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png"group-title="ช่อง SPORTS - 1",HUB PREMIER 3
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=m3u8
-
-#------------------------------------ Japan Sports / 58.82.168.138:5002
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7T3rEop.jpeg" group-title="ช่อง SPORTS - 1",J Sports 1
-http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bScdvN3.jpeg" group-title="ช่อง SPORTS - 1",J Sports 2
-http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YD8THCL.jpeg" group-title="ช่อง SPORTS - 1",J Sports 3
-http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p1Htj63.jpeg" group-title="ช่อง SPORTS - 1",J Sports 4
-http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
-
-#------------------------------------ now sports
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="ช่อง SPORTS - 1",now sports1
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112207
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="ช่อง SPORTS - 1",now sports2
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112206
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="ช่อง SPORTS - 1",now sports3
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112205
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="ช่อง SPORTS - 1",now sports4
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112204
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/W-Sport_logo.svg/330px-W-Sport_logo.svg.png" group-title="ช่อง SPORTS - 1",now sports5 ( W-sport)
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112203
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="ช่อง SPORTS - 1",now sports6
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112202
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="ช่อง SPORTS - 1",now sports7
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112201
-
-#---------------------------------------------------------- Fox Sports -------------------------------------------------------
+#---------------------------------------------------------- Fox Sports / otte.live.fly.ww.aiv-cdn.net
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports" group-title="ช่อง SPORTS - 1" tvg-logo="https://epg.pw/media/images/epg/2025/03/09/20250309021231320841_24.png", Fox Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
@@ -909,7 +852,8 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="ช่อง SPORTS - 1",TSN 5
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 
-# ----------------------------------------------------  beIN Sports ------------------------------------------------
+
+# ----------------------------------------------------  beIN Sports  /  otte.live.fly.ww.aiv-cdn.net
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="ช่อง SPORTS - 1", beIN Sports XTRA (United States)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
@@ -940,25 +884,27 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="beIN1.apac" tvg-name="beIN Sports 1" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_70X40.png" group-title="ช่อง SPORTS - 1",Bein Sport 1
+
+# =================================================== Bein Sport / 185.160.192.64:80
+iz/channel_logo/bein_sports_1_70X40.png" group-title="ช่อง SPORTS - 1",Bein Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://185.160.192.64:80/mangin15/85784/14170
+#http://185.160.192.64:80/mangin15/85784/14170
 
 #EXTINF:-1 tvg-id="beIN2.apac" tvg-name="beIN Sports 2" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/1752574695976-bein_sports_2_100X56.png" group-title="ช่อง SPORTS - 1",Bein Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://185.160.192.64:80/mangin15/85784/14169
+#http://185.160.192.64:80/mangin15/85784/14169
 
 #EXTINF:-1 tvg-id="beIN3.apac" tvg-name="beIN Sports 3" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_70X40.png" group-title="ช่อง SPORTS - 1",Bein Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://185.160.192.64:80/mangin15/85784/14163
+#http://185.160.192.64:80/mangin15/85784/14163
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png" group-title="ช่อง SPORTS - 1",FR | BEIN SPORTS MAX 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://185.160.192.64:80/mangin15/85784/95
+#http://185.160.192.64:80/mangin15/85784/95
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" group-title="ช่อง SPORTS - 1",FR | BEIN SPORTS MAX 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://185.160.192.64:80/mangin15/85784/39882
+#http://185.160.192.64:80/mangin15/85784/39882
 
 # ------------------------------------------------ Eurosport -------------------------------------
 #EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="ช่อง SPORTS - 1", Eurosport 1
@@ -1331,55 +1277,54 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_cha
 
 ### ⚽ ===================================================================== พรีเมียร์ลีก ================================================================= ⚽ ###
 # ------------------------------------------------------- all PREMIER --------
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 1
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 1
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 2
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 2
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1283
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 3
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 3
 https://ealivefotex.com/maxsport5/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 4
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 4
 https://ealivefotex.com/maxsport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 5
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 5
 https://ealivefotex.com/maxsport7/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 6
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 6
 https://ealivefotex.com/maxsport8/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 7
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 7
 https://ealivefotex.com/maxsport9/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier league 8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 8
 https://ealivefotex.com/maxsport10/index.m3u8
 
 
 # ------------------------------------------------------ atmflix.live MONOMAX 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 6 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax 6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax-sports 8 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="พรีเมียร์ลีก",monomax 8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports8/playlist.m3u8
@@ -1441,19 +1386,19 @@ https://cdn2.stream.atmflix.live/atmflixlive/vbtv3/playlist.m3u8
 https://cdn2.stream.atmflix.live/atmflixlive/vbtv4/playlist.m3u8
 
 # --------------------------------------------  VOLLEYBALL live.mee88player.com
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 1 sd
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/1763535426PbAW0.png" group-title="VOLLEYBALL",volleyball world 1 sd
 https://live.mee88player.com/live/1495.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 2 sd
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/1763535426PbAW0.png" group-title="VOLLEYBALL",volleyball world 2 sd
 https://live.mee88player.com/live/1494.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 3 sd
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/1763535426PbAW0.png" group-title="VOLLEYBALL",volleyball world 3 sd
 https://live.mee88player.com/live/1493.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 4 sd
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/1763535426PbAW0.png" group-title="VOLLEYBALL",volleyball world 4 sd
 https://live.mee88player.com/live/1492.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/assets/competition-logos/VBW_Logo" group-title="VOLLEYBALL",volleyball world 5 sd
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/1763535426PbAW0.png" group-title="VOLLEYBALL",volleyball world 5 sd
 https://live.mee88player.com/live/1491.m3u8
 
 
