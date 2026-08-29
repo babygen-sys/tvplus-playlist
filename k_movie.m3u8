@@ -17,7 +17,18 @@
 
 # =======================================================================
 # ----------------------------------------------- movie to free
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/4767455d3b5afcf071136397b6ba5de9.jpg",โกฮัง..หัวใจโกโฮม (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Gohan-2026-tha.mp4.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/3bdaf802599eb6f4954faedac6666b64-1.jpg",Project Y (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Project-Y-2026-sub.mp4.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/bf5a9c2cc71156b0d7b8f78750255b0f.jpg",แฝดล้างเพลิงแค้น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Is-God-Is-2026-tha.mp4.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/08/60582806b911c5be51c8d585bc5da168-1.jpg",เผชิญหน้า เอล ชาโป
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://movietofree.sbs/
