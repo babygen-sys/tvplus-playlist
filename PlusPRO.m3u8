@@ -1446,21 +1446,21 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://cdn1.googlecdn.live/duball356/tsp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 2 sd
-#http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
+http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 3 HD
 #EXTVLCOPT:http-referrer=https://liveballhd365.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://cdn1.googlecdn.live/duball356/tsp3playlist/.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 3 sd
-#http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3
+http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 7 HD
 #EXTVLCOPT:http-referrer=https://liveballhd365.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://cdn1.googlecdn.live/duball356/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 7 sd
-#http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
+http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 
 #-------------------------------------------------------------------- Siam / warp sport24
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
@@ -1631,16 +1631,16 @@ https://cronos.mangora1.cfd/puki2/usergendxpk2s6utg0l.m3u8
 #----------------------------------------------------------------- Badminton wakacha ----------------------------------------------------
 #------------------------------ Court 1
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 1
-๒https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel60/playlist.m3u8
 #------------------------------ Court 2
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 2
-๒https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8
 #------------------------------ Court 3
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 3
-๒https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8
 #------------------------------ Court 4
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 4
-๒https://live1.quickscoreboardz.com/live/channel64/playlist.m3u8
+https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8
 
 
 
