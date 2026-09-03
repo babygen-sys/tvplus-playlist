@@ -177,9 +177,7 @@ https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rock_action" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/rockaction%20(2).png" group-title="ช่องทีวีต่างประเทศ",ROCK ACTION 
-http://119.82.250.109:8080/nl.m3u8?id=1112
 #EXTINF:-1 tvg-id="RockEntertainment.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/rockentertian.png" group-title="ช่องทีวีต่างประเทศ",ROCK ENTERTAINMENT
-http://119.82.250.109:8080/nl.m3u8?id=1111
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://object-streamo.emonaja.com/img/axn.png" group-title="ช่องทีวีต่างประเทศ",AXN 
 http://neosfpoo.top:8080/01707840462002/ac462c0458e5/10112
@@ -201,8 +199,10 @@ http://neosfpoo.top:8080/01707840462002/ac462c0458e5/10228
 #https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="ช่องทีวีต่างประเทศ",MYTIME TCL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#https://mytime-tcl.amagi.tv/playlist.m3u8
 
 # --------------------------------------------------------------------------- HBO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="ช่องทีวีต่างประเทศ",HBO
@@ -680,8 +680,12 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Nebiela/liveiptvneti/refs/heads/main/images.jpg" group-title="ช่องทีวีต่างประเทศ",CazeTV
 https://raw.githubusercontent.com/rdc1793/canaisiptv/d03c08389570f97a1bf44cbc4b4b76840eaec6f0/cazetv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="ช่องทีวีต่างประเทศ",Sport HD 
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://uzdtv.uz/images/channel_1669618640.png"group-title="ช่องทีวีต่างประเทศ",Setanta Sports 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1 tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png" group-title="ช่องทีวีต่างประเทศ",TVRI Sport
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
@@ -732,4 +736,5 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png"group-title="ช่องทีวีต่างประเทศ",Snooker
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
+
 
