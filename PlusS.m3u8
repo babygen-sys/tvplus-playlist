@@ -750,7 +750,7 @@ https://get.perfecttv.net/mutv.mpd
 http://api.plus-server.sbs/play.php?key=1234&ch=mutv
 #EXTINF:-1 tvg-id="Barcelona.uk" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png" group-title="ช่อง SPORTS - 1",Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s" group-title="ช่อง SPORTS - 2",Real Madrid TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s" group-title="ช่อง SPORTS - 1",Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",INTER TV ᴴᴰ
@@ -768,6 +768,14 @@ https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 3
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112200
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 4
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112196
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 5
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112198
+
 
 # ----------------------------------------------------- Bein Sports moj ---------
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 1 HD
