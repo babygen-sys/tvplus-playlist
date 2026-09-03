@@ -769,6 +769,14 @@ https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 3
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112200
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 4
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112196
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 5
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112198
+
+
 # ----------------------------------------------------- Bein Sports moj ---------
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/bein/bein.png" ,Bein Sports 1 HD
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1285
@@ -1089,7 +1097,7 @@ https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp1/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts1.png" group-title="ช่อง SPORTS - 2",TRUE Sport 1 sd
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130743
 http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd1
 
 ### ---------------- TRUE Sport 2
@@ -1131,7 +1139,7 @@ http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd5
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts7.png" group-title="ช่อง SPORTS - 2",TRUE Sport 7 sd
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130735
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 
 
@@ -1179,6 +1187,7 @@ https://hls.iptv-th.workers.dev/live/3647/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่อง SPORTS - 2",True beIN Sports 3 sd
 #EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130744
 https://hls.iptv-th.workers.dev/live/3646/playlist.m3u8
 
 
@@ -1219,12 +1228,12 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 
 # ----------------------------------- playsport 1/2 ball67 api 
 #EXTINF:-1,group-title="ช่อง SPORTS - 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais1.png",Play Sport 1
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
 #EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130740
 http://api.plus-server.sbs/play.php?key=1234&ch=ballthai1
 #EXTINF:-1,group-title="ช่อง SPORTS - 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais2.png",Play Sport 2
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
 #EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130741
 http://api.plus-server.sbs/play.php?key=1234&ch=ballthai2
 
 
