@@ -1209,7 +1209,8 @@ https://live1.quickscoreboardz.com/live/channel81/playlist.m3u8
 https://live1.quickscoreboardz.com/live/channel82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
 https://live1.quickscoreboardz.com/live/channel83/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://live.eu-north-1b.cf.dmcdn.net/sec2(hQ51fKs7KefjZjq-I2QzIl9GF5Bj_F4gbqsx4eKklTbRmSj22_2wUYccKbRGnmeeX3teGC5T70SgyKnsSRJ24FhCeHPt0pj2AJ9ybAQRuyfwQKc7-MYLKcCG21ab5YsQ)/dm/3/xb3lviu/d/live-720.m3u8
 
 # ---------------------------------------------- SEA V Cup 2026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/a/a8/SEA_V.League.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=original" group-title="VOLLEYBALL",SEA V Cup 2026
