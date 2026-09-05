@@ -1125,30 +1125,31 @@ https://silentpacketrelay.xyz/maxsport7/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
 https://silentpacketrelay.xyz/max2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 1
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
 #EXTVLCOPT:network-caching=1000
 https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 2
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 3
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3910/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 4
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3909/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 5
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3908/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 6
-#EXTVLCOPT:network-caching=1000
-#https://hls.iptv-th.workers.dev/live/3907/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 7
-#EXTVLCOPT:network-caching=1000
-#https://hls.iptv-th.workers.dev/live/3906/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 8
-#EXTVLCOPT:network-caching=1000
-#https://hls.iptv-th.workers.dev/live/3905/playlist.m3u8
+https://silentpacketrelay.xyz/max2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://ealivefotex.com/maxsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://ealivefotex.com/maxsport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://ealivefotex.com/maxsport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://ealivefotex.com/maxsport5/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://silentpacketrelay.xyz/max2/index.m3u8
 
 
 # ------------------------------------------------------ atmflix.live MONOMAX 
