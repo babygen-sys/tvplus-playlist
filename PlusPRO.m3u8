@@ -1272,6 +1272,16 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_cha
 
 ### ⚽ ===================================================================== พรีเมียร์ลีก ================================================================= ⚽ ###
 # ------------------------------------------------------- all PREMIER --------
+
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://silentpacketrelay.xyz/maxsport7/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://silentpacketrelay.xyz/max2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier 1
 #EXTVLCOPT:network-caching=1000
 https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
