@@ -769,12 +769,30 @@ https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 3
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112200
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 4
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112196
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 5
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112198
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+" group-title="ช่อง SPORTS - 1", Setanta Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+" group-title="ช่อง SPORTS - 1", Setanta Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+" group-title="ช่อง SPORTS - 1", Setanta Ukraine HD
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+" group-title="ช่อง SPORTS - 1", Setanta Sports+
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+" group-title="ช่อง SPORTS - 1", DiVi Sport
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+" group-title="ช่อง SPORTS - 1", TV3 Sport LT
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/416/index.m3u8
 
 
 # ----------------------------------------------------- Bein Sports moj ---------
@@ -789,11 +807,11 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1282
 
 # ----------------------------------------------------- SKY moj SKY premier league 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 1
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
+#http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1163
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20premier%20league.png" group-title="ช่อง SPORTS - 1",SKY premier league 2
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
+#http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1162
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20Football.png" group-title="ช่อง SPORTS - 1",SKY Football
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/66874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/SKY%20main%20event.png" group-title="ช่อง SPORTS - 1",SKY main event
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1164
 
@@ -807,23 +825,21 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&exten
 
 #------------------------------------ now sports fastopen.live:808
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="ช่อง SPORTS - 1",now sports1
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112207
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112207
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="ช่อง SPORTS - 1",now sports2
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112206
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112206
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="ช่อง SPORTS - 1",now sports3
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112205
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112205
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="ช่อง SPORTS - 1",now sports4
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112204
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112204
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="ช่อง SPORTS - 1",now sports6
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112202
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112202
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="ช่อง SPORTS - 1",now sports7
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112201
+#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/112201
 
 # ----------------------------------------------------- astro = line.tvdsz -------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ช่อง SPORTS - 1",astro epl 1
-http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1016544&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="ช่อง SPORTS - 1",astro epl 2
-http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=918985&extension=m3u8
 
 # ----------------------------------------------------- Digi Sport  moj ---------
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/digisport1.png" ,Digi Sport 1
