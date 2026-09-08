@@ -1405,6 +1405,11 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
 
 # ------------------------------------------- streambylivepulse.com VOLLEYBALL
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://cdndirector.dailymotion.com/cdn/live/video/xb52jgq.m3u8?sec=cx-yIOodVqWq6Ep6U9F_9w_lwdXaecMgW7KKkbtIk8J49H8roLl_O03h1rgVRwyu7YIY45f263p9SQyrK5rBZeSai6fiYASPWZKIF9vZg0E
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://live.eu-north-1a.cf.dmcdn.net/sec2(VZXmJtGB087JmzPe31tgTEu5ZZNsrwowjtB_XyGM2xFTfDzeLp9e08kiOBmo_LUUIG2rGtYpE10F8eDWfpKc8H1R_fOn5mi531XUkxxkC5NjknJdPSj-OH4c9K11LmXQ)/dm/3/xb52jgq/d/live-720.m3u8#cell=lcf-eu-north-1a
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
 https://live1.quickscoreboardz.com/live/channel80/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
 https://live1.quickscoreboardz.com/live/channel81/playlist.m3u8
@@ -1412,8 +1417,7 @@ https://live1.quickscoreboardz.com/live/channel81/playlist.m3u8
 https://live1.quickscoreboardz.com/live/channel82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
 https://live1.quickscoreboardz.com/live/channel83/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
-https://live.eu-north-1b.cf.dmcdn.net/sec2(hQ51fKs7KefjZjq-I2QzIl9GF5Bj_F4gbqsx4eKklTbRmSj22_2wUYccKbRGnmeeX3teGC5T70SgyKnsSRJ24FhCeHPt0pj2AJ9ybAQRuyfwQKc7-MYLKcCG21ab5YsQ)/dm/3/xb3lviu/d/live-720.m3u8
+
 
 
 # ---------------------------------------------- SEA V Cup 2026
