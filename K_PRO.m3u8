@@ -1131,32 +1131,42 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_cha
 
 ### ⚽ ===================================================================== พรีเมียร์ลีก ================================================================= ⚽ ###
 # ------------------------------------------------------- all PREMIER --------
-
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://silentpacketrelay.xyz/maxsport7/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
+https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
+https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://ealivefotex.com/maxsport7/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://ealivefotex.com/maxsport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier S
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier s
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier s
+#EXTVLCOPT:network-caching=1000
 http://stream.mcquack.net/313/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://silentpacketrelay.xyz/max2/index.m3u8
+https://silentpacketrelay.xyz/maxsport7/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://ealivefotex.com/maxsport7/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://ealivefotex.com/maxsport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier s
+http://stream.mcquack.net/313/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
 https://silentpacketrelay.xyz/max2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="พรีเมียร์ลีก",premier
@@ -1175,7 +1185,6 @@ https://ealivefotex.com/maxsport6/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
 https://ealivefotex.com/maxsport5/index.m3u8
-
 
 
 # ------------------------------------------------------ atmflix.live MONOMAX 
@@ -1239,6 +1248,11 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
 
 # ------------------------------------------- streambylivepulse.com VOLLEYBALL
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://cdndirector.dailymotion.com/cdn/live/video/xb52jgq.m3u8?sec=cx-yIOodVqWq6Ep6U9F_9w_lwdXaecMgW7KKkbtIk8J49H8roLl_O03h1rgVRwyu7YIY45f263p9SQyrK5rBZeSai6fiYASPWZKIF9vZg0E
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
+https://live.eu-north-1a.cf.dmcdn.net/sec2(VZXmJtGB087JmzPe31tgTEu5ZZNsrwowjtB_XyGM2xFTfDzeLp9e08kiOBmo_LUUIG2rGtYpE10F8eDWfpKc8H1R_fOn5mi531XUkxxkC5NjknJdPSj-OH4c9K11LmXQ)/dm/3/xb52jgq/d/live-720.m3u8#cell=lcf-eu-north-1a
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
 https://live1.quickscoreboardz.com/live/channel80/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
 https://live1.quickscoreboardz.com/live/channel81/playlist.m3u8
@@ -1246,8 +1260,7 @@ https://live1.quickscoreboardz.com/live/channel81/playlist.m3u8
 https://live1.quickscoreboardz.com/live/channel82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
 https://live1.quickscoreboardz.com/live/channel83/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/volleyball-3d-icon-png-download-3901968.png" group-title="VOLLEYBALL",LIVE Volleyball
-https://live.eu-north-1b.cf.dmcdn.net/sec2(hQ51fKs7KefjZjq-I2QzIl9GF5Bj_F4gbqsx4eKklTbRmSj22_2wUYccKbRGnmeeX3teGC5T70SgyKnsSRJ24FhCeHPt0pj2AJ9ybAQRuyfwQKc7-MYLKcCG21ab5YsQ)/dm/3/xb3lviu/d/live-720.m3u8
+
 
 
 # ---------------------------------------------- SEA V Cup 2026
@@ -1503,41 +1516,39 @@ http://49.0.64.96:8007/Cartoonumi
 
 # ---------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=hbo
+https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=hbo
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง",HBO Signature
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/AXN_logo.png/revision/latest/scale-to-width-down/985?cb=20240108142059&path-prefix=vi" group-title="ช่องบันเทิง",AXN
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/avidwiki/f/fb/Warner_Bros._Television_2023_%28Alt%29.svg.png" group-title="ช่องบันเทิง",Warner tv-s
 https://hls.iptv-th.workers.dev/live/4004/playlist.m3u8
-http://api.plus-server.sbs/play.php?key=1234&kicksball=warnertv
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=warnertv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ช่องบันเทิง",ROCK ACTION-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=rock-action
+https://hls.iptv-th.workers.dev/live/4012/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=rock-action
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
-https://hls.iptv-th.workers.dev/live/4013/playlist.m3u8
-http://api.plus-server.sbs/play.php?key=1234&kicksball=rock-entertainment
+#https://hls.iptv-th.workers.dev/live/4013/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=rock-entertainment
 
 #------------------------------------------------------------------------------ True
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=truefilm1
+https://hls.iptv-th.workers.dev/live/4123/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=truefilm1
+
 
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia-s
 #http://api.plus-server.sbs/play.php?key=1234&kicksball=truefilmasia
-
 #EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film-s
 #http://api.plus-server.sbs/play.php?key=1234&kicksball=truethaifilm
-
-
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
-http://api.plus-server.sbs/play.php?key=1234&kicksball=truemoviehits
-
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=truemoviehits
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",True Series
 #http://api.plus-server.sbs/play.php?key=1234&kicksball=trueseries
 
@@ -1590,16 +1601,19 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 ### ---------------------------------------------------- หมวด: ช่องสารคดี -------------------------------------------------- ###
 # ********* ตัวอย่างทำลิงค์สำรองซ้อน ************ เพิ่ม ||| ระหว่าง 2 ลิงค์
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery
+https://hls.iptv-th.workers.dev/live/4031/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/508?cb=20260411142105&path-prefix=vi" group-title="ช่องสารคดี",Discovery Asia
+https://hls.iptv-th.workers.dev/live/4032/playlist.m3u8
 #https://hls.iptv-th.workers.dev/live/4032/playlist.m3u8|||http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery-asia
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
+https://hls.iptv-th.workers.dev/live/4017/playlist.m3u8
 #https://hls.iptv-th.workers.dev/live/4017/playlist.m3u8|||http://api.plus-server.sbs/play.php?key=1234&kicksball=truex-zyte
 
-#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
 
+#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",True Explore Wild
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="ช่องสารคดี",Asian Food Network
@@ -1621,10 +1635,12 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/animal%20show%20logo.png" group-title="ช่องสารคดี",Animal Show-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=animalshow
+https://hls.iptv-th.workers.dev/live/2652/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=animalshow
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=samrujlok
+https://hls.iptv-th.workers.dev/live\/648/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=samrujlok
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องสารคดี",Animal
 http://49.0.64.96:8007/Animal
@@ -1634,3 +1650,4 @@ http://49.0.64.96:8007/WSCI
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/150?cb=20210818143837" group-title="ช่องสารคดี",CGTN 
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
