@@ -1669,41 +1669,39 @@ http://49.0.64.96:8007/Cartoonumi
 
 # ---------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=hbo
+https://hls.iptv-th.workers.dev/live/4011/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=hbo
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง",HBO Hits
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง",HBO Signature
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/AXN_logo.png/revision/latest/scale-to-width-down/985?cb=20240108142059&path-prefix=vi" group-title="ช่องบันเทิง",AXN
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/avidwiki/f/fb/Warner_Bros._Television_2023_%28Alt%29.svg.png" group-title="ช่องบันเทิง",Warner tv-s
 https://hls.iptv-th.workers.dev/live/4004/playlist.m3u8
-http://api.plus-server.sbs/play.php?key=1234&kicksball=warnertv
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=warnertv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ช่องบันเทิง",ROCK ACTION-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=rock-action
+https://hls.iptv-th.workers.dev/live/4012/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=rock-action
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
-https://hls.iptv-th.workers.dev/live/4013/playlist.m3u8
-http://api.plus-server.sbs/play.php?key=1234&kicksball=rock-entertainment
+#https://hls.iptv-th.workers.dev/live/4013/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=rock-entertainment
 
 #------------------------------------------------------------------------------ True
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=truefilm1
+https://hls.iptv-th.workers.dev/live/4123/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=truefilm1
+
 
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia-s
 #http://api.plus-server.sbs/play.php?key=1234&kicksball=truefilmasia
-
 #EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film-s
 #http://api.plus-server.sbs/play.php?key=1234&kicksball=truethaifilm
-
-
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
-http://api.plus-server.sbs/play.php?key=1234&kicksball=truemoviehits
-
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=truemoviehits
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",True Series
 #http://api.plus-server.sbs/play.php?key=1234&kicksball=trueseries
 
@@ -1756,16 +1754,19 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 ### ---------------------------------------------------- หมวด: ช่องสารคดี -------------------------------------------------- ###
 # ********* ตัวอย่างทำลิงค์สำรองซ้อน ************ เพิ่ม ||| ระหว่าง 2 ลิงค์
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery
+https://hls.iptv-th.workers.dev/live/4031/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/508?cb=20260411142105&path-prefix=vi" group-title="ช่องสารคดี",Discovery Asia
+https://hls.iptv-th.workers.dev/live/4032/playlist.m3u8
 #https://hls.iptv-th.workers.dev/live/4032/playlist.m3u8|||http://api.plus-server.sbs/play.php?key=1234&kicksball=discovery-asia
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
+https://hls.iptv-th.workers.dev/live/4017/playlist.m3u8
 #https://hls.iptv-th.workers.dev/live/4017/playlist.m3u8|||http://api.plus-server.sbs/play.php?key=1234&kicksball=truex-zyte
 
-#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
 
+#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",True Explore Wild
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="ช่องสารคดี",Asian Food Network
@@ -1787,10 +1788,12 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/animal%20show%20logo.png" group-title="ช่องสารคดี",Animal Show-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=animalshow
+https://hls.iptv-th.workers.dev/live/2652/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=animalshow
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก-s
-http://api.plus-server.sbs/play.php?key=1234&kicksball=samrujlok
+https://hls.iptv-th.workers.dev/live\/648/playlist.m3u8
+#http://api.plus-server.sbs/play.php?key=1234&kicksball=samrujlok
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องสารคดี",Animal
 http://49.0.64.96:8007/Animal
