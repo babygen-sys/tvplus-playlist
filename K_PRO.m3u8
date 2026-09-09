@@ -1426,6 +1426,8 @@ https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/ey
 
 
 
+#EXTM3U
+
 # ⚽================================================================ ช่องกีฬาถ่ายทอดสด ================================================================= ⚽
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",thairath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1486,11 +1488,11 @@ http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 
 #-------------------------------------------------------------------- dooball 168 ถ่ายทอดสด siam 1-5
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://103.245.166.221/play.php?key=1234&dooball=siam1
+#http://103.245.166.221/play.php?key=1234&dooball=siam1
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://103.245.166.221/play.php?key=1234&dooball=siam2
+#http://103.245.166.221/play.php?key=1234&dooball=siam2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://103.245.166.221/play.php?key=1234&dooball=siam3
+#http://103.245.166.221/play.php?key=1234&dooball=siam3
 
 
 
@@ -1508,11 +1510,11 @@ http://103.245.166.221/play.php?key=1234&dooball=siam3
 
 #-------------------------------------------------------------------- ufabet ถ่ายทอดสด  ais 1-4
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-๒http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #http://api.plus-server.sbs/play.php?key=1234&ch=api_ais4
 
@@ -1521,27 +1523,27 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport1/index.m3u8
+#https://ealivefotex.com/maxsport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport2/index.m3u8
+#https://ealivefotex.com/maxsport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport3/index.m3u8
+#https://ealivefotex.com/maxsport3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport4/index.m3u8
+#https://ealivefotex.com/maxsport4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport5/index.m3u8
+#https://ealivefotex.com/maxsport5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="live 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
-https://ealivefotex.com/maxsport6/index.m3u8
+#https://ealivefotex.com/maxsport6/index.m3u8
 
 
 #================================================================================  Ais atmflix.live
@@ -1638,6 +1640,8 @@ https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8
 #------------------------------ Court 4
 #EXTINF:-1 tvg-logo="https://storage.allsportdb.com/orig/comp/fb3c538c-b003-4ea3-8cda-f8639936e8ff" group-title="ช่องกีฬาถ่ายทอดสด", 🏸Court 4
 https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8
+
+
 
 
 
