@@ -1484,18 +1484,37 @@ https://cdn1.googlecdn.live/duball356/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE 7 sd
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 
+#-------------------------------------------------------------------- dooball 168 ถ่ายทอดสด siam 1-5
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://103.245.166.221/play.php?key=1234&dooball=siam1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://103.245.166.221/play.php?key=1234&dooball=siam2
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://103.245.166.221/play.php?key=1234&dooball=siam3
 
-#-------------------------------------------------------------------- Siam / warp sport24
+
+
+#-------------------------------------------------------------------- ufabet ถ่ายทอดสด siam 1-5
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam2
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_siam2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam4
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_siam4
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_siam5
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_siam5
+
+#-------------------------------------------------------------------- ufabet ถ่ายทอดสด  ais 1-4
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+๒http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
+#http://api.plus-server.sbs/play.php?key=1234&ch=api_ais4
 
 
 #------------------------------------------------------------------- ealivefotex ถ่ายทอดสด --------------------------------------------------------
@@ -1524,26 +1543,15 @@ https://ealivefotex.com/maxsport5/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ealivefotex.com/maxsport6/index.m3u8
 
-#-------------------------------------------------------------------- ais 1-3 / warp sport24
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais1
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais2
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://api.plus-server.sbs/play.php?key=1234&ch=api_ais3
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_ais4
-
-
 
 #================================================================================  Ais atmflix.live
 # ---------------------------------------------------------- NFL  Play 51
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais51.png" group-title="ช่องกีฬาถ่ายทอดสด",NFL Play 51 สด HD
+#EXTVLCOPT:network-caching=1000
+https://hls.iptv-th.workers.dev/live/4203/playlist.m3u8
 
 # ---------------------------------------------------------- basketball  ----------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA Play 55 สด HD
-#EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/4203/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais56.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA Play 56 สด HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais57.png" group-title="ช่องกีฬาถ่ายทอดสด",WNBA Play 57 สด HD
