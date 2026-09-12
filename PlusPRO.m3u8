@@ -1291,17 +1291,22 @@ https://cbd-rrch-beach.online/max4/index.m3u8
 
 # ------------------------------------------------------- เฉพาะกิจ 2 ( MAX )
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 1 
-http://103.245.166.221/play.php?key=1234&baanball4k=82079
+http://103.245.166.221/play.php?key=1234&dooball=mono1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 2 
-http://103.245.166.221/play.php?key=1234&baanball4k=82044
+http://103.245.166.221/play.php?key=1234&dooball=mono2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 3 
-http://103.245.166.221/play.php?key=1234&baanball4k=81912
+http://103.245.166.221/play.php?key=1234&dooball=mono3
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 4 
-http://103.245.166.221/play.php?key=1234&baanball4k=81779
+http://103.245.166.221/play.php?key=1234&dooball=mono4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 5 
-http://103.245.166.221/play.php?key=1234&baanball4k=81741
+http://103.245.166.221/play.php?key=1234&dooball=mono5
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 6 
-http://103.245.166.221/play.php?key=1234&baanball4k=81639
+http://103.245.166.221/play.php?key=1234&dooball=mono6
 
 
 # ------------------------------------------------------ Monomax
