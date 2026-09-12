@@ -1082,6 +1082,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_cha
 
 
 ### ⚽ ===================================================================== ดูสดบอลลีก ======================================================= ⚽ ###
+
 # ------------------------------------------------------- all PREMIER --------
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",ฺfootball 
 #EXTVLCOPT:network-caching=1000
@@ -1094,6 +1095,98 @@ http://stream.mcquack.net/235/index.m3u8
 http://stream.mcquack.net/313/index.m3u8
 
 # ------------------------------------------------------ เฉพาะกิจ 1
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://cbd-rrch-beach.online/maxsport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://cbd-rrch-beach.online/maxsport6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://cbd-rrch-beach.online/maxsport8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://cbd-rrch-beach.online/maxsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://cbd-rrch-beach.online/maxsport7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://cbd-rrch-beach.online/maxsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://cbd-rrch-beach.online/max4/index.m3u8
+
+
+# ------------------------------------------------------- เฉพาะกิจ 2 ( MAX )
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 1 
+http://103.245.166.221/play.php?key=1234&baanball4k=82079
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 2 
+http://103.245.166.221/play.php?key=1234&baanball4k=82044
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 3 
+http://103.245.166.221/play.php?key=1234&baanball4k=81912
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 4 
+http://103.245.166.221/play.php?key=1234&baanball4k=81779
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 5 
+http://103.245.166.221/play.php?key=1234&baanball4k=81741
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 6 
+http://103.245.166.221/play.php?key=1234&baanball4k=81639
+
+
+# ------------------------------------------------------ Monomax
+
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",Monomax 1 s
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
+https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",Monomax 2 s
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
+https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
+
+#------------------------
+
+# ------------------------------------------------------ MONOMAX 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 1
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 2 
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 3
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 4 
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 5 
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 6 
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 7 
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono7
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 8
+http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
+
+
+# --------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
 http://103.245.166.221/play.php?key=1234&baanball4k=1495
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
@@ -1110,20 +1203,6 @@ http://103.245.166.221/play.php?key=1234&baanball4k=1490
 http://103.245.166.221/play.php?key=1234&baanball4k=1489
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
 http://103.245.166.221/play.php?key=1234&baanball4k=1488
-
-# ------------------------------------------------------- เฉพาะกิจ 2 ( MAX )
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 1 
-http://103.245.166.221/play.php?key=1234&baanball4k=82079
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 2 
-http://103.245.166.221/play.php?key=1234&baanball4k=82044
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 3 
-http://103.245.166.221/play.php?key=1234&baanball4k=81912
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 4 
-http://103.245.166.221/play.php?key=1234&baanball4k=81779
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 5 
-http://103.245.166.221/play.php?key=1234&baanball4k=81741
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 6 
-http://103.245.166.221/play.php?key=1234&baanball4k=81639
 
 # ------------------------------------------------------ เฉพาะกิจ 3
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
@@ -1149,26 +1228,19 @@ https://cbd-rrch-beach.online/res6/index.m3u8
 
 # ------------------------------------------------------ เฉพาะกิจ 3
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
-http://103.245.166.221/play.php?key=1234&dooball=siam3
+http://103.245.166.221/play.php?key=1234&ch=api_siam3
+
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
-http://103.245.166.221/play.php?key=1234&dooball=siam4
+http://103.245.166.221/play.php?key=1234&ch=api_siam4
+
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
-http://103.245.166.221/play.php?key=1234&dooball=siam5
+http://103.245.166.221/play.php?key=1234&ch=api_siam5
+
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20251012/ourmid/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-image_17698008.webp" group-title="ดูสดฟุตบอลลีก",football 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
 https://cbd-rrch-beach.online/max3/index.m3u8
 
-# ------------------------------------------------------ Monomax
-
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",Monomax 1 s
-#EXTVLCOPT:network-caching=1000
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
-https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",Monomax 2 s
-#EXTVLCOPT:network-caching=1000
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
-https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 
 
 # ------------------- ===================== premier league =====================
@@ -1393,31 +1465,6 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 7 sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 8 sd
 
-# ------------------------------------------------------ MONOMAX 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 1
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 2 
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 3
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 4 
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 5 
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono5
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 6 
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono6
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 7 
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono7
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax_sp.webp" group-title="ดูสดฟุตบอลลีก",monomax 8
-#http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
-
 
 
 
@@ -1480,6 +1527,9 @@ https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ONE มวยสด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.com/
+https://cbd-rrch-beach.online/res4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX SPORTS29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1538,11 +1588,13 @@ https://cbd-rrch-beach.online/tsp3/index.m3u8
 http://103.245.166.221/play.php?key=1234&baanball4k=1495
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-#http://103.245.166.221/play.php?key=1234&dooball=bein1
+http://api.plus-server.sbs/play.php?key=1234&ch=api_bein1
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://103.245.166.221/play.php?key=1234&dooball=bein2
+http://api.plus-server.sbs/play.php?key=1234&ch=api_bein2
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://103.245.166.221/play.php?key=1234&dooball=bein3
+http://api.plus-server.sbs/play.php?key=1234&ch=api_bein3
 
 
 # ---------- ----------- ---------- ---------- --------------- --------------- - ฉุกเฉิน เฉพาะ 2 warpsport24
@@ -1558,11 +1610,13 @@ https://ealivefotex.com/max1/index.m3u8
 
 #-------------------------------------------------------------------- dooball 168 ถ่ายทอดสด siam 1-5
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://103.245.166.221/play.php?key=1234&dooball=siam1
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam1
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-http://103.245.166.221/play.php?key=1234&dooball=siam2
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam2
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",ถ่ายสด
-#http://103.245.166.221/play.php?key=1234&dooball=siam3
+http://api.plus-server.sbs/play.php?key=1234&ch=api_siam3
 
 
 
