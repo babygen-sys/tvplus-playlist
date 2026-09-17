@@ -1587,6 +1587,11 @@ https://ttbd-3tv.com/pptv/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/
 https://ttbd-3tv.com/one31/index.m3u8
 
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="ช่องกีฬาถ่ายทอดสด",MCOT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.com/
+https://ttbd-3tv.com/9mcothd/index.m3u8
+
 # ---------------- ----------------------- Ais เอเชี่ยนเกมส์ warpsport24 ///
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด", 🌐เอเชี่ยนเกมส์
