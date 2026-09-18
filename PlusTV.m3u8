@@ -52,7 +52,9 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ช่องทีวีไทย",PPTV
 #EXTVLCOPT:network-caching=1000
-https://hls.iptv-th.workers.dev/live/1011/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.com/ 
+https://ttbd-3tv.com/pptv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="ช่องทีวีไทย",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -690,6 +692,5 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png"group-title="ช่องทีวีต่างประเทศ",Snooker
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
-
 
 
