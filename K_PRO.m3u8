@@ -1205,7 +1205,7 @@ http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=siam8
 #EXTVLCOPT:http-referrer=https://warpsport24.com/ 
 #https://ttbd-3tv.com/sporttv1/index.m3u8
 
-# ------------------------------------------------------ Monomax = fastopen / s3.e-cdn.me:80
+-------------------------------------------------- Monomax = fastopen / s3.e-cdn.me:80
 
 # --- MONOMAX 1 ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max1.png" group-title="ดูสดฟุตบอลลีก",MAX 1
@@ -1220,37 +1220,56 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 https://api.plus-server.sbs/play.php?key=1234&id=1776176&server=_ecdn&source=bontv
 
 
+
 # --------------------------------------------------- MAX / bontv API
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 1
-https://api.plus-server.sbs/play.php?key=1234&ch=monomax1_bontv
+#https://api.plus-server.sbs/play.php?key=1234&ch=monomax1_bontv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 1
 #https://api.plus-server.sbs/play.php?key=1234&ch=max1_bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 2
-https://api.plus-server.sbs/play.php?key=1234&ch=monomax2_bontv
+#https://api.plus-server.sbs/play.php?key=1234&ch=monomax2_bontv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 2
 #https://api.plus-server.sbs/play.php?key=1234&ch=max2_bontv
+
+
+# --------------------------------------------------- MAX warpsport24
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://bbyddol.com/maxsport6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://bbyddol.com/maxsport5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpsport24.online/
+https://bbyddol.com/maxsport8/index.m3u8
 
 
 # --------------------------------------------------- MAX 3-11 ตัวหลัก API bontv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 3
-https://api.plus-server.sbs/play.php?key=1234&ch=monomax3_bontv
+#https://api.plus-server.sbs/play.php?key=1234&ch=monomax3_bontv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 3
 #https://api.plus-server.sbs/play.php?key=1234&id=115760&server=_bontv&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 4
-https://api.plus-server.sbs/play.php?key=1234&ch=monomax4_bontv
+#https://api.plus-server.sbs/play.php?key=1234&ch=monomax4_bontv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 4
 #https://api.plus-server.sbs/play.php?key=1234&id=1776158&server=_tvpro&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 5
-https://api.plus-server.sbs/play.php?key=1234&id=115513&server=_bontv&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&id=115513&server=_bontv&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 6
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1776149&portal=_v3tv&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&mac_id=1776149&portal=_v3tv&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 7
 #https://api.plus-server.sbs/play.php?key=1234&mac_id=1776159&portal=_v3tv&source=bontv
@@ -1268,50 +1287,23 @@ https://api.plus-server.sbs/play.php?key=1234&mac_id=1776154&portal=_v3tv&source
 #https://api.plus-server.sbs/play.php?key=1234&mac_id=1776155&portal=_v3tv&source=bontv
 
 
-# ---------------------------------------------------  MAX / สำรอง 2 warpsport24
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 1/1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://yowohhj366.com/ob1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 1/2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://yowohhj366.com/ob2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 1/3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://ttbd-3tv.com/ob4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 1/4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://yowohhj366.com/bkb/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 1/5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://ttbd-3tv.com/ob5/index.m3u8
 
 # -----------------------------------------------------  MAX / API ufabetcompany สำรอง 2 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 2/1
-http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=mono2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 1
+#http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=mono2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 2/2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 2
 http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=mono3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 2/3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 3
 http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=mono4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 2/4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 4
 http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=mono5
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 2/5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",สำรอง 5
 http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=mono6
 
 
