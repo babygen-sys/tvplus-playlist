@@ -1601,21 +1601,6 @@ https://live1.quickscoreboardz.com/live/channel83/playlist.m3u8
 #EXTVLCOPT:http-referrer=https:/playsports51/dooballland.com/
 https://cdn1.amazaa.live/dbl/paramountplus/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 6 | MIAMI FL
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987304&extension=ts&play_token=0bqL2QETfr
-
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 4 | NEW YORK
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987276&extension=ts&play_token=BvzWuQOoUz
-
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 4 | WASHINGTON DC
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987279&extension=ts&play_token=bKLO8wlktB
-
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 10 | PHILADELPHIA
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987356&extension=ts&play_token=3KA5aGn5bR
-
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 11 | ATLANTA
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987367&extension=ts&play_token=qjCabJHq77
-
 
 # ==================================================================================================================================
 
