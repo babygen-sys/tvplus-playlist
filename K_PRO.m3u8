@@ -1504,11 +1504,11 @@ http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=ais1
 
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", sport 1
-#http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=bein1
+http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=bein1
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", sport 2
-#http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=bein2
+http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=bein2
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", sport 3
-#http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=bein3
+http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=bein3
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", sport 4
 http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=siam1
@@ -1594,6 +1594,30 @@ https://live1.quickscoreboardz.com/live/channel83/playlist.m3u8
 
 # ⚽================================================================ ช่องกีฬาถ่ายทอดสด ================================================================= ⚽
 
+# -------------------------------------------- เฉพาะกิน เนเน่ *****************
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",AGT เนเน่ มั้ง 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https:/playsports51/dooballland.com/
+https://cdn1.amazaa.live/dbl/paramountplus/playlist.m3u8
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 6 | MIAMI FL
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987304&extension=ts&play_token=0bqL2QETfr
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 4 | NEW YORK
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987276&extension=ts&play_token=BvzWuQOoUz
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 4 | WASHINGTON DC
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987279&extension=ts&play_token=bKLO8wlktB
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 10 | PHILADELPHIA
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987356&extension=ts&play_token=3KA5aGn5bR
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://image.tmdb.org/t/p/original/i9SwmFgFQ01ypUnUFvhUuLssjjm.png",┃USA┃ NBC 11 | ATLANTA
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:00:2D:61&stream=987367&extension=ts&play_token=qjCabJHq77
+
+
+# ==================================================================================================================================
 
 #EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX 29
 https://live-us1.thaimomo.com/live-as/chmono29-1/chunklist_w3802940.m3u8
@@ -1641,7 +1665,11 @@ https://api.plus-server.sbs/play.php?key=1234&mac_id=1776141&portal=_v3tv&source
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ช่องกีฬาถ่ายทอดสด",PPTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.com/ 
-https://bbyddol.com/pptv/index.m3u8
+https://yuier-4xy.com/pptv/index.m3u8
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ช่องกีฬาถ่ายทอดสด",PPTV 3
+http://103.245.166.221/play.php?key=1234&baanball4k=1664
+
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp" group-title="ช่องกีฬาถ่ายทอดสด",thairath sd
 https://live-us1.thaimomo.com/live-as/chthairathhd-1/chunklist_w179323289.m3u8
@@ -1915,6 +1943,8 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776286&server=_ecdn&source=bon
 https://api.plus-server.sbs/play.php?key=1234&id=1776178&server=_ecdn&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais72.png" group-title="ช่องกีฬาถ่ายทอดสด", play 72
+#EXTVLCOPT:network-caching=1000
+https://api.plus-server.sbs/play.php?key=1234&id=1776154&server=_ecdn&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais73.png" group-title="ช่องกีฬาถ่ายทอดสด", play 73
 
