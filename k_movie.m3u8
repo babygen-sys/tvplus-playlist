@@ -3,19 +3,77 @@
 #EXTINF:-1 group-title="Movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player77hdfree.xyz/
+
 # ----------------------------------------------- movie to free
 #EXTINF:-1 group-title="Movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://movietofree.sbs/
+
 # ----------------------------------------------- moviesdoofree
 #EXTINF:-1 group-title="Movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+
 # ----------------------------------------------- 123hd
-#EXTINF:-1 group-title="Movie" tvg-logo="",
+#EXTINF:-1 group-title="Movie" tvg-logo="",  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
 
 # =======================================================================
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Delusion-2026.webp", ภาพลวงตาย EP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/index_th.php?id=5d6be38197fd57b745d1c625&backup=0
+https://main.24playerhd.com/m3u8/5d6be38197fd57b745d1c625/5d6be38197fd57b745d1c625438.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Delusion-2026.webp", ภาพลวงตาย EP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/index_th.php?id=5d6be38197fd57b745d1c625&backup=0
+https://main.24playerhd.com/m3u8/9ef7c9a3358a62c78c45373d/9ef7c9a3358a62c78c45373d438.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Delusion-2026.webp", ภาพลวงตาย EP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/index_th.php?id=5d6be38197fd57b745d1c625&backup=0
+https://main.24playerhd.com/m3u8/ffdf0cb38260863fcb7b1569/ffdf0cb38260863fcb7b1569438.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Delusion-2026.webp", ภาพลวงตาย EP 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/index_th.php?id=5d6be38197fd57b745d1c625&backup=0
+https://main.24playerhd.com/m3u8/829c3874f0d90fab3cff3b61/829c3874f0d90fab3cff3b61438.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Delusion-2026.webp", ภาพลวงตาย EP 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/index_th.php?id=5d6be38197fd57b745d1c625&backup=0
+https://main.24playerhd.com/m3u8/45f77d79478cb93dbdabf28a/45f77d79478cb93dbdabf28a168.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Delusion-2026.webp", ภาพลวงตาย EP 6 จบ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/index_th.php?id=5d6be38197fd57b745d1c625&backup=0
+https://main.24playerhd.com/m3u8/b154fc8401246b17677f6a99/b154fc8401246b17677f6a99168.m3u8
+
+# ----------------------------------------
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/06/2-8.jpg",ซูเปอร์เกิร์ล พากย์ไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8data.com/movie/M15839.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/09/3-3.jpg",มหาภัยสุดถนนโอ๊ค
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://m3u8data.com/movie/M15930.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/09/766fdff44d6d0f15b7f9e3f8d53d9912.jpg",สาปเมือง (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://dumoviefree.com/cdn/hls/31c054a5685bcd20f5e1223fd15bd298/master.txt?s=1&d=
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/09/6605799a9beece351fdd9c80dc829222.jpg",Resident Evil (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://dumoviefree.com/cdn/hls/990758bfa9ea21c871f4fb98ad5f5580/master.txt?s=1&d=
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/09/529866a08f7cab2fc200c848cd78dd33.jpg",ราชา ศิวาจี มหาราชนักรบ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://dumoviefree.com/cdn/hls/4aab731f8ac9dddba73d0aef824b7475/master.txt?s=1&d=
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/09/c9cefeaa48d175d5384a656497edc30d.jpg",ปฏิบัติการรหัสหมาป่า
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
