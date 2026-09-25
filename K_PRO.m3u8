@@ -1739,15 +1739,15 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais901.png" group-title="ช่องกีฬาถ่ายทอดสด", Ais 901
-https://dooballland.babygeniptv.workers.dev/dbl/event20/playlist.m3u8
+#https://dooballland.babygeniptv.workers.dev/dbl/event20/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais902.png" group-title="ช่องกีฬาถ่ายทอดสด", Ais 902
-https://dooballland.babygeniptv.workers.dev/dbl/event21/playlist.m3u8
+#https://dooballland.babygeniptv.workers.dev/dbl/event21/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais903.png" group-title="ช่องกีฬาถ่ายทอดสด", Ais 903
-https://dooballland.babygeniptv.workers.dev/dbl/event22/playlist.m3u8
+#https://dooballland.babygeniptv.workers.dev/dbl/event22/playlist.m3u8
 
 
 
