@@ -1192,12 +1192,10 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776252&server=_tvpro
 # --- MONOMAX 1 ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max1.png" group-title="ดูสดฟุตบอลลีก",MAX 1 
 #EXTVLCOPT:network-caching=1000
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
 https://api.plus-server.sbs/play.php?key=1234&id=1776175&server=_ecdn&source=bontv
 # --- MONOMAX 2 ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/max2.png" group-title="ดูสดฟุตบอลลีก",MAX 2 
 #EXTVLCOPT:network-caching=1000
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 https://api.plus-server.sbs/play.php?key=1234&id=1776176&server=_ecdn&source=bontv
 
 
@@ -1224,16 +1222,16 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776176&server=_ecdn&source=bon
 #https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 3 HD
-https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports3/playlist.m3u8
+#https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 4 HD
-https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports4/playlist.m3u8
+#https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 5 HD
-https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports5/playlist.m3u8
+#https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 6 HD
-https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports6/playlist.m3u8
+#https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก", MAX 7 HD
 #https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports7/playlist.m3u8
@@ -1248,22 +1246,22 @@ https://dooballland.babygeniptv.workers.dev/tvplus168/dbl/monomax-sports6/playli
 #EXTINF:-1 group-title="ดูสดฟุตบอลลีก" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png",Nations League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://sp-tr321.com/maxsport1/index.m3u8
+#https://sp-tr321.com/maxsport1/index.m3u8
 
 #EXTINF:-1 group-title="ดูสดฟุตบอลลีก" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png",Nations League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://sp-tr321.com/maxsport2/index.m3u8
+#https://sp-tr321.com/maxsport2/index.m3u8
 
 #EXTINF:-1 group-title="ดูสดฟุตบอลลีก" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png",Nations League 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://sp-tr321.com/maxsport3/index.m3u8
+#https://sp-tr321.com/maxsport3/index.m3u8
 
 #EXTINF:-1 group-title="ดูสดฟุตบอลลีก" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png",Nations League 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
-https://sp-tr321.com/maxsport4/index.m3u8
+#https://sp-tr321.com/maxsport4/index.m3u8
 
 
 
