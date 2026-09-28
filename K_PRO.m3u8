@@ -4823,377 +4823,347 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอลชายหาดหญิง : รอบคัดเลือก: ฮ่องกง พบ ไทย 🇹🇭
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:00] วอลเลย์บอลชายหาดหญิง : รอบคัดเลือก: คาซัคสถาน พบ ไทย 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=652
+http://103.245.166.221/dooball66-api.php?id=736
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",เซปักตะกร้อชาย : รอบคัดเลือก: ไทย พบ ฟิลิปปินส์ 🇹🇭
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[10:30] แบดมินตันชายเดี่ยว : รอบรองฯ: อินโดนีเซีย พบ ไทย 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=680
+http://103.245.166.221/dooball66-api.php?id=695
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",เดินทนระยะทางมาราธอน : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[10:45] เทเบิลเทนนิสหญิงคู่ : รอบรองฯ: ไทย พบ จีน 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=657
+http://103.245.166.221/dooball66-api.php?id=721
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",เซปักตะกร้อหญิงคู่ : รอบคัดเลือก: เกาหลีใต้ พบ อินเดีย
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:00] ฮอกกี้ชาย : แบ่งกลุ่ม: ไทย พบ อุซเบกิสถาน 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=665
+http://103.245.166.221/dooball66-api.php?id=711
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[12:00] เซปักตะกร้อชาย : รอบคัดเลือก: ไทย พบ ญี่ปุ่น 🇹🇭
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:15] ซอฟต์บอลหญิง : รอบคัดเลือก: ไทย พบ จีน 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=668
+http://103.245.166.221/dooball66-api.php?id=729
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:00] แบดมินตันชายเดี่ยว : รอบก่อนรองฯ: ฮ่องกง พบ ไทย 🇹🇭
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[12:00] วอลเลย์บอลชายหาดหญิง : รอบคัดเลือก: เวียดนาม พบ ไทย 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=681
+http://103.245.166.221/dooball66-api.php?id=738
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:15] ซอฟต์บอลหญิง : รอบคัดเลือก: ไทย พบ ญี่ปุ่น 🇹🇭
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[14:00] วอลเลย์บอลชาย : รอบคัดเลือก: ไทย พบ อิหร่าน 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=650
+http://103.245.166.221/dooball66-api.php?id=707
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[14:00] วอลเลย์บอลชาย : รอบคัดเลือก: อินโดนีเซีย พบ ไทย 🇹🇭
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[14:30] เซปักตะกร้อชาย : รอบรองฯ: ไทย พบ เวียดนาม 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=643
+http://103.245.166.221/dooball66-api.php?id=744
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[15:00] ฮอกกี้หญิง : รอบคัดเลือก: ไทย พบ ญี่ปุ่น 🇹🇭
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:00] วอลเลย์บอลชาย : รอบคัดเลือก: ไทย พบ อิหร่าน 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=656
+http://103.245.166.221/dooball66-api.php?id=708
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:00] โปโลน้ำชาย: ไทย พบ ญี่ปุ่น : โปโลน้ำชาย: ไทย พบ ญี่ปุ่น 🇹🇭
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:00] ซอฟต์บอลหญิง : รอบคัดเลือก: ไทย พบ ญี่ปุ่น 🇹🇭
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=689
+http://103.245.166.221/dooball66-api.php?id=731
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:30] แบดมินตัน : รอบก่อนรองฯ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:00] เซปักตะกร้อชาย : แบ่งกลุ่ม: มาเลเซีย พบ เมียนมาร์
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=685
+http://103.245.166.221/dooball66-api.php?id=714
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:30] แบดมินตัน : รอบก่อนรองฯ คอร์ท 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:00] คริกเก็ตชาย : รอบก่อนรองฯ: ปากีสถาน พบ ฮ่องกง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=637
+http://103.245.166.221/dooball66-api.php?id=728
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:30] แบดมินตัน : รอบก่อนรองฯ คอร์ท 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:00] วอลเลย์บอลชายหาดหญิง : รอบคัดเลือก: ญี่ปุ่น พบ คีร์กีซสถาน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=639
+http://103.245.166.221/dooball66-api.php?id=734
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] ยิมนาสติกแทรมโพลีนชาย : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:00] อีสปอร์ต: Honor of Kings : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=649
+http://103.245.166.221/dooball66-api.php?id=740
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] ยกน้ำหนักชาย : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:30] แบดมินตันคู่ผสม : รอบรองฯ: จีน พบ อินโดนีเซีย
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=660
+http://103.245.166.221/dooball66-api.php?id=691
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] กรีฑาประเภทลู่และลาน : รอบคัดเลือก
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[07:30] แบดมินตันหญิงคู่ : รอบรองฯ: จีน พบ มาเลเซีย
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=663
+http://103.245.166.221/dooball66-api.php?id=698
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] เซปักตะกร้อหญิงคู่ : รอบคัดเลือก: ฟิลิปปินส์ พบ ญี่ปุ่น
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] ยกน้ำหนักชาย รุ่น 85 กก. : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=666
+http://103.245.166.221/dooball66-api.php?id=718
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] เซปักตะกร้อชาย : แบ่งกลุ่ม: ฟิลิปปินส์ พบ ญี่ปุ่น
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=715
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] วอลเลย์บอลชายหาดหญิง : รอบคัดเลือก: ญี่ปุ่น พบ ฟิลิปปินส์
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=735
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] กระโดดน้ำหญิง : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=672
+http://103.245.166.221/dooball66-api.php?id=732
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] วอลเลย์บอลชาย : รอบคัดเลือก: กาตาร์ พบ ฮ่องกง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] วอลเลย์บอลชาย : รอบคัดเลือก: อินโดนีเซีย พบ คีร์กีซสถาน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=645
+http://103.245.166.221/dooball66-api.php?id=705
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] วอลเลย์บอลชาย : รอบคัดเลือก: อิหร่าน พบ คีร์กีซสถาน
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:15] แบดมินตันหญิงคู่ : รอบรองฯ: ญี่ปุ่น พบ เกาหลีใต้
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=641
+http://103.245.166.221/dooball66-api.php?id=692
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:00] วอลเลย์บอลชายหาดหญิง : รอบคัดเลือก: กาตาร์ พบ ศรีลังกา
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[08:15] แบดมินตันคู่ผสม : รอบรองฯ: จีนไทเป พบ จีน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=653
+http://103.245.166.221/dooball66-api.php?id=699
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:00] วอลเลย์บอลชายหาดชาย : รอบคัดเลือก: โอมาน พบ กาตาร์
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:00] แบดมินตันหญิงเดี่ยว : รอบรองฯ: เกาหลีใต้ พบ จีน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=654
+http://103.245.166.221/dooball66-api.php?id=700
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:00] ระบำใต้น้ำ : ระบำใต้น้ำ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:00] แบดมินตันชายคู่ : รอบรองฯ: เกาหลีใต้ พบ อินโดนีเซีย
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=677
+http://103.245.166.221/dooball66-api.php?id=693
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:00] สเก็ตบอร์ดหญิง : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:00] ระบำใต้น้ำทีมผสม : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=667
+http://103.245.166.221/dooball66-api.php?id=710
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[10:00] ระบำใต้น้ำ : ระบำใต้น้ำ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:45] แบดมินตันชายคู่ : รอบรองฯ: จีน พบ อินโดนีเซีย
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=686
+http://103.245.166.221/dooball66-api.php?id=701
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[10:00] มวยสากล : รอบคัดเลือก
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[09:45] แบดมินตันหญิงเดี่ยว : รอบรองฯ: ญี่ปุ่น พบ จีน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=658
+http://103.245.166.221/dooball66-api.php?id=694
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[10:00] เทเบิลเทนนิส : รอบรองฯ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[10:00] มวยสากล : รอบก่อนรองฯ
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=673
+http://103.245.166.221/dooball66-api.php?id=726
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:00] วอลเลย์บอลชาย : รอบคัดเลือก: เกาหลีใต้ พบ ฟิลิปปินส์
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[10:00] เทเบิลเทนนิสหญิงคู่ : รอบรองฯ: ญี่ปุ่น พบ ฮ่องกง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=646
+http://103.245.166.221/dooball66-api.php?id=720
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[10:30] แบดมินตันชายเดี่ยว : รอบรองฯ: สิงคโปร์ พบ เกาหลีใต้
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=702
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:00] วอลเลย์บอลชายหาดหญิง : รอบคัดเลือก: จีน พบ เวียดนาม
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=737
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:00] มวยสากล : รอบก่อนรองฯ
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=746
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:00] กระโดดน้ำชาย : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=678
+http://103.245.166.221/dooball66-api.php?id=733
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:00] วอลเลย์บอลชาย : รอบคัดเลือก: ปากีสถาน พบ คาซัคสถาน
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:00] เทนนิสหญิงคู่ : รอบแรก: ญี่ปุ่น พบ เนปาล
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=642
+http://103.245.166.221/dooball66-api.php?id=741
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:30] ยกน้ำหนักหญิง : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:00] วอลเลย์บอลชาย : รอบคัดเลือก: ปากีสถาน พบ อุซเบกิสถาน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=661
+http://103.245.166.221/dooball66-api.php?id=706
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[12:00] สเก็ตบอร์ดชาย : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[11:30] เทเบิลเทนนิสชายเดี่ยว : รอบรองฯ: จีน พบ อิหร่าน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=655
+http://103.245.166.221/dooball66-api.php?id=722
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:00] ยกน้ำหนักหญิง : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[12:00] เซปักตะกร้อหญิง : รอบรองฯ
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=687
+http://103.245.166.221/dooball66-api.php?id=716
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:00] เซปักตะกร้อชาย : รอบคัดเลือก: เวียดนาม พบ เมียนมาร์
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[12:00] ยกน้ำหนักชาย รุ่น 95 กก. : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=669
+http://103.245.166.221/dooball66-api.php?id=719
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:20] ฟันดาบ : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[12:15] เทเบิลเทนนิสชายเดี่ยว: จีนไทเป พบ จีน : เทเบิลเทนนิสชายเดี่ยว: จีนไทเป พบ จีน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=679
+http://103.245.166.221/dooball66-api.php?id=723
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[14:00] วอลเลย์บอลชาย : รอบคัดเลือก: อินเดีย พบ เวียดนาม
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:00] วอลเลย์บอลชายหาดหญิง : รอบคัดเลือก: เกาหลีใต้ พบ จีน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=647
+http://103.245.166.221/dooball66-api.php?id=739
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[14:00] เซปักตะกร้อหญิงคู่ : รอบคัดเลือก: เกาหลีใต้ พบ ญี่ปุ่น
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:00] เทนนิสหญิง : รอบสอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=670
+http://103.245.166.221/dooball66-api.php?id=742
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[15:00] มวยสากล : รอบคัดเลือก
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:15] ซอฟต์บอลหญิง : รอบคัดเลือก: ฮ่องกง พบ ญี่ปุ่น
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=659
+http://103.245.166.221/dooball66-api.php?id=730
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[15:00] ยกน้ำหนักหญิง : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[13:30] เซปักตะกร้อชาย : รอบรองฯ
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=662
+http://103.245.166.221/dooball66-api.php?id=717
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[15:00] ระบำใต้น้ำทีมผสม : ระบำใต้น้ำทีมผสม
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[14:00] วอลเลย์บอลชาย : รอบคัดเลือก: เวียดนาม พบ กาตาร์
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=674
+http://103.245.166.221/dooball66-api.php?id=712
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:00] ระบำใต้น้ำทีมผสม : ระบำใต้น้ำทีมผสม
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[14:30] มวยสากล : รอบก่อนรองฯ
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=688
+http://103.245.166.221/dooball66-api.php?id=727
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:00] แฮนด์บอลหญิง : รอบก่อนรองฯ: ญี่ปุ่น พบ เกาหลีใต้
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[15:00] ปาเดล : รอบแรก
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=640
+http://103.245.166.221/dooball66-api.php?id=743
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:30] กรีฑาประเภทลู่ : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[15:00] มวยสากล : รอบก่อนรองฯ
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=638
+http://103.245.166.221/dooball66-api.php?id=745
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:30] ยิมนาสติกแทรมโพลีนหญิง : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:00] กรีฑาประเภทลู่ : รอบคัดเลือก
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=651
+http://103.245.166.221/dooball66-api.php?id=703
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:30] เบสบอลชาย : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[16:00] กรีฑา ประเภทลู่และลาน : รอบคัดเลือก
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=671
+http://103.245.166.221/dooball66-api.php?id=696
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:00] กรีฑาประเภทลู่และลาน : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:00] วอลเลย์บอลชาย : รอบคัดเลือก: จีนไทเป พบ เกาหลีใต้
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=664
+http://103.245.166.221/dooball66-api.php?id=713
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:00] เทเบิลเทนนิสชายคู่ : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:00] เทเบิลเทนนิสหญิงคู่ : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=675
+http://103.245.166.221/dooball66-api.php?id=724
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:20] วอลเลย์บอลชาย : รอบคัดเลือก: ญี่ปุ่น พบ อุซเบกิสถาน
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:20] วอลเลย์บอลชาย : รอบคัดเลือก: คาซัคสถาน พบ ญี่ปุ่น
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=644
+http://103.245.166.221/dooball66-api.php?id=709
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:20] วอลเลย์บอลชาย : รอบคัดเลือก: จีน พบ จีนไทเป
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:30] กรีฑา ประเภทลู่และลาน : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=648
+http://103.245.166.221/dooball66-api.php?id=697
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:25] กรีฑา : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:30] กรีฑาประเภทลู่ : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=684
+http://103.245.166.221/dooball66-api.php?id=704
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[18:30] เทเบิลเทนนิสหญิงเดี่ยว : รอบชิงเหรียญทอง
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[18:30] เทเบิลเทนนิสชายเดี่ยว : รอบชิงเหรียญทอง
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=676
+http://103.245.166.221/dooball66-api.php?id=725
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[20:00] ลิทัวเนีย พบ อาเซอร์ไบจาน
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:25] ญี่ปุ่น พบ เวเนซุเอลา
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676801
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:00] เดนมาร์ค พบ เวลส์
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676686
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:00] เซอร์เบีย พบ เนเธอร์แลนด์
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676687
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:00] ออสเตรีย พบ คอซอวอ
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676735
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:00] ยิบรอลตาร์ พบ อันดอร์รา
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676800
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[19:00] แมนเชสเตอร์ยูไนเต็ด ญ พบ แวสแฮม ญ
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19784576
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[20:00] Liverpool W พบ เอฟเวอร์ตัน ญ
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19784574
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[22:30] เชลซี ญ พบ อาเซนอล ญ
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19784568
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] นอร์เวย์ พบ โปรตุเกส
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676684
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] เยอรมนี พบ กรีซ
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676685
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] อิสราเอล พบ สาธารณรัฐไอร์แลนด์
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676734
+http://103.245.166.221/dooball66-api.php?id=19783652
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:00] จอร์เจีย พบ ยูเครน
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
@@ -5230,6 +5200,54 @@ http://103.245.166.221/dooball66-api.php?id=19880784
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
 http://103.245.166.221/dooball66-api.php?id=19880786
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[17:00] ออสเตรเลีย พบ บลาซิล
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19731485
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] ตุรกี พบ อิตาลี่
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19676682
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] เบลเยี่ยม พบ ฝรั่งเศษ
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19676683
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] สวีเดน พบ โปแลนด์
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19676730
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] โรมาเนีย พบ บอสเนียและเฮอร์เซโกวีนา
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19676731
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] ไอร์แลนด์เหนือ พบ ฮังการี
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19676732
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:00] มอลโดวา พบ เกาะแฟโร
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19676779
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:00] ฟินแลนด์ พบ เบลารุส
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19676781
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[02:00] ตูนิเซีย พบ บอสวาน่า
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
@@ -5272,6 +5290,55 @@ http://103.245.166.221/dooball66-api.php?id=19880760
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
 http://103.245.166.221/dooball66-api.php?id=19880764
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:30] เลกาเนส พบ Castellón
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19745060
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[02:00] โซมาเลีย พบ โกตดิวัวร์
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19880747
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[02:00] ไลบีเรีย พบ มาลี
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19880750
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[02:00] คองโก้ พบ แคเมอรูน
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19880752
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:00] เอริเทรีย พบ แอฟริกาใต้
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=19880740
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:45] โรมา พบ บาร์เซโลนา
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=900000260
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:45] ปารีส แอฟเซ พบ อาร์เซนอล
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=900000261
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[23:45] เฮคเคน พบ ยูเวนตุส
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/dooball66-api.php?id=900000262
+
 
 
 
