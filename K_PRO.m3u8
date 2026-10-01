@@ -1821,21 +1821,63 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776116&server=_ecdn&source=bon
 
 
 
-
-# ---------------- ----------------------- Ais เอเชี่ยนเกมส์ ****
-
+#                 *****    ================    เอเชี่ยนเกมส์2026  AIS ===============  *****
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais901.png" group-title="ช่องกีฬาถ่ายทอดสด", Ais 901
-#https://dooballland.babygeniptv.workers.dev/dbl/event20/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 901
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=861
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais902.png" group-title="ช่องกีฬาถ่ายทอดสด", Ais 902
-#https://dooballland.babygeniptv.workers.dev/dbl/event21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 902
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=886
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 903
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=894
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais903.png" group-title="ช่องกีฬาถ่ายทอดสด", Ais 903
-#https://dooballland.babygeniptv.workers.dev/dbl/event22/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 907
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=865
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 908
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=867
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 909
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=871
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 912
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=882
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 913
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=884
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/เอเชี่ยนเกมส์2026.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS 915
+#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.245.166.221/Doo66AsianGames-api.php?id=891
 
 
 
