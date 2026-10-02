@@ -24,6 +24,18 @@
 
 # =======================================================================
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/09/6aa3602c1b30f58c2855133773187270.jpg",ยูนาบอมเบอร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Unabomber-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/09/e2f35d292decd80063b5e2494505dfe3.jpg",อีแหล่ แอรี่ เกาหลี โอปป้า (2026) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Airy-in-Busan-2026-tha.mp4.m3u8
+
+# ------------------------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://wsrv.nl/?url=https://www.24hd.media/wp-content/uploads/2026/09/Delusion-2026.webp", ภาพลวงตาย EP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player77hdfree.xyz/
