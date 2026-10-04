@@ -1644,20 +1644,20 @@ http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=siam10
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",FIFA Asean Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8
+#https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",FIFA Asean Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001790857683-0-0-414fe11542deee4635c1b9022ef5056d
+#https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001790857683-0-0-414fe11542deee4635c1b9022ef5056d
 
 
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",FIFA Asean Cup
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/event1/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/event1/playlist.m3u8
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",FIFA Asean Cup
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/fifaplus/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/fifaplus/playlist.m3u8
 
 
 
@@ -1828,13 +1828,15 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776116&server=_ecdn&source=bon
 
 #========================================================================= Ais / s3.e-cdn.me:80 / ATMFlix ******
 
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="ช่องกีฬาถ่ายทอดสด",DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-S9280) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://23.237.104.106:8080/DAZN_3/index.m3u8
 # ---------------------------------------------------------- NFL  Play 51
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais51.png" group-title="ช่องกีฬาถ่ายทอดสด",NFL Play 51 สด 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-#https://app.ipplaybox.fun/atmflixlive/playsports51/playlist.m3u8
+https://app.ipplaybox.fun/atmflixlive/playsports51/playlist.m3u8
 
 
 
@@ -1843,7 +1845,7 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776116&server=_ecdn&source=bon
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA 55
 #EXTVLCOPT:network-caching=1000
-https://api.plus-server.sbs/play.php?key=1234&id=1776248&server=_ecdn&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&id=1776248&server=_ecdn&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais56.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA Play 56 สด HD
 
@@ -1852,8 +1854,7 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776248&server=_ecdn&source=bon
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais58.png" group-title="ช่องกีฬาถ่ายทอดสด",WNBA 58
 #EXTVLCOPT:network-caching=1000
-https://api.plus-server.sbs/play.php?key=1234&id=1776177&server=_ecdn&source=bontv
-
+#https://api.plus-server.sbs/play.php?key=1234&id=1776177&server=_ecdn&source=bontv
 
 
 
@@ -1865,7 +1866,7 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776177&server=_ecdn&source=bon
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais61.png" group-title="ช่องกีฬาถ่ายทอดสด",GOLF 61
 #EXTVLCOPT:network-caching=1000
-https://api.plus-server.sbs/play.php?key=1234&id=1776291&server=_ecdn&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&id=1776291&server=_ecdn&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais62.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 62(GOLF) HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais64.png" group-title="ช่องกีฬาถ่ายทอดสด", playsport 64(GOLF) HD
@@ -1880,7 +1881,8 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776292&server=_ecdn&source=bon
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais69.png" group-title="ช่องกีฬาถ่ายทอดสด",GOLF 69
 #EXTVLCOPT:network-caching=1000
-https://api.plus-server.sbs/play.php?key=1234&id=1776286&server=_ecdn&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&id=1776286&server=_ecdn&source=bontv
+
 
 
 
@@ -1908,11 +1910,11 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776286&server=_ecdn&source=bon
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais71.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 71
 #EXTVLCOPT:network-caching=1000
-https://api.plus-server.sbs/play.php?key=1234&id=1776178&server=_ecdn&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&id=1776178&server=_ecdn&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais72.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 72
 #EXTVLCOPT:network-caching=1000
-https://api.plus-server.sbs/play.php?key=1234&id=1776154&server=_ecdn&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&id=1776154&server=_ecdn&source=bontv
 
 
 
@@ -1948,7 +1950,6 @@ https://app.ipplaybox.fun/atmflixlive/playsports75/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais76.png" group-title="ช่องกีฬาถ่ายทอดสด", play 77
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
 #https://app.ipplaybox.fun/atmflixlive/playsports77/playlist.m3u8
-
 
 
 #================================================= ***** WTA ***** ===========================================================
