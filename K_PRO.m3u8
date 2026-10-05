@@ -1611,27 +1611,28 @@ http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=siam10
 
 # -------------------------------------------- เฉพาะกิน  Asean Cup *****************
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",ASEAN Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001790857683-0-0-414fe11542deee4635c1b9022ef5056d
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",ASEAN Cup
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",ASEAN Cup1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001791204192-0-0-b5176bc0417e3ac7d6317e52a9ba271d
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",ASEAN Cup2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001791190021-0-0-2696f9c2d393249cb3d340231b880bf6
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",ASEAN Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",ASEAN Cup
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",ASEAN Cup3
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
 https://app.ipplaybox.fun/atmflixlive/fifaplus/playlist.m3u8
 
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",Ballหญิง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8
+
+
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",ASEAN Cup
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/event1/playlist.m3u8
-
+#https://app.ipplaybox.fun/atmflixlive/event1/playlist.m3u
 
 
 
