@@ -504,11 +504,6 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 
 
-
-#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://allente-static-files.akamaized.net/channel_logos/prod/800/50077-4.png",V Sport Golf
-#EXTVLCOPT:network-caching=1000
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://iconlogovector.com/uploads/images/2025/04/lg-67f2347e73e60-PGA-TOUR.webp" group-title="ช่องทีวีต่างประเทศ",PGA Tour
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
@@ -541,61 +536,66 @@ https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 
 
 
-###==============================================         SPORTS       ========================================###
+# ===================================================================  ช่อง SPORTS - 1  ============================================================>
 
-# ---------------------------------------------------------- All sport in sport-2 ------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 1",LFC TV HD
+
+# ----------------------------------------- TOP Sports  *****
+
+
+#EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 1",LFC TV 
 #EXTVLCOPT:network-caching=1000
 https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 1",MUTV HD
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-https://get.perfecttv.net/mutv.mpd
+
+#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 1",MUTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=MUTV
+
 http://api.plus-server.sbs/play.php?key=1234&ch=mutv
 #EXTINF:-1 tvg-id="Barcelona.uk" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png" group-title="ช่อง SPORTS - 1",Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s" group-title="ช่อง SPORTS - 1",Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="ช่อง SPORTS - 1",🏁FORMULA 1 Channel HD
 
-
-# ---------------------------------------------------------- premier
+# --------------------------------  ชุดพิเศษ premier
 
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:41:3B:49&stream=554953&extension=m3u8
-http://103.245.166.221/play.php?key=1234&portal=Stalker_1
-http://103.245.166.221/play.php?key=1234&portal=now_pls1
 
 
 # --- MONOMAX 1 ---
+
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 1
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
 https://api.plus-server.sbs/play.php?key=1234&portal=monomax1
 
 # --- MONOMAX 2 ---
+
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 2
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 https://api.plus-server.sbs/play.php?key=1234&portal=monomax2
 
 
-# ----------------------
+# ----------------------    Setanta
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ช่อง SPORTS - 1", Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318" group-title="ช่อง SPORTS - 1", Setanta Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.mcquack.net/234/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ช่อง SPORTS - 1", Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ujxkqz1589620867.png" group-title="ช่อง SPORTS - 1", Setanta Sports 2 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.mcquack.net/235/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ช่อง SPORTS - 1", DiVi Sport
+#EXTINF:-1 tvg-logo="https://divisport.tv/wp-content/webp-express/webp-images/uploads/2023/04/Logo-header.png.webp" group-title="ช่อง SPORTS - 1", DiVi Sport
 #EXTVLCOPT:network-caching=1000
 http://stream.mcquack.net/457/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ช่อง SPORTS - 1", TV3 Sport LT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg/revision/latest/scale-to-width-down/200?cb=20230810135847" group-title="ช่อง SPORTS - 1",Go3 Sport 1
 #EXTVLCOPT:network-caching=1000
 http://stream.mcquack.net/416/index.m3u8
 
@@ -608,7 +608,7 @@ http://stream.mcquack.net/416/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่อง SPORTS - 1",SPOTV 2 HD
@@ -616,7 +616,7 @@ http://stream.mcquack.net/416/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-#https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
 
@@ -641,6 +641,32 @@ http://103.245.166.221/play.php?key=1234&portal=now6
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="ช่อง SPORTS - 1",now sports7
 http://103.245.166.221/play.php?key=1234&portal=now7
+
+
+
+#------------------------------------ TNT Sports 
+
+
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="ช่อง SPORTS - 1", TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=TNT-Sports-1
+
+#EXTINF:-1 tvg-logo="https://cdn.tvguide.co.uk/sport/tv-stations/tnt-sports-2.png" group-title="ช่อง SPORTS - 1", TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=TNT-Sports-2
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="ช่อง SPORTS - 1", TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=TNT-Sports-3
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="ช่อง SPORTS - 1", TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=TNT-Sports-4
 
 
 
@@ -806,17 +832,11 @@ https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 
-# ----------- TNT Sports (ช่อง SPORTS - 1) -----------
-
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 1
-
-#EXTINF:-1 tvgname="TNT Sports 2" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 2
-
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 3
-
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="ช่อง SPORTS - 1", TNT Sports 4
 
 #------------------------------------ SG| HUB SPORTS HD
+
+
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 1 | SG
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 2 | SG
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="ช่อง SPORTS - 1",HUB SPORTS 3 | SG
@@ -825,75 +845,105 @@ https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 
-
 #----------------------------------------------------- Golf
 
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://tv.golfnetwork.co.jp/uploads/image/fd58a773-04fb-4e72-8d1c-1a4ca51dfa31.png",Golf Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/69d2c866-6e91-480a-aae0-ab49aa0378c0/2.m3u8
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://allente-static-files.akamaized.net/channel_logos/prod/800/50077-4.png",V Sport Golf
-#EXTVLCOPT:network-caching=1000
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="ช่อง SPORTS - 1",🏌️‍♂️ Golf Channel 
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130751
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",🏌️‍♂️ Golf  
-http://49.0.64.96:8007/GOLF
+
 #EXTINF:-1 tvg-logo="https://iconlogovector.com/uploads/images/2025/04/lg-67f2347e73e60-PGA-TOUR.webp" group-title="ช่อง SPORTS - 1",PGA TOUR
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png?_=20220107164658",SBS Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
+
+
+
+
+
+
+
+
+
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",🏌️‍♂️ Golf  
+#http://49.0.64.96:8007/GOLF
+
 #EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/JTBC_Golf.png/revision/latest?cb=20240810221104",Jtbc Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
-
-
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1280px-Sky_Sport_Golf_Logo_2022.svg.png",sky golf
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sports_Main_Event_UHD_logo.jpg",sky main event
+#http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
 
 
 
 # ---------------------------------------------------- All sports in sport-1 ------------------------------------------------------
 
 
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s2t764zpvom87qwkarmh" group-title="ช่อง SPORTS - 1",NFL-Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=NFL-Network
+
+#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png" group-title="ช่อง SPORTS - 1",🏀 NBA TV 
+http://49.0.64.96:8007/NBA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYiCq7O9BxWfASh4t5FbCYi7462060nOGOpPWBmljfw&s=10" group-title="ช่อง SPORTS - 1",MLB-Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=MLB-Network
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1280px-NHL_Network_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ช่อง SPORTS - 1",NHL-Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=NHL-Network
+
+#EXTINF:-1 tvg-logo="https://www.worldfishingnetwork.com/network/img/wfn/logo.png" group-title="ช่อง SPORTS - 1",World-Fishing-Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=World-Fishing-Network
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="ช่อง SPORTS - 1",DAZN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-S9280) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://23.237.104.106:8080/DAZN_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="ช่อง SPORTS - 1",CCTV Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
 #EXTINF:-1 tvg-id="Moji.id" group-title="ช่อง SPORTS - 1" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/141-1415157_tna-wrestling.png" group-title="ช่อง SPORTS - 1",TNA Sports
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="ช่อง SPORTS - 1",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="ช่อง SPORTS - 1",Bare Knuckle
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+
 #EXTINF:-1 tvg-id="BareKnuckle.us" tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="ช่อง SPORTS - 1",Bare Knuckle tv
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+
+
 #EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="ช่อง SPORTS - 1",UFC
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="HIFIGHT" tvg-name="HIFIGHT" tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/2.png" group-title="ช่อง SPORTS - 1",HIFIGHT
 http://49.0.64.96:8007/HIFIGHT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="ช่อง SPORTS - 1",🏀 NBA TV 
-http://49.0.64.96:8007/NBA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",🏁 F1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="ช่อง SPORTS - 1",Racing TV
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22932
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="ช่อง SPORTS - 1",Racing Stream 1
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="ช่อง SPORTS - 1",Racing Stream 2
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
@@ -903,15 +953,21 @@ https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 
 
 
-# =================================================================== ช่อง SPORTS - 2 ============================================================>
+# =================================================================== จบ ช่อง SPORTS - 1  ============================================================>
 
 
 
 
-### ================================================================================= TRUE Sport --------------------  ###
 
 
-### ------------------------------------------------------------------- TRUE Sport / warpdooball
+# =================================================================== เริ่ม ช่อง SPORTS - 2  ============================================================>
+
+
+
+### =====================================================  TRUE Sport --------------------  ###
+
+
+### -----------------------------   TRUE Sport / warpdooball
 
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts1.png" group-title="ช่อง SPORTS - 2", True 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -944,7 +1000,7 @@ https://cdn1.googlecdnforstreaming.live/live/tsp5/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
 
 
-### ------------------------------------------------------------------- TRUE Sport / ช่อง ผสม
+### -----------------------------   TRUE Sport / ช่อง ผสม
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/TrueSports1.png" group-title="ช่อง SPORTS - 2",TRUE 1 
@@ -1032,23 +1088,20 @@ https://cdn1.googlecdnforstreaming.live/live/spotv/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/spotv2/playlist.m3u8
 
 
-
-
-#--------------------------------------- SPOTV 2 / api.plus-server ufabetcompany
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_1.png" group-title="ช่อง SPORTS - 2",SPOTV sd
-http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=spotv1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่อง SPORTS - 2",SPOTV 2 sd
-http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=spotv2
-
-
-#--------------------------------------- SPOTV 2 / api.plus-server สำรอง
+#--------------------------------------- SPOTV 2 / api.plus-server 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_1.png" group-title="ช่อง SPORTS - 2",SPOTV 
 https://api.plus-server.sbs/play.php?key=1234&id=1776065&server=_ecdn&source=bontv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่อง SPORTS - 2",SPOTV 2 
-https://api.plus-server.sbs/play.php?key=1234&id=1776069&server=_ecdn&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&id=1776069&server=_ecdn&source=bontv
+
+#--------------------------------------- SPOTV 2 / api.plus-server ufabetcompany สำรอง
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_1.png" group-title="ช่อง SPORTS - 2",SPOTV
+#http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=spotv1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่อง SPORTS - 2",SPOTV 2
+http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=spotv2
 
 
 
@@ -1098,28 +1151,27 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776212&server=_ecdn&source=bon
 
 
 
+
 #----------------------------------------------- True Premier Football ----------------------------------
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_3.webp" group-title="ช่อง SPORTS - 2",Premier Football 3
-#EXTVLCOPT:network-caching=1000
-#https://api.plus-server.sbs/play.php?key=1234&id=1776163&server=_ecdn&source=bontv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_3.webp" group-title="ช่อง SPORTS - 2",Premier 3 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://liveballhd365.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://cdn1.googlecdn.live/duball356/tpf3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_4.webp" group-title="ช่อง SPORTS - 2",Premier 4b HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_4.webp" group-title="ช่อง SPORTS - 2",Premier 4 HD 
+#EXTVLCOPT:http-referrer=https://liveballhd365.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://cdn1.googlecdn.live/duball356/tpf4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/trueID_5.webp" group-title="ช่อง SPORTS - 2",Premier 5 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://liveballhd365.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://cdn1.googlecdn.live/duball356/tpf5/playlist.m3u8
+
 
 
 
@@ -1171,19 +1223,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/tennistv.png" group-title="ช่อง SPORTS - 2",🎾 Tennis TV
 http://49.0.64.96:8007/TENNIS
 
+
 #----------------------------------------------------- Golf
+
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf Channel TH
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=golf2
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf Channel 
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130751
-https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf
-http://49.0.64.96:8007/GOLF
-
-
 
 
 
@@ -1303,8 +1349,92 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776158&server=_ecdn&source=bon
 
 
 
-# --------------------------------------------------- MAX 1-8 / dooballland 
 
+# --------------------------------------------------- MAX 1-8 / app atmflixlive
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 1 HD
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+#https://app.ipplaybox.fun/atmflixlive/monomax-sports1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 2 HD
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+#https://app.ipplaybox.fun/atmflixlive/monomax-sports2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 3 HD
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+#https://app.ipplaybox.fun/atmflixlive/monomax-sports3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 4 HD
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+#https://app.ipplaybox.fun/atmflixlive/monomax-sports4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 5 HD
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+#https://app.ipplaybox.fun/atmflixlive/monomax-sports5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 6 HD
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+#https://app.ipplaybox.fun/atmflixlive/monomax-sports6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 7 HD
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+#https://app.ipplaybox.fun/atmflixlive/monomax-sports7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 8 HD
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+#https://app.ipplaybox.fun/atmflixlive/monomax-sports8/playlist.m3u8
+
+
+
+
+# --------------------------------------------------- MAX 1-8 / เวป dooballland สำรองไว้
+
+
+#EXTINF:-1 tvg-id="monomax-sports1" tvg-name="MAX 1 HD" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+#https://cdn1.amazaa.live/dbl/monomax-sports1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="monomax-sports2" tvg-name="MAX 2 HD" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+#https://cdn1.amazaa.live/dbl/monomax-sports2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="monomax-sports3" tvg-name="MAX 3 HD" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+#https://cdn1.amazaa.live/dbl/monomax-sports3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="monomax-sports4" tvg-name="MAX 4 HD" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+#https://cdn1.amazaa.live/dbl/monomax-sports4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="monomax-sports5" tvg-name="MAX 5 HD" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+#https://cdn1.amazaa.live/dbl/monomax-sports5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="monomax-sports6" tvg-name="MAX 6 HD" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+#https://cdn1.amazaa.live/dbl/monomax-sports6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="monomax-sports7" tvg-name="MAX 7 HD" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+#https://cdn1.amazaa.live/dbl/monomax-sports7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="monomax-sports8" tvg-name="MAX 8 HD" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/monomax-logo.png" group-title="ดูสดฟุตบอลลีก",MAX 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+#https://cdn1.amazaa.live/dbl/monomax-sports8/playlist.m3u8
+
+
+
+# --------------------------------------------------- MAX 1-8 / doland.babygeniptv.workers  ผ่านเซิฟเวอร์เรา
 
 
 
@@ -1491,16 +1621,6 @@ http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=ais1
 
 
 
-# -----------------------------------------------------  EREDIVISI
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/netherlands/700x700/eredivisie--white.24f40746.png" group-title="ดูสดฟุตบอลลีก",EREDIVISIE 1
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/netherlands/700x700/eredivisie--white.24f40746.png" group-title="ดูสดฟุตบอลลีก",EREDIVISIE 2
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/netherlands/700x700/eredivisie--white.24f40746.png" group-title="ดูสดฟุตบอลลีก",EREDIVISIE 3
-
-
-
 
 # # ------------------------------------------------------   ALL Football / siam 1-11 API Ufabetcompany
 
@@ -1536,9 +1656,10 @@ http://api.plus-server.sbs/play.php?key=1234&ufabetcompany=siam10
 
 
 
-#====================================================================================================================================
 
 
+
+#  **************************************************   จบ ดูสดฟุตบอลลีก  *************************************************
 
 
 
@@ -1564,12 +1685,11 @@ https://live-us1.thaimomo.com/live-as/chthairathhd-1/chunklist_w179323289.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="ช่องกีฬาถ่ายทอดสด",T Sports
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="ช่องกีฬาถ่ายทอดสด",T Sports7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="ช่องกีฬาถ่ายทอดสด",T Sports
-https://live-us1.thaimomo.com/live-as/chtsport-1/chunklist_w190352785.m3u8
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="ช่องกีฬาถ่ายทอดสด",PPTV 
 https://api.plus-server.sbs/play.php?key=1234&id=1776141&server=_ecdn&source=bontv
@@ -1601,80 +1721,6 @@ https://api.plus-server.sbs/play.php?key=1234&id=1775978&server=_ecdn&source=bon
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20231127/ourmid/pngtree-test-red-flat-icon-isolated-product-png-image_10722512.png" group-title="ช่องกีฬาถ่ายทอดสด",เทส 2
 https://api.plus-server.sbs/play.php?key=1234&id=1775976&server=_ecdn&source=bontv
 
-
-
-
-
-# ===========================================================    สด พิเศษ รายวัน / Dooball66 API  ********
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[21:00] คาซัคสถาน พบ เกาะแฟโร
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676765
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] อังกฤษ พบ เช็ก
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676664
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] โครเอเชีย พบ สเปน
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676665
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] สวิตเซอร์แลนด์ พบ นอร์ทมาซิโดเนีย
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676712
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] สกอตแลนด์ พบ สโลวีเนีย
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676713
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] ลักเซมเบิร์ก พบ บัลแกเรีย
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676760
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] เอสโตเนีย พบ ไอซ์แลนด์
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676761
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] มอลโดวา พบ สโลวาเกีย
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676762
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] เบลารุส พบ ฟินแลนด์
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676763
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[01:45] แอลเบเนีย พบ ซานมาริโน
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19676764
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/LiveSports.png" group-title="ช่องกีฬาถ่ายทอดสด",[02:00] แองโกล่า พบ มาลาวี
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19880737
 
 
 
@@ -1729,7 +1775,7 @@ http://103.245.166.221/play.php?key=1234&ch=api_bein3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais51.png" group-title="ช่องกีฬาถ่ายทอดสด",NFL 51 สด 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports51/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports51/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais52.png" group-title="ช่องกีฬาถ่ายทอดสด",NFL 52 สด 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
@@ -1753,7 +1799,7 @@ https://app.ipplaybox.fun/atmflixlive/playsports51/playlist.m3u8
 #https://api.plus-server.sbs/play.php?key=1234&id=1776248&server=_ecdn&source=bontv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA 55 สด
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports55/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports55/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais56.png" group-title="ช่องกีฬาถ่ายทอดสด",NBA 56 สด
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
@@ -1820,7 +1866,6 @@ https://app.ipplaybox.fun/atmflixlive/playsports55/playlist.m3u8
 
 
 
-
 #======================================================================== ATP Tour =================================================================
 
 
@@ -1845,32 +1890,31 @@ https://app.ipplaybox.fun/atmflixlive/playsports55/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais71.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 71 สด
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais71.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 71 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-#https://app.ipplaybox.fun/atmflixlive/playsports71/playlist.m3u8
+https://app.ipplaybox.fun/atmflixlive/playsports71/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais72.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 72 สด
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais72.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 72 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-#https://app.ipplaybox.fun/atmflixlive/playsports72/playlist.m3u8
+https://app.ipplaybox.fun/atmflixlive/playsports72/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais73.png" group-title="ช่องกีฬาถ่ายทอดสด", play 73
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais73.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 73 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-#https://app.ipplaybox.fun/atmflixlive/playsports73/playlist.m3u8
+https://app.ipplaybox.fun/atmflixlive/playsports73/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais74.png" group-title="ช่องกีฬาถ่ายทอดสด", play 74
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais74.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 74 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-#https://app.ipplaybox.fun/atmflixlive/playsports74/playlist.m3u8
+https://app.ipplaybox.fun/atmflixlive/playsports74/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais75.png" group-title="ช่องกีฬาถ่ายทอดสด", play 75 สด
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais75.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 75 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
 https://app.ipplaybox.fun/atmflixlive/playsports75/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais76.png" group-title="ช่องกีฬาถ่ายทอดสด", play 76
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais76.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 76 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
 #https://app.ipplaybox.fun/atmflixlive/playsports76/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais76.png" group-title="ช่องกีฬาถ่ายทอดสด", play 77
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais76.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 77 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
 #https://app.ipplaybox.fun/atmflixlive/playsports77/playlist.m3u8
 
@@ -1922,17 +1966,6 @@ https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" group-title="ช่องกีฬาถ่ายทอดสด",Sultanlar ligi
-#EXTVLCOPT:http-referrer=https://www.gameday.cyou/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://rumble.com/hls-vod/C4xkoiRzrDU/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" group-title="ช่องกีฬาถ่ายทอดสด",Sultanlar ligi
-#EXTVLCOPT:http-referrer=https://www.gameday.cyou/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://rumble.com/hls-vod/mz6Ohx-E8ME/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://www.pngarts.com/files/2/Beach-Volleyball-PNG-Image-Transparent.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล 1 สด
 #https://live1.quickscoreboardz.com/live/channel80/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngarts.com/files/2/Beach-Volleyball-PNG-Image-Transparent.png" group-title="ช่องกีฬาถ่ายทอดสด",วอลเลย์บอล 2 สด
@@ -1946,8 +1979,22 @@ https://rumble.com/hls-vod/mz6Ohx-E8ME/playlist.m3u8
 
 
 
+# ===========================================================    สด พิเศษ รายวัน / Dooball66 API  ********
 
-#                              ********   จบ  group ช่องกีฬาถ่ายทอดสด   ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+#                                                              ********   จบ  group ช่องกีฬาถ่ายทอดสด   ********
 
 
 
