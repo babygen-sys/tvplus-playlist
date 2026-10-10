@@ -2021,19 +2021,19 @@ http://stream.mcquack.net/234/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",EPL 1
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1314077&portal=_light&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&mac_id=1314077&portal=_light&source=bontv
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",EPL 2
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1314078&portal=_light&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&mac_id=1314078&portal=_light&source=bontv
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",EPL 3
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1314079&portal=_light&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&mac_id=1314079&portal=_light&source=bontv
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",EPL 4
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1314080&portal=_light&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&mac_id=1314080&portal=_light&source=bontv
 
 #EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ดูสดฟุตบอลลีก",EPL 5
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1314081&portal=_light&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&mac_id=1314081&portal=_light&source=bontv
 
 
 
