@@ -14,8 +14,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 
-# ----------------------------------------------- 123hd
-#EXTINF:-1 group-title="Movie" tvg-logo="",  
+# ----------------------------------------------- 123h
+#EXTINF:-1 group-title="Movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
 
@@ -23,6 +23,11 @@
 
 
 # =======================================================================
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/10/60ba4df803ed47f9c9be10ceeb199083.jpg",พี่บึ้ก… โคตรคน ชนนรก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://movietofree.sbs/
+https://vod1.stream25.com/Runner-2026-V1-sub.mp4.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.imgferry.com/uploads/2026/09/6aa3602c1b30f58c2855133773187270.jpg",ยูนาบอมเบอร์
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
