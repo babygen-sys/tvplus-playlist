@@ -549,7 +549,8 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa84ab38d6173af159c18427c39e129ef702855d9ac51df292018fabdd6a1f7e6.png" group-title="ช่องทีวีต่างประเทศ",BILLIYARD TV
-https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6334a8e48a7b2a349d903b8c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png"group-title="ช่องทีวีต่างประเทศ",Snooker
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
@@ -1176,9 +1177,9 @@ https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่อง SPORTS - 2",BeIN 3 HD
+https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
 
 
 
@@ -1203,7 +1204,7 @@ https://api.dobon168.com/api/stream/channel/bein3/playlist.m3u8?key=kl_9bbe7c7b_
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bein_TH1.png" group-title="ช่อง SPORTS - 2", beIN 1
 #EXTVLCOPT:network-caching=1000
-https://api.plus-server.sbs/play.php?key=1234&id=1776210&server=_ecdn&source=bontv
+#https://api.plus-server.sbs/play.php?key=1234&id=1776210&server=_ecdn&source=bontv
 #https://api.plus-server.sbs/play.php?key=1234&id=1776124&server=_ecdn&source=bontv
 
 
