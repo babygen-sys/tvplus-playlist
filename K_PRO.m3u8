@@ -1187,21 +1187,12 @@ https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bein_TH1.png" group-title="ช่อง SPORTS - 2", beIN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-#EXTVLCOPT:http-origin=https://warpsport24.online
 https://api.dobon168.com/api/stream/channel/bein1/playlist.m3u8?key=kl_9bbe7c7b_37b45b0b653a347ba1439e678bedaad8383705b0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bein_TH2.png" group-title="ช่อง SPORTS - 2", beIN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-#EXTVLCOPT:http-origin=https://warpsport24.online
 https://api.dobon168.com/api/stream/channel/bein2/playlist.m3u8?key=kl_9bbe7c7b_37b45b0b653a347ba1439e678bedaad8383705b0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/bein_TH3.png" group-title="ช่อง SPORTS - 2", beIN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.online/
-#EXTVLCOPT:http-origin=https://warpsport24.online
 https://api.dobon168.com/api/stream/channel/bein3/playlist.m3u8?key=kl_9bbe7c7b_37b45b0b653a347ba1439e678bedaad8383705b0
 
 
