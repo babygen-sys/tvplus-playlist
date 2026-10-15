@@ -21,13 +21,53 @@
 
 -----------------------------------------------  ezmovie
 #EXTINF:-1 group-title="Movie" tvg-logo="",
-#EXTVLCOPT:http-referrer=https://bbk100.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+
 
 # ---------------------------------------  แก้ปกไม่แสดง / บริการเว็บ Image Proxy ฟรี เติมคำ ( https://wsrv.nl/?url= )  ไว้ข้างหน้าลิงก์
 
 
 # =======================================================================
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/8af7bf7d207b7c58c56bbe38c6dc17bc.jpg",Toy Story 5 (2026) ทอย สตอรี่ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Toy-Story-5-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/a46ffb626e549e88308e0738177dc627.jpg",Animals (2026) เดรัจฉานสัญชาตญาณดิบ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Animals-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/1b0126015b90d487d8ae9f4c07127fa3.jpg",Matchbox The Movie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Matchbox-The-Movie-2026-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/9dea1b8cfc1ab661da20ecbabae3bcc9.jpg",Brothers Under Fire (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Brothers-Under-Fire-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8fba8204cf8966223a296734acf96de5.jpg",Beware Boiuna (2026) บอ ยู นา เลื้อยเขมือบแอมะซอน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Beware-Boiuna-2026-V1-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/bc5fad5d7c4fb6b094288f3a33b930cd.jpg",Spider-Man Brand New Day (2026) สไปเดอร์-แมน แบรนด์ นิว เดย์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Spider-Man-Brand-New-Day-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/02c579bbf2c5a45cc00cdcf7119d805d.jpg",The Uprising (2026) จากชาวนา สู่มหากบฎ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Uprising-2026-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/b6f0145d57c00efdffa4d124a0f284d8.jpg",Scream 7 (2026) หวีดสุดขีด 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/https://vod1.stream25.com/Scream-7-2026-tha.mp4.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://kahirihome.com/wp-content/uploads/2026/10/wil-%E0%B8%A7%E0%B8%B4%E0%B8%A5-2024-300x450-1.webp",WIL วิล (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
