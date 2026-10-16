@@ -30,6 +30,17 @@
 
 # =======================================================================
 
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/b6f0145d57c00efdffa4d124a0f284d8.jpg",Scream 7 (2026) หวีดสุดขีด 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Scream-7-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202511/movie/96c6603efd67bf2a9e53f05facbc28a8.jpg",In Your Dreams (2025) ผจญภัยในฝัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/In-Your-Dreams-2025-tha.mp4.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/8af7bf7d207b7c58c56bbe38c6dc17bc.jpg",Toy Story 5 (2026) ทอย สตอรี่ 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bbk100.xyz/
