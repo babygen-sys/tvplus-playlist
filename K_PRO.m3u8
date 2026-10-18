@@ -1482,15 +1482,15 @@ https://apiflixe.plus-server.sbs/nfl-a
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais51.png" group-title="ช่อง SPORTS - 2",NFL 51
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports51/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports51/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais52.png" group-title="ช่อง SPORTS - 2",NFL 52
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports52/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports52/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais53.png" group-title="ช่อง SPORTS - 2",NFL 53
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports53/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports53/playlist.m3u8
 
 
 
@@ -1501,25 +1501,28 @@ https://app.ipplaybox.fun/atmflixlive/playsports53/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่อง SPORTS - 2",NBA 55
 https://apiflixe.plus-server.sbs/nba-a
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais57.png" group-title="ช่อง SPORTS - 2",WNBA 57
+#https://apiflixe.plus-server.sbs/wnba-a
+
 
 # ---------------------------------------------------------- NBA Play 55-58  / ATMFlix
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais55.png" group-title="ช่อง SPORTS - 2",NBA 55
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports55/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports55/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais56.png" group-title="ช่อง SPORTS - 2",NBA 56
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports56/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports56/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais57.png" group-title="ช่อง SPORTS - 2",WNBA 57
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports57/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports57/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais58.png" group-title="ช่อง SPORTS - 2",WNBA 58
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports58/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports58/playlist.m3u8
 
 
 
@@ -1533,8 +1536,14 @@ https://app.ipplaybox.fun/atmflixlive/playsports58/playlist.m3u8
 #================================             Ais GOLF  /  dooflixe    ********************
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais61.png" group-title="ช่อง SPORTS - 2", GOLF 61
+https://apiflixe.plus-server.sbs/pga-tour-a
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais66.png" group-title="ช่อง SPORTS - 2", GOLF 66
+https://apiflixe.plus-server.sbs/lpga-a
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais69.png" group-title="ช่อง SPORTS - 2", GOLF 69
+https://apiflixe.plus-server.sbs/dp-world-tour-a
 
 
 #================================             Ais GOLF  /  atmflixlive   ********************
@@ -1543,27 +1552,27 @@ https://app.ipplaybox.fun/atmflixlive/playsports58/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais61.png" group-title="ช่อง SPORTS - 2", GOLF 61
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports61/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports61/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais62.png" group-title="ช่อง SPORTS - 2", GOLF 62
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports62/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports62/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais64.png" group-title="ช่อง SPORTS - 2", GOLF 64
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports64/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports64/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais65.png" group-title="ช่อง SPORTS - 2", GOLF 65
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports65/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports65/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais66.png" group-title="ช่อง SPORTS - 2", GOLF 66
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports66/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports66/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais69.png" group-title="ช่อง SPORTS - 2", GOLF 69
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports69/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports69/playlist.m3u8
 
 
 
@@ -1573,7 +1582,7 @@ https://app.ipplaybox.fun/atmflixlive/playsports69/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais71.png" group-title="ช่อง SPORTS - 2" ,ATP 71
- https://apiflixe.plus-server.sbs/atp-a
+https://apiflixe.plus-server.sbs/atp-a
 
 
 
@@ -2020,6 +2029,7 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776153&server=_ecdn&source=bon
 
 
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Monomax-Sports.png" group-title="ดูสดฟุตบอลลีก", MONOMAX sd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpsport24.si/
@@ -2050,12 +2060,27 @@ https://sp-tr321.com/maxsport6/index.m3u8
 #EXTVLCOPT:http-origin=https://warpsport24.si
 https://sp-tr321.com/maxsport7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Monomax-Sports.png" group-title="ดูสดฟุตบอลลีก", MONOMAX sd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpsport24.si/
-#EXTVLCOPT:http-origin=https://warpsport24.si
-#https://sp-tr321.com/max2/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24goals.com/
+https://bppull.doman666c.com/live/stream-627620_lhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24goals.com/
+https://bppull.doman666c.com/live/stream-657426_lhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24goals.com/
+https://bppull.doman666c.com/live/stream-538903_lhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24goals.com/
+https://bppull.doman666c.com/live/stream-796761_lhd.m3u8
 
 
 
@@ -2469,7 +2494,7 @@ https://api.plus-server.sbs/play.php?key=1234&id=1775976&server=_ecdn&source=bon
 
 #EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts7.png" group-title="ช่องกีฬาถ่ายทอดสด",Live True 7 HD
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/tsp7/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/tsp7/playlist.m3u8
 
 
 
@@ -2486,42 +2511,42 @@ https://app.ipplaybox.fun/atmflixlive/tsp7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent2/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent3/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent4/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent5/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent6/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent7/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent8/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent9/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent10/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent11/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20250813/ourmid/pngtree-nba-logo-line-art-with-basketball-player-silhouette-png-image_17151527.webp" group-title="ช่องกีฬาถ่ายทอดสด",Basketball 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/nbalpevent12/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/nbalpevent12/playlist.m3u8
 
 
 
@@ -2540,12 +2565,9 @@ https://sp-tr321.com/skysportstennis/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais71.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 71
-#EXTVLCOPT:network-caching=1000
-#https://api.plus-server.sbs/play.php?key=1234&id=1776178&server=_ecdn&source=bontv
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais72.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 72
-#EXTVLCOPT:network-caching=1000
-#https://api.plus-server.sbs/play.php?key=1234&id=1776154&server=_ecdn&source=bontv
 
 
 
@@ -2555,31 +2577,31 @@ https://sp-tr321.com/skysportstennis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais71.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 71 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports71/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports71/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais72.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 72 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports72/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports72/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais73.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 73 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports73/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports73/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais74.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 74 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports74/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports74/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais75.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 75 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports75/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports75/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais76.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 76 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports76/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports76/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais76.png" group-title="ช่องกีฬาถ่ายทอดสด",ATP 77 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/playsports77/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/playsports77/playlist.m3u8
 
 
 
@@ -2595,7 +2617,7 @@ https://sp-tr321.com/Supertennis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/03/wta-logo-png-100x100.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE TENNIS 
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/truetennis/playlist.m3u8
+#https://app.ipplaybox.fun/atmflixlive/truetennis/playlist.m3u8
 
 
 # ------------------------------ WTA live streamcdnb manifest 
@@ -2763,7 +2785,11 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://app.ipplaybox.fun/atmflixlive/hbo/chunks.m3u8
+#https://app.ipplaybox.fun/atmflixlive/hbo/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
+https://edge-1.m-fixer.net:8092/stream/ais/hbo-hd/master.m3u8
 
 # ------------------------------------------------------------ CINEMA ------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/cinema-t-v.png" group-title="ช่องบันเทิง", CINEMA 1
