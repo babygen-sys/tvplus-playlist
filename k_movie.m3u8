@@ -30,6 +30,11 @@
 
 # =======================================================================
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202409/movie/ab7b68e6b4146e3cad80d356222eb3b7.jpg",Moonfall (2022) วันวิบัติ จันทร์ถล่มโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://cdn24hr.xyz/cdn/hls/3dba69c54fde9f1e43bed077ce7b7860/master.txt?s=2&d=
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202603/movie/a46c138b0b39658c93d4e72471df46d0.jpg",Zootopia 2 (2025) นครสัตว์มหาสนุก 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bbk100.xyz/
