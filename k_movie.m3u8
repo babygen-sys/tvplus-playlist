@@ -30,6 +30,15 @@
 
 # =======================================================================
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/3f5bdf7d228bd1a4cad909096eae88b6.jpg",Shelter (2026) คลั่งนรกหลบตาย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Shelter-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202602/movie/58bce4b06844a7bbf8364c18f1625657.jpg",(2025) พรีเดเตอร์ แดนเถื่อน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Predator-Badlands-2025-TH.mp4.m3u8
 
 # ------------------------------------------------------------------------------------------
 
