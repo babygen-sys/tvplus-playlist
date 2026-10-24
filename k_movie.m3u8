@@ -79,6 +79,11 @@ https://cdn24hr.xyz/cdn/hls/3dba69c54fde9f1e43bed077ce7b7860/master.txt?s=2&d=
 #EXTVLCOPT:http-referrer=https://bbk100.xyz/
 https://vod1.stream25.com/Zootopia-2-2025-TH.mp4.m3u8
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.today/wp-content/uploads/2021/05/Zootopia-2016.jpg.webp",Zootopia (2016) นครสัตว์มหาสนุก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player77hdfree.xyz/
+https://vdohls.com/p9huqog85nc5lkz/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202605/movie/3b1415f1a34c545e7a929d663868b331.jpg",Swapped (2026) สลับร่างผจญภัย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bbk100.xyz/
