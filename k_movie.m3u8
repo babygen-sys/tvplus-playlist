@@ -19,16 +19,21 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://main.123hd-serie.com/index_th.php?id=6b89a76500e99552777f9e67&backup=0
 
+-----------------------------------------------  kahirihome
+#EXTINF:-1 group-title="Movie" tvg-logo="",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kahirihome.com/
+
 -----------------------------------------------  ezmovie
 #EXTINF:-1 group-title="Movie" tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bbk100.xyz/
 
-
 # ---------------------------------------  แก้ปกไม่แสดง / บริการเว็บ Image Proxy ฟรี เติมคำ ( https://wsrv.nl/?url= )  ไว้ข้างหน้าลิงก์
 
-
 # =======================================================================
+
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/3f5bdf7d228bd1a4cad909096eae88b6.jpg",Shelter (2026) คลั่งนรกหลบตาย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
