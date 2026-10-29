@@ -83,6 +83,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="ช่องทีวีไทย",Nation TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="ช่องทีวีไทย",TNN 16
@@ -773,26 +775,19 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 
-# --------------------------------  ชุดพิเศษ premier
+# --------------------------------  astro 
 
 
 
-# --- MONOMAX 1 ---
-
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 1
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
-https://api.plus-server.sbs/play.php?key=1234&portal=monomax1
-
-# --- MONOMAX 2 ---
-
-#EXTINF:-1 tvg-logo="https://www.playmakerstats.com//img/logos/competicoes/4_imgbank_pl_20250226175331.png" group-title="ช่อง SPORTS - 1",premier 2
-http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
-https://api.plus-server.sbs/play.php?key=1234&portal=monomax2
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",astro football
+https://api.plus-server.sbs/play.php?key=1234&id=1775978&server=_ecdn&source=bontv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ช่อง SPORTS - 1",astro premier league 2 
+https://api.plus-server.sbs/play.php?key=1234&id=1775976&server=_ecdn&source=bontv
 
 
 
 # ----------------------    Setanta
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318" group-title="ช่อง SPORTS - 1", Setanta Sports 1 HD
 #EXTVLCOPT:network-caching=1000
@@ -1141,8 +1136,13 @@ https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://streamcdnb3-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest.mpd
 
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://images.squarespace-cdn.com/content/v1/66b293022eca1a142143bfa3/cb4ec680-fb43-4505-b430-2cfde9b00057/Tennis+Channel+Logo.png",Tennis Channel
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://images.squarespace-cdn.com/content/v1/66b293022eca1a142143bfa3/cb4ec680-fb43-4505-b430-2cfde9b00057/Tennis+Channel+Logo.png",Tennis Channel 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://images.squarespace-cdn.com/content/v1/66b293022eca1a142143bfa3/cb4ec680-fb43-4505-b430-2cfde9b00057/Tennis+Channel+Logo.png",Tennis Channel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=Tennis-Channel
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/tennistv.png" group-title="ช่อง SPORTS - 1",🎾 Tennis TV
 http://49.0.64.96:8007/TENNIS
@@ -1252,6 +1252,9 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 
 
+
+
+# =================================================================== จบ ช่อง SPORTS - 1  ============================================================>
 
 
 
