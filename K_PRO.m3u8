@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 ###<==== ช่องทีวีต่างประเทศ ====>###
 
 
@@ -969,8 +971,13 @@ https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 #EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
 https://streamcdnb3-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest.mpd
 
-#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://images.squarespace-cdn.com/content/v1/66b293022eca1a142143bfa3/cb4ec680-fb43-4505-b430-2cfde9b00057/Tennis+Channel+Logo.png",Tennis Channel
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://images.squarespace-cdn.com/content/v1/66b293022eca1a142143bfa3/cb4ec680-fb43-4505-b430-2cfde9b00057/Tennis+Channel+Logo.png",Tennis Channel 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
+#EXTINF:-1 group-title="ช่อง SPORTS - 1" tvg-logo="https://images.squarespace-cdn.com/content/v1/66b293022eca1a142143bfa3/cb4ec680-fb43-4505-b430-2cfde9b00057/Tennis+Channel+Logo.png",Tennis Channel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=Tennis-Channel
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/babygen-sys/yut@main/tennistv.png" group-title="ช่อง SPORTS - 1",🎾 Tennis TV
 http://49.0.64.96:8007/TENNIS
@@ -1421,8 +1428,13 @@ https://api.dobon168.com/api/stream/channel/vb4/playlist.m3u8?key=kl_9bbe7c7b_37
 #https://api.plus-server.sbs/play.php?key=1234&id=1776208&server=_ecdn&source=bontv
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/True_Tennis.png/revision/latest/scale-to-width-down/284?cb=20240416041723&path-prefix=vi" group-title="ช่อง SPORTS - 2",TRUE TENNIS 
-https://apiflixe.plus-server.sbs/true-ten-live
+#https://apiflixe.plus-server.sbs/true-ten-live
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/True_Tennis.png/revision/latest/scale-to-width-down/284?cb=20240416041723&path-prefix=vi" group-title="ช่อง SPORTS - 2",TRUE TENNIS 
+#EXTVLCOPT:http-referrer=https://warpsport24.si/
+#EXTVLCOPT:http-origin=https://warpsport24.si
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://sp-tr321.com/tennischannel/index.m3u8
 
 
 
@@ -1444,11 +1456,10 @@ http://api.plus-server.sbs/play.php?key=1234&ch=golf2
 
 
 #EXTINF:-1,group-title="ช่อง SPORTS - 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais1.png",Play Sport 1
-#EXTVLCOPT:network-caching=1000
 http://api.plus-server.sbs/play.php?key=1234&ch=ball67_ballthai1
 
+
 #EXTINF:-1,group-title="ช่อง SPORTS - 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ais2.png",Play Sport  2
-#EXTVLCOPT:network-caching=1000
 http://api.plus-server.sbs/play.php?key=1234&ch=ball67_ballthai2
 
 
@@ -1575,311 +1586,60 @@ https://app.ipplaybox.fun/atmflixlive/playsports72/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 02:00 อิปสวิช ทาวน์ พบ น็อตติ้งแฮม ฟอเรสต์
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/1088.png" group-title="ดูสดฟุตบอลลีก",29 ต.ค. 14:45 อดิไลเด้ ยูไนเต็ด พบ Lion City Sailors FC
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19722127
+http://103.245.166.221/dooball66-api.php?id=19862288
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 18:30 แอสตัน วิลล่า พบ แมนเชสเตอร์ซิตี้
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/1088.png" group-title="ดูสดฟุตบอลลีก",29 ต.ค. 17:00 กังวอน พบ Kuching FA
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19722132
+http://103.245.166.221/dooball66-api.php?id=19862279
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 21:00 โคเวนทรี ซิตี้ พบ ฟูแล่ม
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/1088.png" group-title="ดูสดฟุตบอลลีก",29 ต.ค. 17:00 Tampines Rovers พบ Svay Rieng
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19722130
+http://103.245.166.221/dooball66-api.php?id=19862283
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 21:00 อาร์เซนอล พบ เอฟเวอร์ตัน
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/1088.png" group-title="ดูสดฟุตบอลลีก",29 ต.ค. 19:15 Phnom Penh Crown พบ Kitchee
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19722133
+http://103.245.166.221/dooball66-api.php?id=19862266
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 23:30 เชลซี พบ ท็อตแน่ม ฮ็อทสเปอร์
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/1088.png" group-title="ดูสดฟุตบอลลีก",29 ต.ค. 19:15 เซี่ยงไฮ้ กรีนแลนด์ พบ Machida Zelvia
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19722131
+http://103.245.166.221/dooball66-api.php?id=19862271
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 02:00 เดปอร์ติโบ อลาเบส พบ มาลาก้า
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/1088.png" group-title="ดูสดฟุตบอลลีก",29 ต.ค. 19:15 Wofoo Tai Po พบ บีจี ปทุม ยูไนเต็ด
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732652
+http://103.245.166.221/dooball66-api.php?id=19862276
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 19:00 ราโยบาเยกาโน พบ เอลเช่
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/27/27.png" group-title="ดูสดฟุตบอลลีก",30 ต.ค. 02:45 เอฟเวอร์ตัน พบ นิวคาสเซิ่ล ยูไนเต็ด
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732646
+http://103.245.166.221/dooball66-api.php?id=19884063
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 21:15 Racing Santander พบ เอสปันญ่อล
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",30 ต.ค. 00:30 โฟรซิโนเน่ กัลโช่ พบ ยูเอส เลชเช
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732647
+http://103.245.166.221/dooball66-api.php?id=19713536
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 23:30 บาเลนเซีย พบ บิยาร์เรอัล
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",30 ต.ค. 02:45 ฟิออเรนติน่า พบ อตาลันต้า
 #EXTVLCOPT:http-referrer=https://dooball66-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732643
+http://103.245.166.221/dooball66-api.php?id=19713537
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/1064.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 18:00 การท่าเรือ พบ ระยอง
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19764843
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/1064.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 18:30 บุรีรัมย์ ยูไนเต็ด พบ ศรีสะเกษ ยูไนเต็ด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19764842
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/1064.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 19:00 บีจี ปทุม ยูไนเต็ด พบ สิงห์เชียงราย
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19764841
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/1064.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 19:30 ราชบุรีมิตรผล พบ ชลบุรี เอฟซี
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19764840
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 01:45 โตริโน่ พบ มอนซ่า
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713539
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 20:00 โคโม่ พบ ซาสซูโอโล่
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713545
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 20:00 กายารี่ พบ โบโลญญ่า
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713546
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 23:00 นาโปลี พบ โรม่า
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713540
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/18/82.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 01:30 สตุ๊ตการ์ท พบ กลัทบัค
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19735141
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/18/82.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 20:30 เอสซี พาเดอร์บอร์น พบ ฮัมบูร์เกอร์ เอสเฟา
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19735135
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/18/82.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 20:30 โคโลญจน์ พบ ชาลเก้ 04
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19735136
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/18/82.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 20:30 ไมนซ์ 05 พบ แวร์เดอร์เบรเมน
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19735137
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/18/82.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 20:30 เอาก์สบวร์ก พบ ยูเนี่ยน เบอร์ลิน
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19735138
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/18/82.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 20:30 อาร์บี ไลป์ซิก พบ Elversberg
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19735142
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/18/82.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 23:30 โบรุสเซียดอร์ทมุนด์ พบ ไอน์ทรัค แฟร้งค์เฟิร์ต
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19735143
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/11/1067.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 18:00 เกษตรศาสตร์ พบ Satun
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19875890
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/11/1067.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 18:30 สงขลา พบ แพร่ ยูไนเต็ด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19875873
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/11/1067.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 19:00 หนองบัว พิชญ์ พบ มหาสารคาม ยูไนเต็ด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19875811
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/11/1067.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 19:30 อุตรดิตถ์ พบ นครปฐม
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19875782
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/13/301.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 01:45 แบรสต์ พบ นีซ
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19715572
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/23/567.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 01:30 กรานาดา พบ เรอัล บายาโดลิด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19745015
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/23/567.png" group-title="ดูสดฟุตบอลลีก",24 ต.ค. 21:15 เลกาเนส พบ มายอร์กา
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19745014
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 02:00 อัตเลติโกเดมาดริด พบ Deportivo A Coruña
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732650
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 20:00 อัตเลติกเดบิลบาโอ พบ เคตาเฟ่
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732651
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 22:15 เซลต้า บีโก้ พบ เรอัล เบติส
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732649
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/1064.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 18:00 ราษีไศล ยูไนเต็ด พบ อยุธยา ยูไนเต็ด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19764838
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/1064.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 18:00 พีที ประจวบ พบ ทรูแบงค็อก ยูไนเต็ด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19764839
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/1064.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 18:30 ลำพูน วอร์ริเออร์ พบ ปัตตานี
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19764837
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/1064.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 19:00 อุทัยธานี พบ สุโขทัย
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19764836
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 01:45 ลาซิโอ้ พบ ปาร์มากัลโช
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713542
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 18:30 อินเตอร์ พบ ฟิออเรนติน่า
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713543
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 21:00 เจนัว พบ เวเนเซีย
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713544
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 21:00 อตาลันต้า พบ โฟรซิโนเน่ กัลโช่
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713547
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/11/1067.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 18:00 จันทบุรี พบ เชียงใหม่ ยูไรเต็ด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19875724
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/11/1067.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 18:00 กาญจนบุรี พบ ชัยนาท ฮอนบิล
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19875752
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/11/1067.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 18:30 นครราชสีมา มาสด้า พบ พัทยา ยูไนเต็ด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19875697
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/11/1067.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 19:00 ขอนแก่นยูไนเต็ด พบ เมืองเลย ยูไนเต็ด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19875671
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/23/567.png" group-title="ดูสดฟุตบอลลีก",25 ต.ค. 02:00 อัลเมริอา พบ เรอัล โอเบียโด้
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19745021
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",26 ต.ค. 00:30 เรอัลโซซิเอดัด พบ เลบันเต้
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732645
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/20/564.png" group-title="ดูสดฟุตบอลลีก",26 ต.ค. 03:00 บาร์เซโลนา พบ เรอัลมาดริด
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19732648
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",26 ต.ค. 00:00 ยูเอส เลชเช พบ ยูเวนตูส
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713541
-
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/0/384.png" group-title="ดูสดฟุตบอลลีก",26 ต.ค. 02:45 อูดิเนเซ่ พบ มิลาน
-#EXTVLCOPT:http-referrer=https://dooball66-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.245.166.221/dooball66-api.php?id=19713538
 
 
 
@@ -2694,11 +2454,19 @@ https://app.ipplaybox.fun/atmflixlive/playsports77/playlist.m3u8
 https://app.ipplaybox.fun/atmflixlive/truetennis/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logohttps://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.pngpg",skysportstennis
-#EXTVLCOPT:http-referrer=https://warpsport24.si/
-#EXTVLCOPT:http-origin=https://warpsport24.si
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://sp-tr321.com/skysportstennis/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://pps.services.adobe.com/api/profile/D4121EA96512FA890A495E13@AdobeID/image/e997fccc-024b-41df-b43e-50c4756d6710/276",Sky-tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=Sky-Sports-Tennis
+
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://images.squarespace-cdn.com/content/v1/66b293022eca1a142143bfa3/cb4ec680-fb43-4505-b430-2cfde9b00057/Tennis+Channel+Logo.png",Tennis 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด" tvg-logo="https://images.squarespace-cdn.com/content/v1/66b293022eca1a142143bfa3/cb4ec680-fb43-4505-b430-2cfde9b00057/Tennis+Channel+Logo.png",Tennis 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
+https://bee.kesufuk.workers.dev/index.m3u8?id=Tennis-Channel
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="ช่องกีฬาถ่ายทอดสด",SUPER TENNIS 
@@ -2711,6 +2479,7 @@ https://sp-tr321.com/Supertennis/playlist.m3u8
 
 
 # ------------------------------  SUPER TENNIS  live /  streamcdnb manifest 
+
 
 
 
@@ -2891,7 +2660,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/hbo-hd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"group-title="ช่องบันเทิง",HBO HD
@@ -2900,29 +2669,29 @@ https://edge-1.m-fixer.net:8092/stream/ais/hbo-hd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122"group-title="ช่องบันเทิง", HBOHits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/hbohits/master.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305" group-title="ช่องบันเทิง", HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/hbosignature/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/rock-entertainment/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ช่องบันเทิง",ROCK ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/rockaction/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/avidwiki/f/fb/Warner_Bros._Television_2023_%28Alt%29.svg.png" group-title="ช่องบันเทิง",WarnerTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/warnertv/master.m3u8
 
 
@@ -3029,7 +2798,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/discovery/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch209_160_115" group-title="ช่องสารคดี",Discovery
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
@@ -3047,25 +2816,25 @@ https://edge-1.m-fixer.net:8092/stream/ais/asianfoodnetwork/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
 #https://api.plus-server.sbs/play.php?key=1234&id=1776247&server=_ecdn&source=bontv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="ช่องสารคดี",True Xzyte
-https://apiflixe.plus-server.sbs/true-xzyte-a
+#https://apiflixe.plus-server.sbs/true-xzyte-a
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/khongdee.png" group-title="ช่องสารคดี", Khong Dee Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/khongdeethailand/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/THAINEES.png" group-title="ช่องสารคดี", Thainess
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/thainess/master.m3u8
 
 
-#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสาร,Explore SCI 
 
+#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสาร,Explore SCI 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",True Explore Wild
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/afn.png" group-title="ช่องสารคดี",Asian Food Network
+
 
 #EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="ช่องสารคดี",Food Network 
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 9)
@@ -3097,7 +2866,7 @@ https://api.plus-server.sbs/play.php?key=1234&id=1775969&server=_ecdn&source=bon
 #https://app.ipplaybox.fun/atmflixlive/animalshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/animal%20show%20logo.png" group-title="ช่องสารคดี",Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/animalshow/master.m3u8
 
 
@@ -3106,13 +2875,17 @@ https://edge-1.m-fixer.net:8092/stream/ais/animalshow/master.m3u8
 #https://app.ipplaybox.fun/atmflixlive/samrujlok/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/samrujlok/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="ช่องสารคดี",สำรวจโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-2.m-fixer.net/
+https://edge-2.m-fixer.net:8092/stream/ais/samrujlok/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/MySci.png" group-title="ช่องสารคดี",Mysci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/mysci/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/MySci.png" group-title="ช่องสารคดี",Mysci
 #https://apiflixe.plus-server.sbs/Mysci-1
