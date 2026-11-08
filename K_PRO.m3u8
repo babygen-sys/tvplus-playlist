@@ -1589,10 +1589,12 @@ https://app.ipplaybox.fun/atmflixlive/playsports72/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman ball 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doman666c.com/
-https://tsppull.doman666c.com/live/sd-6MwdqMR5bfnvZQkppS.flv
+https://bppull.doman666c.com/live/stream-768691_lhd.flv
 
 #EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman ball 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
@@ -1603,12 +1605,12 @@ https://bppull.doman666c.com/live/stream-796761_lhd.flv
 #EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman ball 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doman666c.com/
-https://hlspull.doman666c.com/live/stream-532872_lsd.m3u8
+https://hlspull.doman666c.com/live/stream-501485_lhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman ball 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doman666c.com/
-https://hlspull.doman666c.com/live/stream-657426_lhd.m3u8
+https://hlspull.doman666c.com/live/stream-597860_lhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman ball 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
@@ -1618,12 +1620,18 @@ https://hlspull.doman666c.com/live/stream-770995_lhd.m3u8
 #EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman ball 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doman666c.com/
-https://hlspull.doman666c.com/live/stream-538903_lhd.m3u8
+https://hlspull.doman666c.com/live/stream-710554_lhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman ball 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doman666c.com/
-https://hlspull.doman666c.com/live/stream-627620_lhd.m3u8
+https://hlspull.doman666c.com/live/stream-597860_lhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://doman666c.com/assets/doomuan/img/logo.png?v=20260810" group-title="ดูสดฟุตบอลลีก", doman ball 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doman666c.com/
+https://bppull.doman666c.com/live/stream-796761_lhd.flv
+#https://hlspull.doman666c.com/live/stream-505723_lhd.m3u8
 
 
 
@@ -1631,33 +1639,47 @@ https://hlspull.doman666c.com/live/stream-627620_lhd.m3u8
 
 
 
-#EXTINF:-1 group-title="ดูสดฟุตบอลลีก" tvg-logo="https://assets.footylogos.com/previews/thai-league-1-logo-footylogos-1200.webp", ไทยลีก 1 sd
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", Ball 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://24goals.com
 #EXTVLCOPT:http-referrer=https://24goals.com/
 https://prowingame345.net/maxsport1/index.m3u8
 #https://sp-tr321.com/maxsport1/index.m3u8
 
-#EXTINF:-1 group-title="ดูสดฟุตบอลลีก" tvg-logo="https://assets.footylogos.com/previews/thai-league-1-logo-footylogos-1200.webp", ไทยลีก 2 sd
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", Ball 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://24goals.com
 #EXTVLCOPT:http-referrer=https://24goals.com/
 https://prowingame345.net/maxsport2/index.m3u8
 #https://sp-tr321.com/maxsport2/index.m3u8
 
-#EXTINF:-1 group-title="ดูสดฟุตบอลลีก" tvg-logo="https://assets.footylogos.com/previews/thai-league-1-logo-footylogos-1200.webp", ไทยลีก 3 sd
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", Ball 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://24goals.com
 #EXTVLCOPT:http-referrer=https://24goals.com/
 https://prowingame345.net/maxsport3/index.m3u8
 #https://sp-tr321.com/maxsport3/index.m3u8
 
-#EXTINF:-1 group-title="ดูสดฟุตบอลลีก" tvg-logo="https://assets.footylogos.com/previews/thai-league-1-logo-footylogos-1200.webp", ไทยลีก 4 sd
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", Ball 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://24goals.com
 #EXTVLCOPT:http-referrer=https://24goals.com/
 https://prowingame345.net/maxsport4/index.m3u8
 #https://sp-tr321.com/maxsport4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", Ball 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://24goals.com
+#EXTVLCOPT:http-referrer=https://24goals.com/
+https://prowingame345.net/maxsport5/index.m3u8
+#https://sp-tr321.com/maxsport5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/047/492/303/non_2x/burning-soccer-ball-isolated-on-transparent-background-png.png" group-title="ดูสดฟุตบอลลีก", Ball 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://24goals.com
+#EXTVLCOPT:http-referrer=https://24goals.com/
+https://prowingame345.net/maxsport6/index.m3u8
+#https://sp-tr321.com/maxsport6/index.m3u8
 
 
 
