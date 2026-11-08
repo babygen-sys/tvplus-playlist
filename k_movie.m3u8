@@ -35,6 +35,26 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/1804803c1c28a5b3d8bdb660beac72d3.jpg",One Year to Live Buy a Man (2026) ซื้อผู้ชาย เพราะอยู่ได้อีกปีเดียว
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/One-Year-to-Live-Buy-a-Man-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/8dd1edd97eb06dc9166c8d02b94459ad.jpg",ผีเข้า (2026) Possessed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Possessed-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/d5125917d5852bdb11485fbb862e6545.jpg",แก๊งโอเวอร์ (2026) Overacting
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Overacting-2026-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/6f21f248f77d138be3f2ae53824a3de9.jpg",นาคี ๓ ครุฑา นาคี (2026) Nakee 3 The Cursed War
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Cursed-War-2026-TH-Version-1.mp4.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/strip/202611/movie/23e939ef68960b567f0ad41bc6dc6f2d.jpg", นาคี ๒ (2018) Nakee 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bbk100.xyz/
