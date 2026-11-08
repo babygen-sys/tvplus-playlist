@@ -2,7 +2,7 @@
 
 # ===================================================================  ช่อง SPORTS - 1  ============================================================>
 
-http://api.plus-server.sbs/play.php?key=1234&ch=mutv
+
 #EXTINF:-1 tvg-id="Barcelona.uk" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png" group-title="ช่อง SPORTS - 1",Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
@@ -14,6 +14,7 @@ https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
 https://bee.kesufuk.workers.dev/index.m3u8?id=MUTV
+#http://api.plus-server.sbs/play.php?key=1234&ch=mutv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s" group-title="ช่อง SPORTS - 1",Real Madrid TV
 #EXTVLCOPT:network-caching=1000
