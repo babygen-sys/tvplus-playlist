@@ -33,7 +33,519 @@
 
 # =======================================================================
 
+
+
+#------------------------------------- เทส ซีรีย์ ************************************
 #EXTM3U
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/f2341a5bf0bf8e7e7c08c51f1d18c267.jpg", EP 1 - วิกฤตวิชั่น VisionQuest (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/VisionQuest-S01E01-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/f2341a5bf0bf8e7e7c08c51f1d18c267.jpg", EP 2 - วิกฤตวิชั่น VisionQuest (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/VisionQuest-S01E02-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/f2341a5bf0bf8e7e7c08c51f1d18c267.jpg", EP 3 - วิกฤตวิชั่น VisionQuest (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/VisionQuest-S01E03-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/f2341a5bf0bf8e7e7c08c51f1d18c267.jpg", EP 4 - วิกฤตวิชั่น VisionQuest (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/VisionQuest-S01E04-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/f2341a5bf0bf8e7e7c08c51f1d18c267.jpg", EP 5 - วิกฤตวิชั่น VisionQuest (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/VisionQuest-S01E05-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/f2341a5bf0bf8e7e7c08c51f1d18c267.jpg", EP 6 - วิกฤตวิชั่น VisionQuest (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/VisionQuest-S01E06-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/f2341a5bf0bf8e7e7c08c51f1d18c267.jpg", EP 7 - วิกฤตวิชั่น VisionQuest (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/VisionQuest-S01E07-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/f2341a5bf0bf8e7e7c08c51f1d18c267.jpg", EP 8 - วิกฤตวิชั่น VisionQuest (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/VisionQuest-S01E08-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 1 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP01-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 2 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP02-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 3 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP03-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 4 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP04-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 5 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP05-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 6 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP06-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 7 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP07-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 8 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP08-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 9 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP09-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 10 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP10-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 11 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP11-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 12 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP12-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 13 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP13-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 14 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP14-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 15 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP15-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 16 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP16-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 17 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP17-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 18 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP18-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 19 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP19-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 20 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP20-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 21 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP21-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 22 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP22-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 23 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP23-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 24 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP24-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 25 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP25-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 26 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP26-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 27 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP27-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 28 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP28-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 29 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP29-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202611/movie/ded152205e92570a314afdb255c94e26.jpg", EP 30 - ปลดหน้ากาก Where the Mask Ends (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Where-the-Mask-Ends-EP30-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/408dfb7786f60edb870b3191ad1b5a88.jpg", EP 1 - งานสนุก จะตาย Dead-End Job (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Dead-End-Job-S01E01-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/408dfb7786f60edb870b3191ad1b5a88.jpg", EP 2 - งานสนุก จะตาย Dead-End Job (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Dead-End-Job-S01E02-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/408dfb7786f60edb870b3191ad1b5a88.jpg", EP 3 - งานสนุก จะตาย Dead-End Job (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Dead-End-Job-S01E03-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/408dfb7786f60edb870b3191ad1b5a88.jpg", EP 4 - งานสนุก จะตาย Dead-End Job (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Dead-End-Job-S01E04-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/408dfb7786f60edb870b3191ad1b5a88.jpg", EP 5 - งานสนุก จะตาย Dead-End Job (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Dead-End-Job-S01E05-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/408dfb7786f60edb870b3191ad1b5a88.jpg", EP 6 - งานสนุก จะตาย Dead-End Job (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Dead-End-Job-S01E06-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/408dfb7786f60edb870b3191ad1b5a88.jpg", EP 7 - งานสนุก จะตาย Dead-End Job (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Dead-End-Job-S01E07-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/408dfb7786f60edb870b3191ad1b5a88.jpg", EP 8 - งานสนุก จะตาย Dead-End Job (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Dead-End-Job-S01E08-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8b84a609a2e7926ae0b25399a89d0dac.jpg", EP 1 - เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซัน 2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Terminal-List-S02E01-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8b84a609a2e7926ae0b25399a89d0dac.jpg", EP 2 - เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซัน 2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Terminal-List-S02E02-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8b84a609a2e7926ae0b25399a89d0dac.jpg", EP 3 - เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซัน 2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Terminal-List-S02E03-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8b84a609a2e7926ae0b25399a89d0dac.jpg", EP 4 - เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซัน 2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Terminal-List-S02E04-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8b84a609a2e7926ae0b25399a89d0dac.jpg", EP 5 - เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซัน 2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Terminal-List-S02E05-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8b84a609a2e7926ae0b25399a89d0dac.jpg", EP 6 - เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซัน 2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Terminal-List-S02E06-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8b84a609a2e7926ae0b25399a89d0dac.jpg", EP 7 - เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซัน 2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Terminal-List-S02E07-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/8b84a609a2e7926ae0b25399a89d0dac.jpg", EP 8 - เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซัน 2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Terminal-List-S02E08-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/33b14d9acc367c8efb933b7fd86928a6.jpg", EP 1 - ด็อกเตอร์เอ็กซ์ Doctor X Mafia in White (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Doctor-X-Mafia-in-White-S01E01-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/33b14d9acc367c8efb933b7fd86928a6.jpg", EP 2 - ด็อกเตอร์เอ็กซ์ Doctor X Mafia in White (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Doctor-X-Mafia-in-White-S01E02-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/33b14d9acc367c8efb933b7fd86928a6.jpg", EP 3 - ด็อกเตอร์เอ็กซ์ Doctor X Mafia in White (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Doctor-X-Mafia-in-White-S01E03-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/33b14d9acc367c8efb933b7fd86928a6.jpg", EP 4 - ด็อกเตอร์เอ็กซ์ Doctor X Mafia in White (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Doctor-X-Mafia-in-White-S01E04-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/33b14d9acc367c8efb933b7fd86928a6.jpg", EP 5 - ด็อกเตอร์เอ็กซ์ Doctor X Mafia in White (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Doctor-X-Mafia-in-White-S01E05-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/33b14d9acc367c8efb933b7fd86928a6.jpg", EP 6 - ด็อกเตอร์เอ็กซ์ Doctor X Mafia in White (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Doctor-X-Mafia-in-White-S01E06-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/33b14d9acc367c8efb933b7fd86928a6.jpg", EP 7 - ด็อกเตอร์เอ็กซ์ Doctor X Mafia in White (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Doctor-X-Mafia-in-White-S01E07-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/33b14d9acc367c8efb933b7fd86928a6.jpg", EP 8 - ด็อกเตอร์เอ็กซ์ Doctor X Mafia in White (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Doctor-X-Mafia-in-White-S01E08-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/43cddcc2f44f135afcff137a901873c6.jpg", EP 1 - พากย์ไทย แลนเทิร์น รวมพลผู้พิทักษ์จักรวาล (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lanterns-S01E01-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/43cddcc2f44f135afcff137a901873c6.jpg", EP 2 - พากย์ไทย แลนเทิร์น รวมพลผู้พิทักษ์จักรวาล (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lanterns-S01E02-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/43cddcc2f44f135afcff137a901873c6.jpg", EP 3 - พากย์ไทย แลนเทิร์น รวมพลผู้พิทักษ์จักรวาล (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lanterns-S01E03-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/43cddcc2f44f135afcff137a901873c6.jpg", EP 4 - พากย์ไทย แลนเทิร์น รวมพลผู้พิทักษ์จักรวาล (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lanterns-S01E04-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/43cddcc2f44f135afcff137a901873c6.jpg", EP 5 - พากย์ไทย แลนเทิร์น รวมพลผู้พิทักษ์จักรวาล (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lanterns-S01E05-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/43cddcc2f44f135afcff137a901873c6.jpg", EP 6 - พากย์ไทย แลนเทิร์น รวมพลผู้พิทักษ์จักรวาล (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lanterns-S01E06-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/43cddcc2f44f135afcff137a901873c6.jpg", EP 7 - พากย์ไทย แลนเทิร์น รวมพลผู้พิทักษ์จักรวาล (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lanterns-S01E07-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/43cddcc2f44f135afcff137a901873c6.jpg", EP 8 - พากย์ไทย แลนเทิร์น รวมพลผู้พิทักษ์จักรวาล (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lanterns-S01E08-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/24f06358ad8d16116a440af45edcdfda.jpg", EP 1 - มันซ่อนอยู่ใต้น้ำลึก Below (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Below-S01E01-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/24f06358ad8d16116a440af45edcdfda.jpg", EP 2 - มันซ่อนอยู่ใต้น้ำลึก Below (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Below-S01E02-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/24f06358ad8d16116a440af45edcdfda.jpg", EP 3 - มันซ่อนอยู่ใต้น้ำลึก Below (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Below-S01E03-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/24f06358ad8d16116a440af45edcdfda.jpg", EP 4 - มันซ่อนอยู่ใต้น้ำลึก Below (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Below-S01E04-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/24f06358ad8d16116a440af45edcdfda.jpg", EP 5 - มันซ่อนอยู่ใต้น้ำลึก Below (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Below-S01E05-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/24f06358ad8d16116a440af45edcdfda.jpg", EP 6 - มันซ่อนอยู่ใต้น้ำลึก Below (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Below-S01E06-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 1 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E01-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 2 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E02-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 3 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E03-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 4 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E04-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 5 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E05-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 6 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E06-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 7 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E07-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 8 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E08-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 9 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E09-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202609/movie/59e7b3edcce5d62d716b642ad3f08476.jpg", EP 10 - โปรดอย่าลองดี วันนี้พี่รวย The Ordinary Jackpot (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/The-Ordinary-Jackpot-S01E10-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/97e0abe78151ec9ee75db3c08eccfdd7.jpg", EP 1 - แครี่ สาวสยอง Carrie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Carrie-S01E01-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/97e0abe78151ec9ee75db3c08eccfdd7.jpg", EP 2 - แครี่ สาวสยอง Carrie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Carrie-S01E02-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/97e0abe78151ec9ee75db3c08eccfdd7.jpg", EP 3 - แครี่ สาวสยอง Carrie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Carrie-S01E03-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/97e0abe78151ec9ee75db3c08eccfdd7.jpg", EP 4 - แครี่ สาวสยอง Carrie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Carrie-S01E04-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/97e0abe78151ec9ee75db3c08eccfdd7.jpg", EP 5 - แครี่ สาวสยอง Carrie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Carrie-S01E05-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/97e0abe78151ec9ee75db3c08eccfdd7.jpg", EP 6 - แครี่ สาวสยอง Carrie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Carrie-S01E06-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/97e0abe78151ec9ee75db3c08eccfdd7.jpg", EP 7 - แครี่ สาวสยอง Carrie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Carrie-S01E07-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202610/movie/97e0abe78151ec9ee75db3c08eccfdd7.jpg", EP 8 - แครี่ สาวสยอง Carrie (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Carrie-S01E08-tha.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/5ca43eca67d724d952e0c34ad6c15a95.jpg", EP 1 - Lucky (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lucky-S01E01-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/5ca43eca67d724d952e0c34ad6c15a95.jpg", EP 2 - Lucky (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lucky-S01E02-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/5ca43eca67d724d952e0c34ad6c15a95.jpg", EP 3 - Lucky (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lucky-S01E03-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/5ca43eca67d724d952e0c34ad6c15a95.jpg", EP 4 - Lucky (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lucky-S01E04-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/5ca43eca67d724d952e0c34ad6c15a95.jpg", EP 5 - Lucky (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lucky-S01E05-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/5ca43eca67d724d952e0c34ad6c15a95.jpg", EP 6 - Lucky (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lucky-S01E06-sub.mp4.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/5ca43eca67d724d952e0c34ad6c15a95.jpg", EP 7 - Lucky (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bbk100.xyz/
+https://vod1.stream25.com/Lucky-S01E07-sub.mp4.m3u8
+
+
+
+======================================================================
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.today/wp-content/uploads/2026/10/The-Rules-2026-e1793242325257.webp",กฎหลังเที่ยงคืน EP.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
