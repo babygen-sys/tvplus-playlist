@@ -42,10 +42,22 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/play
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/amarin.png" group-title="ช่องทีวีไทย",Amarin TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/amarin.png" group-title="ช่องทีวีไทย",Amarin TV
+#EXTVLCOPT:http-user-agent=libmpv
+#http://3bb.engatetv.com:25461/live/hstn/line/19.m3u8
+
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-thairath.png" group-title="ช่องทีวีไทย",Thairath TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-thairath.png" group-title="ช่องทีวีไทย",Thairath TV
+#EXTVLCOPT:http-user-agent=libmpv
+#http://3bb.engatetv.com:25461/live/hstn/line/17.m3u8
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="ช่องทีวีไทย",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
@@ -743,7 +755,5 @@ https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="ช่องทีวีต่างประเทศ",AXStv
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
-
-
 
 
