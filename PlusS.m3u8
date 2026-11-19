@@ -42,10 +42,22 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/play
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/amarin.png" group-title="ช่องทีวีไทย",Amarin TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/amarin.png" group-title="ช่องทีวีไทย",Amarin TV
+#EXTVLCOPT:http-user-agent=libmpv
+#http://3bb.engatetv.com:25461/live/hstn/line/19.m3u8
+
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-thairath.png" group-title="ช่องทีวีไทย",Thairath TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-thairath.png" group-title="ช่องทีวีไทย",Thairath TV
+#EXTVLCOPT:http-user-agent=libmpv
+#http://3bb.engatetv.com:25461/live/hstn/line/17.m3u8
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="ช่องทีวีไทย",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
@@ -763,7 +775,13 @@ https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 1",MUTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
-https://bee.kesufuk.workers.dev/index.m3u8?id=MUTV
+#https://bee.kesufuk.workers.dev/index.m3u8?id=MUTV
+
+#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 1",MUTV 
+#EXTVLCOPT:http-origin=https://www.pdtvhd.com
+#EXTVLCOPT:http-referrer=https://www.pdtvhd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+https://live.pdtvhd.com/hls/MUTV.m3u8
 
 http://api.plus-server.sbs/play.php?key=1234&ch=mutv
 #EXTINF:-1 tvg-id="Barcelona.uk" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png" group-title="ช่อง SPORTS - 1",Top Barça
@@ -1190,8 +1208,11 @@ http://23.237.104.106:8080/DAZN_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s2t764zpvom87qwkarmh" group-title="ช่อง SPORTS - 1",NFL-Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#https://api.plus-server.sbs/play.php?key=1234&portal=_tbtv&mac_id=115742
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
-https://bee.kesufuk.workers.dev/index.m3u8?id=NFL-Network
+https://bee.kesufuk.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nPgrB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=NFL-Network
+
+
 
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png" group-title="ช่อง SPORTS - 1",🏀 NBA TV 
 http://49.0.64.96:8007/NBA
@@ -1199,12 +1220,11 @@ http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYiCq7O9BxWfASh4t5FbCYi7462060nOGOpPWBmljfw&s=10" group-title="ช่อง SPORTS - 1",MLB-Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
-https://bee.kesufuk.workers.dev/index.m3u8?id=MLB-Network
+https://bee.kesufuk.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nPgrB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=MLB-Network
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1280px-NHL_Network_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ช่อง SPORTS - 1",NHL-Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net/
-https://bee.kesufuk.workers.dev/index.m3u8?id=NHL-Network
+https://bee.kesufuk.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nPgrB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=NHL-Network
 
 #EXTINF:-1 tvg-logo="https://www.worldfishingnetwork.com/network/img/wfn/logo.png" group-title="ช่อง SPORTS - 1",World-Fishing-Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -1252,9 +1272,6 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 
 
-
-
-# =================================================================== จบ ช่อง SPORTS - 1  ============================================================>
 
 
 
